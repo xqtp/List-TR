@@ -1,92 +1,12 @@
-##.nativeWidget
-###mPlayerFd
-##.empower-ad
-##.yatayReklam
-##.empower
-###footer_fad
-##.reklam-metin
-##.kanews_widget_ads
-##.kanews-banner
-##.mi-rgb
-##.reklam-orta
-##.zfc-ads
-##.xgt-Banner-Kutusu
-##.blok-reklam
-##.stnz_reklam_blok
-##.yatayReklam
-##.dikReklam160
-##.konuiciReklam
-###acilisreklam
-##.sagyan_reklam
-##.ortaKategori1Reklam
-##.virgul-ad
-##.reklam-sol
-##.reklam-sag
-###reklam-sol
-###reklam-sag
-##.fixedAd
-##.adm-ads-area
-##.ads630
-##.ads640
-##.genelReklamCon
-##.rek-wrap
-##.ad-placement-area
 ##a.yildiz-pageskin-link
-##a[href*="admost.com/adx/"]
-##a[href*="adsrv.eacdn.com"][rel="nofollow"]
-##a[href*="bbelements.com/please/track/adClick/"]
-##a[href*="canlisexsohbeti.org"] > img
-##a[href*="dotabet"][href*=".com"] > img
-##a[href*="downads.com/yeni/roketindir.php"]
-##a[href*="med4ad.com/adv/"]
-##a[href*="megabatorturkiyebay"] > img
-##a[href*="penisbuyutucu"] > img
-##a[href*="seriouslove.club"] > img
-##a[href*="sporx.com/rdrct.php"][target="_blank"]
-##a[href*="/earn.php?zone"][target="_blank"] > img
-##a[href*="//track.bcvc.mobi/earn.php"]
-##a[href^="https://kingredirect.com/redirect/v2/?ads="]
-##a[href^="https://kingyonlendir.link/redirect/v2/?ads="]
-##a[href^="https://record.commissionlounge.com/"]
-##a[href^="http://adserver.advrstcdn.com/getad.php"]
-##a[href^="http://adserv.ontek.com.tr/"]
 ##a[href^="http://ad.donanimhaber.com"]
-##a[href^="http://izlenzi.com/campaign/"]
-##a[href^="http://record.commissionlounge.com"]
-##a[href^="http://tfp.sapphirum.com/ref?"]
-##a[href^="http://www.installads.net/"]
-##a[href^="http://www.installadz.com/indir.php"]
-##a[href^="tel:00"] > img
-##a[href^="tel:00"][style*="color:"][rel="nofollow"]
-##a[target="_blank"] > img[alt^="banner"][src*=".gif"]
-##body > div#footerFixedDiv
-##body > div#pageskin
-##body > div#pageskin_ayd
-##body > div.pageskin
-##body > div.pgskn
-##body > div.pskinRekLam
-##body > div[class="toolbar"][style]
-##body > div[id="toolbar"][style]
-##body > #pageskin
-##body > #rb_300:not([class])
-##div.koddostu-splash.reklam-s-koddostu#amans
-##div[class^="ad-1000x"]
-##div[class^="bireklam"]
-##div[class^="gogads"]
 ##div[class^="reklam_"]
 ##div[class^="r_filmvideo-"]
 ##div[class^="sag-reklam"]
-##div[class^="vSagReklam-"]
 ##div[data-advert="temedya"]
-##div[id^="b-banner"]
 ##div[id^="floatLayer"]
 ##div[id^="kayan_reklam"]
-##div[id^="toolbarr"]
-##img[alt="jigolo"]
-##img[alt="seks shop"]
-##img[src][alt="bazuka"]
-##img[title="similars powered by maxad"]
-##ins[id^="rkm-par-"].rkm.par-ad
+###acilisreklam
 ###adsbyio
 ###adStarter
 ###alt_kayan_reklam
@@ -95,7 +15,7 @@
 ###backgroundPopup
 ###backkapat
 ###bannerbuyuk
-###betreklam
+###footer_fad
 ###haber_ustu_reklam
 ###kayan_reklam
 ###kayan_reklamsag
@@ -103,6 +23,7 @@
 ###kayan_reklam_sol
 ###leftreklam1div
 ###leftreklam2div
+###mPlayerFd
 ###otoreklam
 ###PopWin
 ###prestitial_banner
@@ -116,51 +37,50 @@
 ###reklamikapat
 ###reklamlar
 ###reklamm
+###reklam-sag
+###reklam-sol
 ###reklam_sol
 ###sagreklam
 ###solreklam
 ###sol_kayan_reklam
 ###sreklam
-###toolbar[style*="opacity: 1"][style*="99999"]
 ###top-banner
 ###UstReklam
 ###ustReklam
 ###ustreklam
-###ustreklamlar
-###ust_ara_reklam
-###video_player + #after-video
-##.adnet
+##.adm-ads-area
 ##.adpro
-##.adsindirim
-##.adsortalaindirim
+##.ads630
+##.ads640
 ##.adsVideo
+##.ad-placement-area
 ##.arkaplanreklam
 ##.banner300x250
 ##.banneralan
 ##.bannerkucuk
-##.banner_logo_top
 ##.bey-video-reklam
+##.blok-reklam
 ##.detayreklam
 ##.dikeyreklam
-##.first-notification#nogay-notf
-##.flash_aciklama
+##.dikReklam160
+##.empower
+##.empower-ad
+##.fixedAd
 ##.frontendAd
-##.hizalanmis > div[class^="box"] > .fra
-##.intbetads-FIX
+##.genelReklamCon
 ##.img_position_left
-##.ivr > a > img
-##.ivr-reklam
-##.kanalustureklam
+##.kanews-banner
+##.kanews_widget_ads
+##.konuiciReklam
 ##.medyanet-inline-adv
+##.mi-rgb
 ##.mst_ad
-##.nogay-fixed-bottom-bar
-##.nogay-fixed-top-bar
+##.nativeWidget
 ##.nokta-display-ad
+##.ortaKategori1Reklam
 ##.ortaReklam
 ##.pageskin div[class^="r_reklam_"]
 ##.playerinads
-##.pmt-ad
-##.Reklam_001
 ##.reklam1
 ##.reklam300
 ##.reklam728x90
@@ -170,7 +90,6 @@
 ##.reklamKodu
 ##.reklamKodu3
 ##.reklamlar
-##.reklamoynama
 ##.reklamSag
 ##.reklamUst
 ##.reklamyatay
@@ -178,10 +97,15 @@
 ##.reklam-645x90
 ##.reklam-alani
 ##.reklam-alt-sabit
+##.reklam-metin
+##.reklam-orta
+##.reklam-sag
+##.reklam-sol
+##.Reklam_001
 ##.reklam_300_250
 ##.reklam_300x250
 ##.reklam_728_90
-##.reklam_a
+##.rek-wrap
 ##.rek_300x350
 ##.rkads
 ##.rkm
@@ -189,6 +113,7 @@
 ##.rk-300
 ##.sagkulereklam
 ##.sagReklam300x250
+##.sagyan_reklam
 ##.sag_reklam
 ##.sag_reklam_160x600
 ##.saniyereklam
@@ -198,17 +123,16 @@
 ##.splash-banner
 ##.splash-popup
 ##.splash-reklam
-##.sRightAdSpace
+##.stnz_reklam_blok
 ##.st_ad
-##.telefon-reklam
 ##.tepebanner
-##.textrek
 ##.topReklam
-##.trgoolreklam
 ##.ustOrtaSolReklam
 ##.ustReklam
-##.watch_video > center > a[rel="nofollow"] > img
+##.virgul-ad
 ##.widget-advert.text-center.my-3
+##.xgt-Banner-Kutusu
+##.yatayReklam
 ##.yatay-reklam
-##.yediyuzads
 ##.yenireklam
+##.zfc-ads
