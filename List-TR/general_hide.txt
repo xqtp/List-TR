@@ -54,6 +54,7 @@
 ##img[src][alt="bazuka"]
 ##img[title="similars powered by maxad"]
 ##ins[id^="rkm-par-"].rkm.par-ad
+###adsbyio
 ###adStarter
 ###alt_kayan_reklam
 ###alt_reklam
