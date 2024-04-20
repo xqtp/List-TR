@@ -1,3 +1,4 @@
+##.ad-placement-area
 ##a.yildiz-pageskin-link
 ##a[href*="admost.com/adx/"]
 ##a[href*="adsrv.eacdn.com"][rel="nofollow"]
