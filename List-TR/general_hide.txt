@@ -54,6 +54,7 @@
 ##.ads640
 ##.adsVideo
 ##.ad-placement-area
+##.all-header-reklam
 ##.arkaplanreklam
 ##.banner300x250
 ##.banneralan
@@ -68,12 +69,15 @@
 ##.fixedAd
 ##.frontendAd
 ##.genelReklamCon
+##.haber-detay-reklam
 ##.img_position_left
 ##.kanews-banner
 ##.kanews_widget_ads
 ##.konuiciReklam
+##.leftr
 ##.medyanet-inline-adv
 ##.mi-rgb
+##.mid-rek
 ##.mst_ad
 ##.nativeWidget
 ##.nokta-display-ad
@@ -81,6 +85,7 @@
 ##.ortaReklam
 ##.pageskin div[class^="r_reklam_"]
 ##.playerinads
+##.rek
 ##.reklam1
 ##.reklam300
 ##.reklam728x90
@@ -107,6 +112,9 @@
 ##.reklam_728_90
 ##.rek-wrap
 ##.rek_300x350
+##.righttr
+##.rk.des-g
+##.rk.mobile-gizle
 ##.rkads
 ##.rkm
 ##.rkm-outer
