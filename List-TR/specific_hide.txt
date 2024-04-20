@@ -81,6 +81,8 @@ sikayetvar.com##.promo-banner
 teknoseyir.com##.tepe_reklam
 tgrthaber.com.tr,mavikadin.com##.advert-desktop
 tgrthaber.com.tr,mavikadin.com##div[id^="dfp-kare"]
+tourmag.com.tr##.elementor-widget-image
+tourmag.com.tr##.widget_media_image
 trthaber.com##.masthead-ads-container
 turkiyegazetesi.com.tr###dfp-detail-kare-container
 turkiyegazetesi.com.tr###dfp-kare-1
