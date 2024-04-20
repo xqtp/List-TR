@@ -1,3 +1,4 @@
+##.nativeWidget
 ###mPlayerFd
 ##.empower-ad
 ##.yatayReklam
