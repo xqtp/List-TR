@@ -41,7 +41,7 @@ gelirkapisi.com##div[id^="ad_"]
 haberturk.com##.adv-news
 haberturk.com##.pageskin
 haberturk.com,yasemin.com##.masthead-top
-havadurumu15gunluk.xyz,havadurumu15gunluk.org##.ads_row
+havadurumu15gunluk.xyz##.ads_row
 hepsiburada.com##div[id^="Advertisement_"]
 iha.com.tr,mavikadin.com,tgrthaber.com.tr,turkiyegazetesi.com.tr##div[id^="widget_General_Advert_"]
 itemci.com##.banner-effect
