@@ -200,6 +200,7 @@
 ||policycounsel.org^$popup
 ||pophit.net^$third-party
 ||powferads.com^$third-party
+||programattik.com^$third-party
 ||publisher-network.com^$third-party
 ||r20.club^$third-party
 ||realhumandeals.com^
