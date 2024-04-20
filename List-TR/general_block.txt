@@ -2,6 +2,7 @@
 .com/rek/
 .com/rklm/
 .com.tr/banner/
+/img/rek/
 .net/rklm/
 .tr/ads/
 /d/banner/*
