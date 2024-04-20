@@ -22,6 +22,7 @@
 ||adn.bursadabugun.com^
 ||adon.io^$third-party
 ||adpozitif.com^$third-party
+||adql2.yapi.com.tr^
 ||adrazzi.com^$third-party
 ||adreda.com^$third-party
 ||adrequests.com^$third-party
