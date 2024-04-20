@@ -1,3 +1,5 @@
+81haber.com##.widget_custom_html
+81haber.com##.sadx
 ahaber.com.tr,apara.com.tr,aspor.com.tr,fotomac.com.tr,sabah.com.tr,takvim.com.tr,yeniasir.com.tr##.bandReklam
 ahaber.com.tr,aspor.com.tr,atv.com.tr,atvavrupa.tv,esquire.com.tr,fotomac.com.tr,harpersbazaar.com.tr,paradergi.com.tr,sabah.com.tr,sofra.com.tr,takvim.com.tr,yeniasir.com.tr##.billBoardFrame
 altin.in###ustR
