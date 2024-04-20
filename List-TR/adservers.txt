@@ -1,10 +1,4 @@
-://r.reklam*.com^$third-party
-://say.ac^$third-party
-://sportframe*.cfd^$third-party,image
-://sportframe*.co^$third-party
-://sportframe*.org^$third-party
 ||61ads.net^
-||88.150.149.92/~cosiker/$third-party
 ||adbetnetwork.com^$third-party
 ||adbetnet.com^$third-party
 ||adbreak.cubecdn.net^$third-party
@@ -59,13 +53,11 @@
 ||advoly.com^$third-party
 ||adwods.com^$third-party
 ||adzbaba.com^$third-party
-||ad*.bilgin.pro^
-||ad*.tmgrup.com.tr^$third-party
+||ad-cdn.bilgin.pro^
+||ad01.tmgrup.com.tr^
 ||ad.dline.com.tr^
 ||ad.donanimhaber.com^
 ||ad.eglenced.com^
-||ad.hepsiburada.com^
-||ad.ntvmsnbc.com^
 ||ad.reklamport.com^$third-party
 ||ad.reklm.com^
 ||ad.reyazilim.com^
@@ -88,7 +80,6 @@
 ||aspartos.com^$all
 ||aybereklam.com^
 ||a.doganburda.com^
-||bahisciler.co^$third-party
 ||bambarmedia.com^$third-party
 ||banners.tempobet.com^
 ||banner.kanald.com.tr^
@@ -118,9 +109,7 @@
 ||cryptosmoke.care^$third-party
 ||ctru.net/adv_hash
 ||d1d8vn0fpluuz7.cloudfront.net^
-||d2pspvbdjxwkpo.cloudfront.net^
 ||d8c5y8fq3znwi.cloudfront.net^
-||derya.com^$script,third-party
 ||diken.xyz^
 ||dmcdn.yieldbird.com^$third-party
 ||dogus-ads-cdn.dygdigital.com^$third-party
@@ -162,7 +151,6 @@
 ||kingads.mobi^$third-party
 ||kriptoparahaber.care^
 ||kurulum.xyz^$third-party
-||launchingonsetwhirlwind.com^
 ||likevertising.com^
 ||load.sumome.com^$third-party
 ||makroo.com^$third-party
@@ -186,7 +174,6 @@
 ||numarabiz.com/scr^$third-party
 ||numarapaneli.com^$third-party
 ||nutga.com^$third-party
-||partnerad.l.google.com^
 ||partners.betbooaffiliates.com^
 ||partnerx.bethub.io^$all
 ||partner.superbahisaffiliates*.com^
@@ -233,7 +220,6 @@
 ||rek.yemlee.com^$third-party
 ||reviveservers.com^$third-party
 ||revotas.com^$third-party
-||rotorfon.go-prod.dogt.xyz^
 ||r.yabancidizi.in^
 ||salutationcheerlessdemote.com^
 ||savoy.cubecdn.net^
@@ -245,7 +231,6 @@
 ||smrtbnr.com^
 ||smrtbnr.info^
 ||srvd2204.com^
-||stairtuy.com^$third-party
 ||static-ads.akamaized.net^
 ||storj.cloud^
 ||sw1block.com^$third-party
