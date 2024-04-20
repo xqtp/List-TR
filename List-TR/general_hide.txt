@@ -96,6 +96,7 @@
 ###ust_ara_reklam
 ###video_player + #after-video
 ##.adnet
+##.adpro
 ##.adsindirim
 ##.adsortalaindirim
 ##.adsVideo
@@ -112,6 +113,7 @@
 ##.frontendAd
 ##.hizalanmis > div[class^="box"] > .fra
 ##.intbetads-FIX
+##.img_position_left
 ##.ivr > a > img
 ##.ivr-reklam
 ##.kanalustureklam
@@ -124,6 +126,7 @@
 ##.pageskin div[class^="r_reklam_"]
 ##.playerinads
 ##.pmt-ad
+##.Reklam_001
 ##.reklam1
 ##.reklam300
 ##.reklam728x90
@@ -159,6 +162,7 @@
 ##.solkulereklam
 ##.sol_reklam_160x600
 ##.splash-banner
+##.splash-popup
 ##.splash-reklam
 ##.sRightAdSpace
 ##.st_ad
