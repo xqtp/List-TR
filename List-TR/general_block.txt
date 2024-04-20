@@ -1,3 +1,4 @@
+/s/dosya/reklam/
 /ad-zones.js
 .com/rek/
 .com/rklm/
