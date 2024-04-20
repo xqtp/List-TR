@@ -1,5 +1,6 @@
 /ad-zones.js
 .com/rek/
+.com/rklm/
 .com.tr/banner/
 .net/rklm/
 .tr/ads/
