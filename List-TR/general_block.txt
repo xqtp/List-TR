@@ -7,7 +7,7 @@
 /_video_onu_yeni.php?$~third-party,subdocument
 /ad-zones.js
 /d/banner/*
-/files/uploads/advert/
+/files/uploads/advert/*
 /img/rek/
 /reklam-$image,script,domain=~donanimhaber.com
 /reklamlar.
