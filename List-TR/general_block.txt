@@ -9,7 +9,6 @@
 /d/banner/*
 /files/uploads/advert/
 /img/rek/
-/modules/adblock/
 /reklam-$image,script,domain=~donanimhaber.com
 /reklamlar.
 /reklamlar/*
