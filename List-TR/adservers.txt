@@ -153,7 +153,6 @@
 ||kriptoparahaber.care^
 ||kurulum.xyz^$third-party
 ||likevertising.com^
-||load.sumome.com^$third-party
 ||makroo.com^$third-party
 ||makroo.haber7.net^
 ||makroo.kanal7-cdn.com^
