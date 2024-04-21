@@ -191,6 +191,7 @@
 ||powferads.com^$third-party
 ||programattik.com^$third-party
 ||publisher-network.com^$third-party
+||qushad.com^
 ||r20.club^$third-party
 ||realhumandeals.com^
 ||redsurf.ru/bn/$third-party
