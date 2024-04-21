@@ -155,6 +155,8 @@
 ||likevertising.com^
 ||load.sumome.com^$third-party
 ||makroo.com^$third-party
+||makroo.haber7.net^
+||makroo.kanal7-cdn.com^
 ||mediapeartree.com^$third-party
 ||medyanative.com^$third-party
 ||metrics34.com^$third-party
@@ -163,7 +165,7 @@
 ||mobilpop.com^$third-party
 ||mobilup.com^$third-party
 ||mobon.com^$third-party
-||mp.subservis.com^$third-party
+||mp.subservis.com^
 ||mynativeads.com^$third-party
 ||my.urdreama.cfd^$third-party
 ||n69adserv.com^$third-party
