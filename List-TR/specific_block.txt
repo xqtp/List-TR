@@ -59,7 +59,6 @@
 ||kutahyaekspres.com/wp-content/uploads/*/ReklamAlan*.jpg
 ||labmedya.com/*/bannerlar/
 ||log.com.tr/bannerkit/
-||makroo.haber7.net/creative/makroo-hb.js
 ||malatyam.com/dosya/*reklam
 ||media.dunyabulteni.net/banner/
 ||media.gelirortaklari.com/brand
