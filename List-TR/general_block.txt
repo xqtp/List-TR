@@ -15,7 +15,7 @@
 /reklamm.js
 /reklamresimleri/*
 /resim/ad/
-/s/dosya/reklam/
+/s/dosya/reklam/*
 /service/advertchannels
 /thumb.php?src=*/images/banner/*
 /video_onu_yeni.php?$~third-party,subdocument
