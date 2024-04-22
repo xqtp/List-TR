@@ -32,7 +32,7 @@ ehliyettestleri.com,testlericoz.com##.ortala
 ehliyettestleri.com,testlericoz.com##.yazialtireklam
 evrimagaci.org,wmaraci.com##.ads-container
 forum.donanimhaber.com###trend-link
-forum.donanimhaber.com##.dhorta > .kl-ustu
+forum.donanimhaber.com##.kl-ustu
 forum.donanimhaber.com##.tag-ad
 forum.donanimhaber.com##.yazilim-sponsor
 forum.donanimhaber.com##[class^="DH-Reklam-"]
