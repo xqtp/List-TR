@@ -4,7 +4,6 @@
 .net/rklm/
 .tr/ads/
 /Thumbs/A_dvertisement/*
-/_video_onu_yeni.php?$~third-party,subdocument
 /ad-zones.js
 /d/banner/*
 /files/uploads/advert/*
@@ -18,6 +17,5 @@
 /s/dosya/reklam/*
 /service/advertchannels
 /thumb.php?src=*/images/banner/*
-/video_onu_yeni.php?$~third-party,subdocument
 /wp-content/uploads/*/hareketli.gif
 /wp-content/uploads/*_reklam.
