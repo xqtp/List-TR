@@ -84,6 +84,7 @@ sikayetvar.com##.promo-banner
 teknoseyir.com##.tepe_reklam
 tgrthaber.com.tr,mavikadin.com##.advert-desktop
 tgrthaber.com.tr,mavikadin.com##div[id^="dfp-kare"]
+themagger.com##.bus-bnr-block
 tourmag.com.tr##.elementor-widget-image
 tourmag.com.tr##.widget_media_image
 trthaber.com##.masthead-ads-container
