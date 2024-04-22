@@ -1,0 +1,16 @@
+festtravel.com#@##top-banner
+hepsinefis.com#@#.vertical-ads
+horseturk.com#@#.reklam
+neskici.com#@##reklam
+otomobilteknoloji.blogspot.com#@#.vertical-ads
+oyunmodlari.com#@#.reklam
+sagligabiradim.com#@#.ad-desktop
+silahilanlari.com#@##adslider
+themagger.com#@#.post-sponsored
+trlyrics.com#@#.reklam
+@@//store.donanimhaber.com/ad/*$domain=forum.donanimhaber.com
+@@||google.com.tr/ads/publisher/partners/static/*/index.min.$domain=google.com.tr
+@@||sihirlitur.com/otomobil/reklamlar
+@@||trakel.org/*/image_resize.php?ad=
+@@||trakus.org/*/image_resize.php?ad=
+@@||tramem.org/*/image_resize.php?ad=
