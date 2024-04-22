@@ -1,12 +1,12 @@
 @@||exxen.com^$generichide
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=exxen.com
-exxen.com#%#//scriptlet('set-constant', 'eyeOfErstream.detectedBloke', 'falseFunc')
+exxen.com##+jsscriptlet('set-constant', 'eyeOfErstream.detectedBloke', 'falseFunc')
 huawei-turkiye.com##.XGT-AdBlock-Govde
-karnaval.com#%#//scriptlet("set-constant", "adblock_active", "false")
-r10.net#%#//scriptlet('abort-on-property-read', 'rTargets')
-r10.net#%#//scriptlet('abort-on-property-write', 'rInt')
-sinnerclownceviri.com#%#//scriptlet('prevent-setTimeout', 'AdBlock')
-sinnerclownceviri.com#%#//scriptlet('prevent-setTimeout', 'offsetParent')
+karnaval.com##+jsscriptlet("set-constant", "adblock_active", "false")
+r10.net##+jsscriptlet('abort-on-property-read', 'rTargets')
+r10.net##+jsscriptlet('abort-on-property-write', 'rInt')
+sinnerclownceviri.com##+js(no-setTimeout-if, AdBlock)
+sinnerclownceviri.com##+js(no-setTimeout-if, offsetParent)
 sinnerclownceviri.com#@#.reklam
 themagger.com##.adg-fixed
 ||merlininkazani.com/js/abdetector.script.min.js
