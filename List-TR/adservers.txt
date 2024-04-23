@@ -43,7 +43,6 @@
 ||ads.pivol.net^
 ||ads.sondakika.com^
 ||ads.web.tr^$third-party
-||adwods.com^$third-party
 ||adzbaba.com^$third-party
 ||ad-cdn.bilgin.pro^
 ||ad01.tmgrup.com.tr^
@@ -89,21 +88,16 @@
 ||clinicsofturkey.com/attachment/$third-party
 ||contema.ru^$third-party
 ||cryptosmoke.care^$third-party
-||ctru.net/adv_hash
 ||d1d8vn0fpluuz7.cloudfront.net^
 ||d8c5y8fq3znwi.cloudfront.net^
 ||diken.xyz^
 ||dmcdn.yieldbird.com^$third-party
 ||dogus-ads-cdn.dygdigital.com^$third-party
 ||dolarkurum.com^
-||dosya.host/banners/
-||downads.com^$third-party
 ||dzypro.xyz^
 ||engageya.com^$third-party
-||fcdn.webme.com/selfpromotion.php
 ||files.pbgiris.com^$third-party
 ||finema-net.cdn.ampproject.org^$third-party
-||finema.net^$third-party
 ||finvest.care^$third-party
 ||fvbaffiliate.com^$third-party
 ||genelajans.com^$third-party
@@ -143,7 +137,6 @@
 ||partners.betbooaffiliates.com^
 ||partnerx.bethub.io^$all
 ||partner.superbahisaffiliates*.com^
-||performancenative.com^$third-party
 ||permato.com^$third-party
 ||piaads.com^$third-party
 ||pigeoon.com^$third-party
@@ -168,7 +161,6 @@
 ||reklamnative.com^$third-party
 ||reklamstore.com^$third-party
 ||reklamstore.cubecdn.net^
-||reklamtrk.com^$third-party
 ||reklam.arabul.com^
 ||reklam.emlakkulisi.com^
 ||reklam.memurlar.net^
@@ -196,7 +188,6 @@
 ||storj.cloud^
 ||tagon.co^$third-party
 ||tagsadvancenative-glb8iionio2cozc.netdna-ssl.com^
-||tarpitbar.com^$popup
 ||theadx.com^$third-party
 ||threedrive.su^$third-party
 ||trackocean.com^$third-party
