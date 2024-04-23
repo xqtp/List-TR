@@ -82,7 +82,6 @@
 ||bwcdn.xyz^$third-party
 ||bwtsrv.com^$third-party
 ||campaign.nmobs.com^
-||cdn.eksiup.com^
 ||cdn.klasseo.com^$third-party
 ||cdn.smartclick.io^$third-party
 ||clbanners9.com^$all
