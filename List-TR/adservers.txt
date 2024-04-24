@@ -71,7 +71,6 @@
 ||banners.tempobet.com^
 ||banner.kanald.com.tr^
 ||banner.setrowid.com^
-||basvformu*.xyz^$third-party
 ||bcvc.mobi^$third-party
 ||betburdaaffiliates.com^$third-party
 ||betendads.com^$third-party
