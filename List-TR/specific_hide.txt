@@ -13,7 +13,7 @@ bomba32.com##.reklam-manset
 bomba32.com##.sag-manset
 bursahayat.com.tr,sehirmedya.com,veteknoloji.net,yozgatcamlik.com##.banner
 cozumpark.com##.wpforo-ad
-cozumpark.com##div[class^="cozum-"]
+cozumpark.com##.stream-item
 dizilla.club###gpt_ad_HOME_CIRCLE_BOX_BOTTOM
 donanimhaber.com###ctl21_adCstmYorumUstuAlan
 donanimhaber.com###primeContainerDetail
