@@ -540,6 +540,8 @@ shiftdelete.net##.thb-ad
 shiftdelete.net##.thb-article-bottom-ad
 shiftdelete.net##.thb-sponsored-content-container
 sikayetvar.com##.promo-banner
+sinema.cc##.r_header_0
+sinema.cc##.moon_ayd
 teknoseyir.com##.tepe_reklam
 tgrthaber.com.tr,mavikadin.com##.advert-desktop
 tgrthaber.com.tr,mavikadin.com##div[id^="dfp-kare"]
