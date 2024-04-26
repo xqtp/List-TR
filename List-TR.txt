@@ -415,7 +415,7 @@ themagger.com##.adg-fixed
 dizipaltv.net,filmcus.net,filmizlew.net,hdfilmizle.in,hdfilmizle.org,filmtvizle.com,onlinedizi.xyz,sinemol.net##+js(set, puShown, true)
 diziday1.com,hdizlefilmleri.com,jetfilmizletv.net,trfilm.net##+js(aopr, initPu)
 fullhdfilm.pro##+js(set, reklamsayisi, 0)
-fullhdfilm.pro##+js(nano-sib, reklam , ,0.02)
+fullhdfilm.pro##+js(nano-sib, reklam, *, 0.02)
 itemci.com##+js(nano-sib, advert, *, 0.001)
 vkfilmizlet.com##+js(aopr, initAd)
 !
