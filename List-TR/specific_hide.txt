@@ -5,6 +5,7 @@ ahaber.com.tr,aspor.com.tr,atv.com.tr,atvavrupa.tv,esquire.com.tr,fotomac.com.tr
 altin.in###ustR
 altin.in###yorumiciReklam
 altin.in##.icReklam
+ankaramasasi.com,cepde.net##.advertisement
 aspor.com.tr,fotomac.com.tr,paradergi.com.tr,sofra.com.tr##.advers-box
 bisikletforum.com,forum.turkmmo.com,gezenbilir.com,kadinlarkulubu.com,technopat.net,vsro.org,webmasterforum.com.tr##.samBannerUnit
 bloomberght.com##.mustheadContainer
@@ -107,7 +108,5 @@ aydindenge.com.tr,bursa.com,cinemadran.com,dunyaatlasi.com,ensonhaber.com,gayrim
 ajanstekirdag.com,akvaryum.com,bigunhaber.com,bjk.com.tr,canlimobeseizle.com,capital.com.tr,cumrapostasi.com,degisimgazetesi.com.tr,diyarbakirgazete.com,diyarbakirhaber.com.tr,donghuatr.com,emlaknews.com.tr,enbursa.com,enyenimedya.com,erotikfilmtube.com,esporlab.com,filmizlekral.com,gundembursa.com,haberyum.com,ibrala.com,internethaber.com,kadinloji.com,kesinkarar.com,londragazete.com,mengen.gen.tr,nallihanhaber.com,noktabursa.com.tr,nowtv.com.tr,sakarya360.com,selcukhaber.com,sinemafilmizle.net,slideplayer.biz.tr,sonhaber16.com,tarihiyolculuk.com,thebrandage.com,trt1.com.tr,ulakci.com,uyan32.com,webhakim.com,webtekno.com,yeniakit.com.tr,yozgatses.com##.ads
 !
 ahaber.com.tr,apara.com.tr,aspor.com.tr,atv.com.tr,atvavrupa.tv,bafra55.net,banazguncelhaber.com,ekrangazetesi.com,enerjigunlugu.net,ereglimetro.com.tr,gazeteguncel.com,hakkarihabertv.com,kargohaber.com,kemergozcu.com,sabah.com.tr,takvim.com.tr,tasova.net,virahaber.com,yeniasir.com.tr,yeniduzen.com##.advert
-!
-ankaramasasi.com,cepde.net##.advertisement
 !
 abcgazetesi.com,anadoludabugun.com.tr,arti49.com,bafra55.net,bbnhaber.com.tr,bilecikhaber.com.tr,borsatek.com,bursahakimiyet.com.tr,enerjigunlugu.net,gazetedamga.com.tr,haberciniz.biz,hakkarihabertv.com,hakkariobjektifhaber.com,halktv.com.tr,igfhaber.com,insaatderyasi.com,iyikigormusum.com,kadikoygazetesi.com,karamanhabercisi.com,karar.com,kibrispostasi.com,konyaninsesi.com.tr,lojiport.com,magazinkolik.com,marasgundem.com.tr,memleket.com.tr,otuzbeslik.com,pudra.com,virahaber.com,webursa.com,yenidonem.com.tr,yeniduzen.com,yesiligdir.com,yurtgazetesi.com.tr##body .banner
