@@ -425,6 +425,7 @@ vkfilmizlet.com##+js(aopr, initAd)
 ||bolununsesi.com/ilangorsel/
 ||cdn.vidyome.com/vidyome/builds/widgets.js
 ||cosmomedya.com/addserver
+||dizibox.in/r/
 ||donanimhaber.com/ads/
 ||donanimhaber.com/static/forum/js/kelimereklam_script.js
 ||egedesonsoz.com/banner/
