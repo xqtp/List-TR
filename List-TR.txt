@@ -293,6 +293,7 @@ themagger.com##.adg-fixed
 ###otoreklam
 ###PopWin
 ###prestitial_banner
+###pre_video
 ###reklam
 ###reklam300x250
 ###reklam300x600
@@ -351,7 +352,6 @@ themagger.com##.adg-fixed
 ##.ortaReklam
 ##.pageskin div[class^="r_reklam_"]
 ##.playerinads
-###pre_video
 ##.rek
 ##.reklam1
 ##.reklam300
