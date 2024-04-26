@@ -411,6 +411,8 @@ themagger.com##.adg-fixed
 ! Scriptlets
 dizipaltv.net,filmcus.net,filmizlew.net,hdfilmizle.in,hdfilmizle.org,filmtvizle.com,onlinedizi.xyz,sinemol.net##+js(set, puShown, true)
 diziday1.com,hdizlefilmleri.com,jetfilmizletv.net,trfilm.net##+js(aopr, initPu)
+fullhdfilm.pro##+js(set, reklamsayisi, 0)
+fullhdfilm.pro##+js(nano-sib, reklam , ,0.02)
 vkfilmizlet.com##+js(aopr, initAd)
 !
 ! Specific block
@@ -495,6 +497,7 @@ forum.donanimhaber.com##[class^="Forum_Anasayfa_YeniMasthead_"]
 forum.donanimhaber.com##[id^="dha_"]
 forum.donanimhaber.com##a[onclick^="adThisAfterSet"]
 forum.miuiturkiye.net,forum.turkmmo.com,gezenbilir.com,isgfrm.com,kadinlarkulubu.com##.samCodeUnit
+fullhdfilm.pro##.hrklm_oblong
 gelirkapisi.com##div[id^="ad_"]
 haberturk.com##.adv-news
 haberturk.com##.pageskin
