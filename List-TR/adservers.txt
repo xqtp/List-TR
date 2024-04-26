@@ -172,7 +172,6 @@
 ||rek.yemlee.com^$third-party
 ||reviveservers.com^$third-party
 ||revotas.com^$third-party
-||r.yabancidizi.in^
 ||salutationcheerlessdemote.com^
 ||savoy.cubecdn.net^
 ||savoy.storage.cubecdn.net^
