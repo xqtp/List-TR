@@ -26,6 +26,7 @@
 ###mPlayerFd
 ###otoreklam
 ###PopWin
+###pre_video
 ###prestitial_banner
 ###reklam
 ###reklam300x250
