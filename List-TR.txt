@@ -448,6 +448,7 @@ vkfilmizlet.com##+js(aopr, initAd)
 ||storage.oyungezer.com.tr/ogz-public/ads/
 ||turktime.com/banner
 ||widget.cdn.vidyome.com/builds/loader.js
+||yabancidizi.pro/v/
 !
 ! Specific hide
 81haber.com##.widget_custom_html
