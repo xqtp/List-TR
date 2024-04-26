@@ -527,9 +527,7 @@ mavikadin.com,tgrthaber.com.tr,turkiyegazetesi.com.tr##div[class^="dfp-galeri-ma
 memurlar.net###sticky-masthead
 n11.com##.header-banner-cover
 nedir.org##div[data-ad]
-nefisyemektarifleri.com###arsiv-native
-nefisyemektarifleri.com###full-width-seperator-ad
-nefisyemektarifleri.com##.arsiv-native
+nefisyemektarifleri.com##.nokta.no-print
 ntvspor.net,ntv.com.tr##.dygtag-masthead
 onedio.com###masthead-container
 onedio.com##.article-oads
