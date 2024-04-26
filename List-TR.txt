@@ -291,8 +291,8 @@ themagger.com##.adg-fixed
 ###mPlayerFd
 ###otoreklam
 ###PopWin
-###prestitial_banner
 ###pre_video
+###prestitial_banner
 ###reklam
 ###reklam300x250
 ###reklam300x600
