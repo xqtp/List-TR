@@ -1,4 +1,4 @@
-dizipaltv.net,filmcus.net,filmizlew.net,hdfilmizle.in,hdfilmizle.org,filmtvizle.com,sinemol.net##+js(set, puShown, true)
+dizipaltv.net,filmcus.net,filmizlew.net,hdfilmizle.in,hdfilmizle.org,filmtvizle.com,onlinedizi.xyz,sinemol.net##+js(set, puShown, true)
 !
 diziday1.com,hdizlefilmleri.com,jetfilmizletv.net,trfilm.net##+js(aopr, initPu)
 !
