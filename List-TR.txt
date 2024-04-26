@@ -347,6 +347,7 @@ themagger.com##.adg-fixed
 ##.ortaReklam
 ##.pageskin div[class^="r_reklam_"]
 ##.playerinads
+###pre_video
 ##.rek
 ##.reklam1
 ##.reklam300
@@ -408,7 +409,7 @@ themagger.com##.adg-fixed
 ##.zfc-ads
 !
 ! Scriptlets
-dizipaltv.net,filmcus.net,filmizlew.net,hdfilmizle.in,hdfilmizle.org,filmtvizle.com,sinemol.net##+js(set, puShown, true)
+dizipaltv.net,filmcus.net,filmizlew.net,hdfilmizle.in,hdfilmizle.org,filmtvizle.com,onlinedizi.xyz,sinemol.net##+js(set, puShown, true)
 diziday1.com,hdizlefilmleri.com,jetfilmizletv.net,trfilm.net##+js(aopr, initPu)
 vkfilmizlet.com##+js(aopr, initAd)
 !
