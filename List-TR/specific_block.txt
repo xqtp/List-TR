@@ -9,6 +9,7 @@
 ||bolununsesi.com/ilangorsel/
 ||cdn.vidyome.com/vidyome/builds/widgets.js
 ||cosmomedya.com/addserver
+||dizibox.in/r/
 ||donanimhaber.com/ads/
 ||donanimhaber.com/static/forum/js/kelimereklam_script.js
 ||egedesonsoz.com/banner/
@@ -19,6 +20,7 @@
 ||forum.donanimhaber.com/bundles/kelimeReklam
 ||haber18.com/canbunlar/
 ||haberkibris.com/banner
+||hdfilmizle.site/ads/
 ||images.kizlarsoruyor.com/custom/Brands/
 ||img2-digitouch.mncdn.com/include/dh-widget.js$domain=forum.donanimhaber.com
 ||img2-digitouch.mncdn.com/include/donanimhaber.js
@@ -31,3 +33,4 @@
 ||storage.oyungezer.com.tr/ogz-public/ads/
 ||turktime.com/banner
 ||widget.cdn.vidyome.com/builds/loader.js
+||yabancidizi.pro/v/
