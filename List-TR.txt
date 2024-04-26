@@ -557,8 +557,7 @@ turkiyegazetesi.com.tr###dfp-kare-1
 turkiyegazetesi.com.tr##div[class^="dfp-"]
 turkrus.com##div[class^="relative"]
 uludagsozluk.com##[class^="adulu_"]
-webtekno.com##.wt-masthead__horizontal
-webtekno.com##div[id^="native-ads-"]
+webtekno.com##.wt-masthead
 wmaraci.com##.row-ads
 yasemin.com##div[id^="dfp-anasayfa-masthead-"]
 yemek.com##.nokta-ad
