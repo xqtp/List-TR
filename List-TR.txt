@@ -467,6 +467,7 @@ altin.in##.icReklam
 ankaramasasi.com,cepde.net##.advertisement
 aspor.com.tr,fotomac.com.tr,paradergi.com.tr,sofra.com.tr##.advers-box
 bisikletforum.com,forum.turkmmo.com,gezenbilir.com,kadinlarkulubu.com,technopat.net,vsro.org,webmasterforum.com.tr##.samBannerUnit
+bloomberght.com##.mustheadContainer
 bomba32.com##.flash-wrapper
 bomba32.com##.modulAds
 bomba32.com##.reklam-manset
