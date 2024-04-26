@@ -436,6 +436,7 @@ vkfilmizlet.com##+js(aopr, initAd)
 ||forum.donanimhaber.com/bundles/kelimeReklam
 ||haber18.com/canbunlar/
 ||haberkibris.com/banner
+||hdfilmizle.site/ads/
 ||images.kizlarsoruyor.com/custom/Brands/
 ||img2-digitouch.mncdn.com/include/dh-widget.js$domain=forum.donanimhaber.com
 ||img2-digitouch.mncdn.com/include/donanimhaber.js
