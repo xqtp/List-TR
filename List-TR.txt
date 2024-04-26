@@ -532,9 +532,8 @@ nefisyemektarifleri.com##.arsiv-native
 ntvspor.net,ntv.com.tr##.dygtag-masthead
 onedio.com###masthead-container
 onedio.com##.article-oads
-onedio.com##.o-sponsored-article
-onedio.com##.sponsored
-onedio.com##div[unit-name^="icerik"]
+onedio.com###mansetAlti-container
+onedio.com##.min-h-\[200px\]
 ozgurbolu.com,spor14.com,bolusporluyuz.com###girisReklamalani
 patronlardunyasi.com##.Ads
 patronlardunyasi.com##div[id*="-div-gpt-ad-"]
