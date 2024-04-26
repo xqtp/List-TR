@@ -1,3 +1,7 @@
+[uBlock Origin]
+! Title: List-TR
+! Homepage: https://github.com/xqtp/List-TR
+!
 ! Adservers
 ||61ads.net^
 ||adbetnetwork.com^$third-party
