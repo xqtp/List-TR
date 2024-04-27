@@ -436,6 +436,8 @@ itemci.com##.banner-section
 itemci.com##.llgs-522x320
 itemci.com##.mpy__container-banner
 itemci.com##.mpy__banners-small_container
+izlekolik.org###preRollBd
+kanald.com.tr##.masthead
 kitapyurdu.com##.ad-large
 kizlarsoruyor.com###brand-skinundernav
 kulaklik.com##.left-right-banner
@@ -445,6 +447,9 @@ mavikadin.com###dfp-homepage-masthead-container
 mavikadin.com###dfp-masthead-container
 mavikadin.com##div[class^="dfp-kare"]
 mavikadin.com,tgrthaber.com.tr,turkiyegazetesi.com.tr##div[class^="dfp-galeri-masthead"]
+memurlar.net##.click-tracker
+memurlar.net##.masthead-panel
+memurlar.net##.widget-336x280
 memurlar.net###sticky-masthead
 n11.com##.header-banner-cover
 nedir.org##div[data-ad]
