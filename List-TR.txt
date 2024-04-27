@@ -396,6 +396,7 @@ bomba32.com##.modulAds
 bomba32.com##.reklam-manset
 bomba32.com##.sag-manset
 bursahayat.com.tr,sehirmedya.com,veteknoloji.net,yozgatcamlik.com##.banner
+cimri.com##div[id^="adslot-"]
 cozumpark.com##.wpforo-ad
 cozumpark.com##.stream-item
 dizilla.club###gpt_ad_HOME_CIRCLE_BOX_BOTTOM
