@@ -67,11 +67,7 @@
 ||cdn.klasseo.com^$third-party
 ||clbanners9.com^$all
 ||clickmerkez.com^$third-party
-||clinicsofturkey.com/attachment/$third-party
-||contema.ru^$third-party
 ||cryptosmoke.care^
-||d1d8vn0fpluuz7.cloudfront.net^
-||d8c5y8fq3znwi.cloudfront.net^
 ||diken.xyz^
 ||dogus-ads-cdn.dygdigital.com^$third-party
 ||finvest.care^
@@ -95,7 +91,6 @@
 ||numarabiz.com/scr^$third-party
 ||numarapaneli.com^$third-party
 ||permato.com^$third-party
-||piaads.com^$third-party
 ||pigeoon.com^$third-party
 ||pixad.com.tr^$third-party
 ||pophit.net^$third-party
