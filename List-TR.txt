@@ -453,6 +453,7 @@ memurlar.net##.click-tracker
 memurlar.net##.masthead-panel
 memurlar.net##.widget-336x280
 memurlar.net###sticky-masthead
+milliyet.com.tr##.topBandBanner
 n11.com##.header-banner-cover
 nedir.org##div[data-ad]
 nefisyemektarifleri.com##.nokta.no-print
