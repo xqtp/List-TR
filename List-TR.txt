@@ -450,7 +450,7 @@ mavikadin.com###dfp-homepage-kare-container
 mavikadin.com###dfp-homepage-masthead-container
 mavikadin.com###dfp-masthead-container
 mavikadin.com##div[class^="dfp-kare"]
-mavikadin.com,tgrthaber.com.tr,turkiyegazetesi.com.tr##div[class^="dfp-galeri-masthead"]
+mavikadin.com,tgrthaber.com.tr##div[class^="dfp-galeri-masthead"]
 memurlar.net##.click-tracker
 memurlar.net##.masthead-panel
 memurlar.net##.widget-336x280
