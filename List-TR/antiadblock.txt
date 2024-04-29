@@ -9,8 +9,6 @@ kanald.com.tr#@##AD_Top
 kanald.com.tr#@##homead
 kanald.com.tr#@##ad-lead
 karnaval.com##+js(set, adblock_active, false)
-r10.net##+js(aopr, rTargets)
-r10.net##+js(aopw, rInt)
 sinnerclownceviri.com##+js(nostif, AdBlock)
 sinnerclownceviri.com##+js(nostif, offsetParent)
 sinnerclownceviri.com#@#.reklam
