@@ -66,7 +66,7 @@ mavikadin.com###dfp-homepage-kare-container
 mavikadin.com###dfp-homepage-masthead-container
 mavikadin.com###dfp-masthead-container
 mavikadin.com##div[class^="dfp-kare"]
-mavikadin.com,tgrthaber.com.tr,turkiyegazetesi.com.tr##div[class^="dfp-galeri-masthead"]
+mavikadin.com,tgrthaber.com.tr##div[class^="dfp-galeri-masthead"]
 memurlar.net##.click-tracker
 memurlar.net##.masthead-panel
 memurlar.net##.widget-336x280
@@ -96,9 +96,7 @@ themagger.com##.bus-bnr-block
 tourmag.com.tr##.elementor-widget-image
 tourmag.com.tr##.widget_media_image
 trthaber.com##.masthead-ads-container
-turkiyegazetesi.com.tr###dfp-detail-kare-container
-turkiyegazetesi.com.tr###dfp-kare-1
-turkiyegazetesi.com.tr##div[class^="dfp-"]
+turkiyegazetesi.com.tr##.masthead-cls
 turkrus.com##div[class^="relative"]
 uludagsozluk.com##[class^="adulu_"]
 webtekno.com##.wt-masthead
