@@ -3,6 +3,11 @@
 @@||puhutv.com/banner-ad.png
 exxen.com##+js(set, eyeOfErstream.detectedBloke, falseFunc)
 huawei-turkiye.com##.XGT-AdBlock-Govde
+kanald.com.tr#@##AdHeader
+kanald.com.tr#@#.adv-right
+kanald.com.tr#@##AD_Top
+kanald.com.tr#@##homead
+kanald.com.tr#@##ad-lead
 karnaval.com##+js(set, adblock_active, false)
 r10.net##+js(aopr, rTargets)
 r10.net##+js(aopw, rInt)
