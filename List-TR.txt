@@ -435,7 +435,7 @@ haberturk.com,yasemin.com##.masthead-top
 havadurumu15gunluk.xyz##.ads_row
 hepsiburada.com##div[id^="Advertisement_"]
 hurriyet.com.tr,milliyet.com.tr##.adv
-iha.com.tr,mavikadin.com,tgrthaber.com.tr,turkiyegazetesi.com.tr##div[id^="widget_General_Advert_"]
+iha.com.tr,mavikadin.com,tgrthaber.com.tr##div[id^="widget_General_Advert_"]
 itemci.com##.banner-section
 itemci.com##.llgs-522x320
 itemci.com##.mpy__container-banner
