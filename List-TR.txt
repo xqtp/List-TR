@@ -481,9 +481,7 @@ themagger.com##.bus-bnr-block
 tourmag.com.tr##.elementor-widget-image
 tourmag.com.tr##.widget_media_image
 trthaber.com##.masthead-ads-container
-turkiyegazetesi.com.tr###dfp-detail-kare-container
-turkiyegazetesi.com.tr###dfp-kare-1
-turkiyegazetesi.com.tr##div[class^="dfp-"]
+turkiyegazetesi.com.tr##.masthead-cls
 turkrus.com##div[class^="relative"]
 uludagsozluk.com##[class^="adulu_"]
 webtekno.com##.wt-masthead
