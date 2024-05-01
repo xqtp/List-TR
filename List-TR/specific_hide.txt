@@ -71,7 +71,7 @@ memurlar.net##.click-tracker
 memurlar.net##.masthead-panel
 memurlar.net##.widget-336x280
 milliyet.com.tr##.topBandBanner
-mynet.com##.adv-item-box
+!mynet.com##.adv-item-box
 n11.com##.header-banner-cover
 nedir.org##div[data-ad]
 nefisyemektarifleri.com##.nokta.no-print
