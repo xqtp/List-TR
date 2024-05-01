@@ -401,16 +401,7 @@ cimri.com##div[id^="adslot-"]
 cozumpark.com##.wpforo-ad
 cozumpark.com##.stream-item
 dizilla.club###gpt_ad_HOME_CIRCLE_BOX_BOTTOM
-donanimhaber.com###ctl21_adCstmYorumUstuAlan
-donanimhaber.com###primeContainerDetail
-donanimhaber.com##.arkaplan-giydirme
-donanimhaber.com##.bgtiklansin
-donanimhaber.com##.detay-gecis
-donanimhaber.com##.giydirme-container
-donanimhaber.com##.konulisteTextReklam
-donanimhaber.com##.sponsor-category
 donanimhaber.com##.tepe-alan
-donanimhaber.com##.top-ad-bar-container
 donanimhaber.com##[class^="reklam-"]
 edebiyathaber.net##.adv-link
 edebiyathaber.net##.header-top-ads
