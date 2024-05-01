@@ -8,13 +8,13 @@
 /d/banner/*
 /dosya/reklam/*
 /files/uploads/advert/*
-/img/rek/
+/img/rek/*
 /reklam-$image,script,domain=~donanimhaber.com
 /reklamlar.
 /reklamlar/*
 /reklamm.js
 /reklamresimleri/*
-/resim/ad/
+/resim/ad/*
 /s/dosya/reklam/*
 /service/advertchannels
 /thumb.php?src=*/images/banner/*
