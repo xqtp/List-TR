@@ -15,9 +15,9 @@
 ||egedesonsoz.com/banner/
 ||egeninsesi.com/system/ads/
 ||fikriyat.com/js/advertisements
-||forum.donanimhaber.com/api*/Globalapi/ListProductAds
+||forum.donanimhaber.com/api2/Globalapi/ListProductAds
 ||forum.donanimhaber.com/bundles/banner?
-||forum.donanimhaber.com/bundles/kelimeReklam
+||forum.donanimhaber.com/bundles/kelimeReklam?
 ||haber18.com/canbunlar/
 ||haberkibris.com/banner
 ||hdfilmizle.site/ads/
