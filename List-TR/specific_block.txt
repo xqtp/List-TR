@@ -22,7 +22,6 @@
 ||haberkibris.com/banner
 ||hdfilmizle.site/ads/
 ||images.kizlarsoruyor.com/custom/Brands/
-||img2-digitouch.mncdn.com/include/dh-widget.js$domain=forum.donanimhaber.com
 ||img2-digitouch.mncdn.com/include/donanimhaber.js
 ||kibrispostasi.com/upload/banner^
 ||konhaber.com/sahifeler/rkl/
