@@ -149,7 +149,7 @@ trlyrics.com#@#.reklam
 ! Antiadblock
 @@||exxen.com^$generichide
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=exxen.com
-@@||puhutv.com/banner-ad.png
+@@||puhutv.com/banner-ad*.png
 exxen.com##+js(set, eyeOfErstream.detectedBloke, falseFunc)
 huawei-turkiye.com##.XGT-AdBlock-Govde
 kanald.com.tr#@##AdHeader
