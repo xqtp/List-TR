@@ -90,6 +90,7 @@ shiftdelete.net##.thb-sponsored-content-container
 sikayetvar.com##.promo-banner
 sinema.cc##.r_header_0
 sinema.cc##.moon_ayd
+sporx.com##div[style*="min-height: 250px"]
 teknoseyir.com##.tepe_reklam
 tgrthaber.com.tr,mavikadin.com##.advert-desktop
 tgrthaber.com.tr,mavikadin.com##div[id^="dfp-kare"]
