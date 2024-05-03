@@ -139,7 +139,6 @@ sagligabiradim.com#@#.ad-desktop
 silahilanlari.com#@##adslider
 themagger.com#@#.post-sponsored
 trlyrics.com#@#.reklam
-@@//store.donanimhaber.com/ad/*$domain=forum.donanimhaber.com
 @@||google.com.tr/ads/publisher/partners/static/*/index.min.$domain=google.com.tr
 @@||sihirlitur.com/otomobil/reklamlar
 @@||trakel.org/*/image_resize.php?ad=
