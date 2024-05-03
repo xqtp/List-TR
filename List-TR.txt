@@ -447,6 +447,7 @@ memurlar.net##.click-tracker
 memurlar.net##.masthead-panel
 memurlar.net##.widget-336x280
 memurlar.net###sticky-masthead
+merlininkazani.com##.leader-board-row
 mynet.com##.adv-item-box
 mynet.com##.col-adv
 milliyet.com.tr##.topBandBanner
