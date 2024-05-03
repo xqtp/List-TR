@@ -24,6 +24,7 @@ edebiyathaber.net##.adv-link
 edebiyathaber.net##.header-top-ads
 ehliyettestleri.com,testlericoz.com##.ortala
 ehliyettestleri.com,testlericoz.com##.yazialtireklam
+evrensel.net##.haber-ici-reklam
 evrimagaci.org,wmaraci.com##.ads-container
 forum.donanimhaber.com###trend-link
 forum.donanimhaber.com##.kl-ustu
