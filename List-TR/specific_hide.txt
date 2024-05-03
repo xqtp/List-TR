@@ -2,6 +2,12 @@
 81haber.com##.sadx
 ahaber.com.tr,apara.com.tr,aspor.com.tr,fotomac.com.tr,sabah.com.tr,takvim.com.tr,yeniasir.com.tr##.bandReklam
 ahaber.com.tr,aspor.com.tr,atv.com.tr,atvavrupa.tv,esquire.com.tr,fotomac.com.tr,harpersbazaar.com.tr,paradergi.com.tr,sabah.com.tr,sofra.com.tr,sosyalhalisaha.com,takvim.com.tr,yeniasir.com.tr##.billBoardFrame
+aksam.com.tr##.mainMastheadBg
+aksam.com.tr##[style="height:262px;"]
+aksam.com.tr##[style="width:300px;height:250px;margin-bottom:10px;"]
+aksam.com.tr##[style="margin: 0 auto;height:95px"]
+aksam.com.tr##[style="height:260px;margin:0 auto;text-align:center"]
+aksam.com.tr##[style="height:300px;margin-bottom:15px"]
 altin.in###ustR
 altin.in###yorumiciReklam
 altin.in##.icReklam
