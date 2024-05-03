@@ -61,6 +61,7 @@ mavikadin.com,tgrthaber.com.tr##div[class^="dfp-galeri-masthead"]
 memurlar.net##.click-tracker
 memurlar.net##.masthead-panel
 memurlar.net##.widget-336x280
+merlininkazani.com##.leader-board-row
 milliyet.com.tr##.topBandBanner
 mynet.com##.adv-item-box
 mynet.com##.col-adv
