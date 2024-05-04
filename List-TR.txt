@@ -443,11 +443,6 @@ kitapyurdu.com##.ad-large
 kizlarsoruyor.com###brand-skinundernav
 kulaklik.com##.left-right-banner
 leadergamer.com.tr##.ldr-board-row
-mavikadin.com###dfp-homepage-kare-container
-mavikadin.com###dfp-homepage-masthead-container
-mavikadin.com###dfp-masthead-container
-mavikadin.com##div[class^="dfp-kare"]
-mavikadin.com,tgrthaber.com.tr##div[class^="dfp-galeri-masthead"]
 memurlar.net##.click-tracker
 memurlar.net##.masthead-panel
 memurlar.net##.widget-336x280
@@ -476,8 +471,9 @@ sinema.cc##.r_header_0
 sinema.cc##.moon_ayd
 sporx.com##div[style*="min-height: 250px"]
 teknoseyir.com##.tepe_reklam
-tgrthaber.com.tr,mavikadin.com##.advert-desktop
-tgrthaber.com.tr,mavikadin.com##div[id^="dfp-kare"]
+tgrthaber.com.tr##.advert-desktop
+tgrthaber.com.tr##div[id^="dfp-kare"]
+tgrthaber.com.tr##div[class^="dfp-galeri-masthead"]
 themagger.com##.bus-bnr-block
 tourmag.com.tr##.elementor-widget-image
 tourmag.com.tr##.widget_media_image
