@@ -310,6 +310,7 @@ themagger.com##.adg-fixed
 ##.rkm-outer
 ##.rk-300
 ##.sagkulereklam
+##.sagReklam
 ##.sagReklam300x250
 ##.sagsolAds
 ##.sagyan_reklam
