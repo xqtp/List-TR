@@ -122,11 +122,13 @@
 ##.rk-300
 ##.sagkulereklam
 ##.sagReklam300x250
+##.sagsolAds
 ##.sagyan_reklam
 ##.sag_reklam
 ##.sag_reklam_160x600
 ##.saniyereklam
 ##.saniye-reklam
+##.so-widget-reklam
 ##.solkulereklam
 ##.sol_reklam_160x600
 ##.splash-banner
