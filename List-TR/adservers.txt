@@ -59,7 +59,6 @@
 ||aybereklam.com^
 ||a.doganburda.com^
 ||banner.kanald.com.tr^
-||banner.setrowid.com^
 ||bcvc.mobi^$third-party
 ||bwcdn.xyz^$third-party
 ||bwtsrv.com^$third-party
