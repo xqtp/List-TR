@@ -171,6 +171,7 @@ themagger.com##.adg-fixed
 /Thumbs/A_dvertisement/*
 /ad-zones.js
 /d/banner/*
+/dimg/banner/*
 /dosya/reklam/*
 /files/uploads/advert/*
 /img/rek/*
