@@ -435,6 +435,7 @@ forum.donanimhaber.com##[id^="dha_"]
 forum.donanimhaber.com##a[onclick^="adThisAfterSet"]
 forum.miuiturkiye.net,forum.turkmmo.com,gezenbilir.com,isgfrm.com,kadinlarkulubu.com##.samCodeUnit
 fullhdfilm.pro##.hrklm_oblong
+gazetememur.com##.ad-container
 gelirkapisi.com##div[id^="ad_"]
 gercekbandirma.com##[id^="block-views-reklam-block-"]
 haberturk.com##.adv-news
