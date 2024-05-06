@@ -133,6 +133,7 @@
 ##.sag_reklam_160x600
 ##.saniyereklam
 ##.saniye-reklam
+##.singleAd3
 ##.site_onu
 ##.so-widget-reklam
 ##.solkulereklam
@@ -145,6 +146,7 @@
 ##.st_ad
 ##.tepebanner
 ##.topReklam
+##.type1.ads
 ##.ustOrtaSolReklam
 ##.ustReklam
 ##.virgul-ad
