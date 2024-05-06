@@ -237,6 +237,7 @@ themagger.com##.adg-fixed
 ###UstReklam
 ###ustReklam
 ###ustreklam
+##.aburcReklam
 ##.adm-ads-area
 ##.adpro
 ##.ads630
@@ -253,6 +254,7 @@ themagger.com##.adg-fixed
 ##.detayreklam
 ##.dikeyreklam
 ##.dikReklam160
+##.dikReklam
 ##.empower
 ##.empower-ad
 ##.fixedAd
@@ -264,6 +266,7 @@ themagger.com##.adg-fixed
 ##.kanews_widget_ads
 ##.konuiciReklam
 ##.leftr
+##.listeReklam
 ##.medyanet-inline-adv
 ##.mi-rgb
 ##.mid-rek
@@ -323,6 +326,7 @@ themagger.com##.adg-fixed
 ##.splash-banner
 ##.splash-popup
 ##.splash-reklam
+##.sporReklam
 ##.stnz_reklam_blok
 ##.st_ad
 ##.tepebanner
