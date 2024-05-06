@@ -6,6 +6,7 @@
 /Thumbs/A_dvertisement/*
 /ad-zones.js
 /d/banner/*
+/Depo/Banner/*
 /dimg/banner/*
 /dosya/reklam/*
 /files/uploads/advert/*
