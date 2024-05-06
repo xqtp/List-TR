@@ -322,6 +322,7 @@ themagger.com##.adg-fixed
 ##.sag_reklam_160x600
 ##.saniyereklam
 ##.saniye-reklam
+##.site_onu
 ##.so-widget-reklam
 ##.solkulereklam
 ##.sol_reklam_160x600
