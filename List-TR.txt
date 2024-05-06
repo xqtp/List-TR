@@ -376,6 +376,7 @@ itemci.com##+js(nano-sib, advert, *, 0.001)
 ||haber18.com/canbunlar/
 ||haberkibris.com/banner
 ||hdfilmizle.site/ads/
+||hibya.com/ads/
 ||images.kizlarsoruyor.com/custom/Brands/
 ||img2-digitouch.mncdn.com/include/donanimhaber.js
 ||kibrispostasi.com/upload/banner^
