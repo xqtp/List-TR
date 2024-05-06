@@ -63,6 +63,7 @@
 ##.bannerkucuk
 ##.bey-video-reklam
 ##.blok-reklam
+##.des-g.ads
 ##.detayreklam
 ##.dikeyreklam
 ##.dikReklam160
