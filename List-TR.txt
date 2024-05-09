@@ -494,6 +494,7 @@ tgrthaber.com.tr##div[class^="dfp-galeri-masthead"]
 themagger.com##.bus-bnr-block
 tourmag.com.tr##.elementor-widget-image
 tourmag.com.tr##.widget_media_image
+trdoktor.com##.reklam_alani
 trthaber.com##.masthead-ads-container
 turkiyegazetesi.com.tr##.masthead-cls
 turkrus.com##div[class^="relative"]
