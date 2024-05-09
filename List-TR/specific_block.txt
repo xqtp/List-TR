@@ -35,3 +35,4 @@
 ||turktime.com/banner
 ||widget.cdn.vidyome.com/builds/loader.js
 ||yabancidizi.pro/v/
+||yasamoykusu.com/_docs/adds/
