@@ -395,6 +395,7 @@ itemci.com##+js(nano-sib, advert, *, 0.001)
 ||turktime.com/banner
 ||widget.cdn.vidyome.com/builds/loader.js
 ||yabancidizi.pro/v/
+||yasamoykusu.com/_docs/adds/
 !
 ! Specific hide
 81haber.com##.widget_custom_html
