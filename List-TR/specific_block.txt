@@ -18,6 +18,7 @@
 ||forum.donanimhaber.com/api2/Globalapi/ListProductAds
 ||forum.donanimhaber.com/bundles/banner?
 ||forum.donanimhaber.com/bundles/kelimeReklam?
+||forum.sordum.net/images/banner/
 ||haber18.com/canbunlar/
 ||haberkibris.com/banner
 ||hdfilmizle.site/ads/
