@@ -121,4 +121,5 @@
 ||venediktaciri.com^$third-party
 ||virgul.com^$third-party
 ||yedimedia.net^$third-party
+||yonderdim.com^
 ||youtubesave.org^
