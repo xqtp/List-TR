@@ -351,7 +351,7 @@ themagger.com##.adg-fixed
 ! Scriptlets
 belgeselizlesene.com##+js(set, Object.prototype.ads_enable, false)
 belgeselizlesene.com##+js(set, Object.prototype.video_ads, noopFunc)
-dizipaltv.net,filmcus.net,filmizlew.net,hdfilmizle.in,hdfilmizle.org,filmtvizle.com,onlinedizi.xyz,sinemol.net##+js(set, puShown, true)
+dizipal.org,dizipaltv.net,filmcus.net,filmizlew.net,hdfilmizle.in,hdfilmizle.org,filmtvizle.com,onlinedizi.xyz,sinemol.net##+js(set, puShown, true)
 diziday1.com,hdizlefilmleri.com,jetfilmizletv.net,trfilm.net##+js(aopr, initPu)
 fullhdfilm.pro##+js(set, reklamsayisi, 0)
 fullhdfilm.pro##+js(nano-sib, reklam, *, 0.02)
