@@ -501,6 +501,7 @@ trthaber.com##.masthead-ads-container
 turkiyegazetesi.com.tr##.masthead-cls
 turkrus.com##div[class^="relative"]
 uludagsozluk.com##[class^="adulu_"]
+uplifers.com##.up-masthead__container
 webtekno.com##.wt-masthead
 wmaraci.com##.row-ads
 yasemin.com##div[id^="dfp-anasayfa-masthead-"]
