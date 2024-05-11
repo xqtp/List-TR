@@ -19,7 +19,7 @@ bomba32.com##.flash-wrapper
 bomba32.com##.modulAds
 bomba32.com##.reklam-manset
 bomba32.com##.sag-manset
-bursahayat.com.tr,sehirmedya.com,veteknoloji.net,yozgatcamlik.com##.banner
+bursahayat.com.tr,ensonhaber.com,sehirmedya.com,veteknoloji.net,yozgatcamlik.com##.banner
 cimri.com##div[id^="adslot-"]
 cozumpark.com##.wpforo-ad
 cozumpark.com##.stream-item
@@ -30,6 +30,7 @@ edebiyathaber.net##.adv-link
 edebiyathaber.net##.header-top-ads
 ehliyettestleri.com,testlericoz.com##.ortala
 ehliyettestleri.com,testlericoz.com##.yazialtireklam
+ensonhaber.com###top-adbar
 evrensel.net##.haber-ici-reklam
 evrimagaci.org,wmaraci.com##.ads-container
 forum.donanimhaber.com###trend-link
