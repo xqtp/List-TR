@@ -12,5 +12,3 @@
 !#include List-TR/specific_block.txt
 !#include List-TR/specific_hide.txt
 !#endif
-
-
