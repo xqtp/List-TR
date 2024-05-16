@@ -45,6 +45,9 @@ fullhdfilm.pro##.hrklm_oblong
 gazetememur.com##.ad-container
 gelirkapisi.com##div[id^="ad_"]
 gercekbandirma.com##[id^="block-views-reklam-block-"]
+haberler.com###ana_160x600_scroll
+haberler.com###detay_masthead
+haberler.com##.detaySagSilme
 haberturk.com##.adv-news
 haberturk.com##.pageskin
 haberturk.com,yasemin.com##.masthead-top
