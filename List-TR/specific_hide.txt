@@ -104,6 +104,9 @@ tourmag.com.tr##.elementor-widget-image
 tourmag.com.tr##.widget_media_image
 trdoktor.com##.reklam_alani
 trthaber.com##.masthead-ads-container
+turizmgazetesi.com##[class^="fixed"]
+turizmgazetesi.com##.bottom-header
+turizmgazetesi.com##.widget-adver
 turkiyegazetesi.com.tr##.masthead-cls
 turkrus.com##div[class^="relative"]
 uludagsozluk.com##[class^="adulu_"]
