@@ -1,6 +1,5 @@
 ##a[href^="https://ad.donanimhaber.com"]
 ##div[class^="reklam_"]
-##div[class^="r_filmvideo-"]
 ##div[class^="sag-reklam"]
 ##div[data-advert="temedya"]
 ###acilisreklam
@@ -154,3 +153,5 @@
 ##.yenireklam
 ##.yildiz-pageskin-link
 ##.zfc-ads
+##[class^="r_header_"]
+##[class^="r_filmvideo-"]
