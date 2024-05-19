@@ -4,8 +4,6 @@
 ##div[class^="r_filmvideo-"]
 ##div[class^="sag-reklam"]
 ##div[data-advert="temedya"]
-##div[id^="floatLayer"]
-##div[id^="kayan_reklam"]
 ###acilisreklam
 ###adsbyio
 ###adStarter
