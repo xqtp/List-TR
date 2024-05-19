@@ -1,4 +1,3 @@
-##a.yildiz-pageskin-link
 ##a[href^="http://ad.donanimhaber.com"]
 ##div[class^="reklam_"]
 ##div[class^="r_filmvideo-"]
@@ -153,4 +152,5 @@
 ##.yatayReklam
 ##.yatay-reklam
 ##.yenireklam
+##.yildiz-pageskin-link
 ##.zfc-ads
