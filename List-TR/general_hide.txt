@@ -1,4 +1,4 @@
-##a[href^="http://ad.donanimhaber.com"]
+##a[href^="https://ad.donanimhaber.com"]
 ##div[class^="reklam_"]
 ##div[class^="r_filmvideo-"]
 ##div[class^="sag-reklam"]
