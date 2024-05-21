@@ -66,6 +66,7 @@
 ||inegolreklam.net^$third-party
 ||intermediaworks.com^$third-party
 ||ivr.com.tr^$third-party
+||kingads2.org^
 ||kriptoparahaber.care^
 ||makroo.com^$third-party
 ||makroo.haber7.net^
