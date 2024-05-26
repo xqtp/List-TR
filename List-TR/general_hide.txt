@@ -92,6 +92,7 @@
 ##.reklam728x90
 ##.reklamalani
 ##.reklamCerceve
+##.reklamCerceve2
 ##.reklamcontainer
 ##.reklamKodu
 ##.reklamKodu3
