@@ -77,6 +77,7 @@
 ##.img_position_left
 ##.kanews-banner
 ##.kanews_widget_ads
+##.katReklam
 ##.konuiciReklam
 ##.leftr
 ##.listeReklam
