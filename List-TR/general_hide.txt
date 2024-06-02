@@ -57,6 +57,7 @@
 ##.banner300x250
 ##.banneralan
 ##.bannerkucuk
+##.banner-float
 ##.banner-pageskin
 ##.banner-wide
 ##.bey-video-reklam
