@@ -59,6 +59,7 @@
 ##.bannerkucuk
 ##.banner-float
 ##.banner-pageskin
+##.banner-side
 ##.banner-wide
 ##.bey-video-reklam
 ##.blok-reklam
