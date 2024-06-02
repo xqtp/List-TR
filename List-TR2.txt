@@ -1,0 +1,12 @@
+[uBlock Origin]
+! Title: List-TR
+! Expires: 12 hours
+!
+!#include List-TR/adservers.txt
+!#include List-TR/allowlist.txt
+!#include List-TR/antiadblock.txt
+!#include List-TR/general_block.txt
+!#include List-TR/general_hide.txt
+!#include List-TR/scriptlets.txt
+!#include List-TR/specific_block.txt
+!#include List-TR/specific_hide.txt
