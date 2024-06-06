@@ -84,6 +84,7 @@ onedio.com##.min-h-\[200px\]
 ozgurbolu.com,spor14.com,bolusporluyuz.com###girisReklamalani
 patronlardunyasi.com##.Ads
 patronlardunyasi.com##div[id*="-div-gpt-ad-"]
+sahibinden.com##.header-banners
 shiftdelete.net##.above-header
 shiftdelete.net##.thb-ad
 shiftdelete.net##.thb-article-bottom-ad
