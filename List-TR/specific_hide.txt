@@ -86,9 +86,6 @@ patronlardunyasi.com##.Ads
 patronlardunyasi.com##div[id*="-div-gpt-ad-"]
 sahibinden.com##.header-banners
 shiftdelete.net##.above-header
-shiftdelete.net##.thb-ad
-shiftdelete.net##.thb-article-bottom-ad
-shiftdelete.net##.thb-sponsored-content-container
 sikayetvar.com##.promo-banner
 sinema.cc##.r_header_0
 sinema.cc##.moon_ayd
