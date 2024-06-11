@@ -162,3 +162,4 @@
 ##.zfc-ads
 ##[class^="r_header_"]
 ##[class^="r_filmvideo-"]
+##img[alt="reklam"]
