@@ -13,6 +13,7 @@
 ###bannerbuyuk
 ###footer_fad
 ###haber_ustu_reklam
+###homePopup
 ###kayan_reklam
 ###kayan_reklamsag
 ###kayan_reklamsol
