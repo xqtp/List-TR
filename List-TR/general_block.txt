@@ -10,6 +10,7 @@
 /dimg/banner/*
 /dosya/reklam/*
 /files/uploads/advert/*
+/images/general/advert-
 /img/rek/*
 /reklam-$image,script,domain=~donanimhaber.com
 /reklamlar.
