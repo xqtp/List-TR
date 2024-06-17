@@ -125,6 +125,7 @@
 ##.rk.des-g
 ##.rk.mobile-gizle
 ##.rkads
+##.rklmSlider
 ##.rkm
 ##.rkm-outer
 ##.rk-300
