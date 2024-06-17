@@ -47,6 +47,7 @@
 ###ustReklam
 ###ustreklam
 ##.aburcReklam
+##.ackapakazan
 ##.adm-ads-area
 ##.adpro
 ##.ads630
