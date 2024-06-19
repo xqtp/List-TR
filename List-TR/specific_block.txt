@@ -25,6 +25,7 @@
 ||hibya.com/ads/
 ||images.kizlarsoruyor.com/custom/Brands/
 ||img2-digitouch.mncdn.com/include/donanimhaber.js
+||inceleriz.com/ads/
 ||kibrispostasi.com/upload/banner^
 ||konhaber.com/sahifeler/rkl/
 ||memurlar.net/common/widget-image^
