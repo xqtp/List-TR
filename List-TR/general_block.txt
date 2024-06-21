@@ -11,6 +11,7 @@
 /dosya/reklam/*
 /files/uploads/advert/*
 /images/general/advert-
+/images/reklam/advert-
 /img/rek/*
 /reklam-$image,script,domain=~donanimhaber.com
 /reklamlar.
