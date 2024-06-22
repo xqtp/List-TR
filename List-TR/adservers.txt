@@ -99,6 +99,7 @@
 ||revotas.com^$third-party
 ||segmentify.com^$third-party
 ||seldos.com.tr^$third-party
+||ssp.ad-plus.com.tr^$third-party
 ||storj.cloud^
 ||tagon.co^$third-party
 ||theadx.com^$third-party
