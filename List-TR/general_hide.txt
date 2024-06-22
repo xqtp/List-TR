@@ -165,4 +165,5 @@
 ##.zfc-ads
 ##[class^="r_header_"]
 ##[class^="r_filmvideo-"]
+##[id^="moduleId_"]
 ##img[alt="reklam"]
