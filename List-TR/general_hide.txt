@@ -163,3 +163,4 @@
 ##[class^="r_header_"]
 ##[id^="moduleId_"]
 ##a[href^="https://ad.donanimhaber.com"]
+##div[class^="reklam_"]
