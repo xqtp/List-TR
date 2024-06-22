@@ -164,3 +164,4 @@
 ##[id^="moduleId_"]
 ##a[href^="https://ad.donanimhaber.com"]
 ##div[class^="reklam_"]
+##div[data-advert="temedya"]
