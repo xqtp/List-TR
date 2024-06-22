@@ -162,3 +162,4 @@
 ##[class^="r_filmvideo-"]
 ##[class^="r_header_"]
 ##[id^="moduleId_"]
+##a[href^="https://ad.donanimhaber.com"]
