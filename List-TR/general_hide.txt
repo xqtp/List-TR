@@ -159,3 +159,5 @@
 ##.yenireklam
 ##.yildiz-pageskin-link
 ##.zfc-ads
+##[class^="r_filmvideo-"]
+##[class^="r_header_"]
