@@ -59,6 +59,7 @@
 ||cryptosmoke.care^
 ||diken.xyz^
 ||dogus-ads-cdn.dygdigital.com^$third-party
+||empower.net^$third-party
 ||finvest.care^
 ||genelajans.com^$third-party
 ||gmgreklam.com^$third-party
