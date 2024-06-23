@@ -125,6 +125,7 @@
 ##.rklmSlider
 ##.rkm
 ##.rkm-outer
+##.sag-reklam
 ##.sag_reklam
 ##.sag_reklam_160x600
 ##.sagkulereklam
@@ -138,6 +139,7 @@
 ##.site_onu
 ##.siteustu
 ##.so-widget-reklam
+##.sol-reklam
 ##.sol_reklam_160x600
 ##.solkulereklam
 ##.splash-banner
