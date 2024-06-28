@@ -163,6 +163,7 @@
 ##.zfc-ads
 ##[class^="r_filmvideo-"]
 ##[class^="r_header_"]
+##[data-name="tb_block"]
 ##[id^="moduleId_"]
 ##a[href^="https://ad.donanimhaber.com"]
 ##div[class^="reklam_"]
