@@ -1,9 +1,9 @@
-! List_TR_allowlist.txt
+! List-TR_allowlist.txt
 @@||collector.wawlabs.com/mmsearch.js$domain=mediamarkt.com.tr
 !
 ! List-TR_general.txt
 !
-! List_TR_specific.txt
+! List-TR_specific.txt
 ||acs.qnbfinansbank.com/api/log
 ||cdn.e-devlet.gov.tr/themes/ankara/js/analitik.min.*.js
 ||sahibinden.com/assets/analytics:1.js
