@@ -1,13 +1,13 @@
 ! List_TR_allowlist.txt
 @@||collector.wawlabs.com/mmsearch.js$domain=mediamarkt.com.tr
-
+!
 ! List-TR_general.txt
-
+!
 ! List_TR_specific.txt
+||cdn.e-devlet.gov.tr/themes/ankara/js/analitik.min.*.js
 ||sahibinden.com/assets/analytics:1.js
 ||shbdn.com/rum/cp.js
 ||sahibinden.com/rum/
-
-
+!
 ! List-TR_trackingservers.txt
 ||kulgacdn.com^
