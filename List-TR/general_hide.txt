@@ -148,6 +148,7 @@
 ##.sporReklam
 ##.st_ad
 ##.stnz_reklam_blok
+##.tb-block
 ##.tepebanner
 ##.topReklam
 ##.type1.ads
