@@ -1,0 +1,12 @@
+! List_TR_allowlist.txt
+@@||collector.wawlabs.com/mmsearch.js$domain=mediamarkt.com.tr
+
+! List-TR_general.txt
+
+! List_TR_specific.txt
+
+! List-TR_trackingservers.txt
+
+
+
+
