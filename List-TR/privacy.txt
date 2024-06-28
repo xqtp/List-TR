@@ -4,6 +4,7 @@
 ! List-TR_general.txt
 !
 ! List_TR_specific.txt
+||acs.qnbfinansbank.com/api/log
 ||cdn.e-devlet.gov.tr/themes/ankara/js/analitik.min.*.js
 ||sahibinden.com/assets/analytics:1.js
 ||shbdn.com/rum/cp.js
