@@ -9,6 +9,7 @@
 ||sahibinden.com/assets/analytics:1.js
 ||shbdn.com/rum/cp.js
 ||sahibinden.com/rum/
+||yemeksepeti.com/lJuB4eTB/init.js
 !
 ! List-TR_trackingservers.txt
 ||kulgacdn.com^
