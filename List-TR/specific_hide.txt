@@ -2,6 +2,8 @@
 81haber.com##.sadx
 ahaber.com.tr,apara.com.tr,aspor.com.tr,fotomac.com.tr,sabah.com.tr,takvim.com.tr,yeniasir.com.tr##.bandReklam
 ahaber.com.tr,aspor.com.tr,atv.com.tr,atvavrupa.tv,esquire.com.tr,fotomac.com.tr,harpersbazaar.com.tr,paradergi.com.tr,sabah.com.tr,sofra.com.tr,sosyalhalisaha.com,takvim.com.tr,yeniasir.com.tr##.billBoardFrame
+ajansspor.com,kanald.com.tr,yemek.com##.masthead
+ajansspor.com##.sidebar-cla
 akakce.com###billboard_wrapper
 aksam.com.tr##.mainMastheadBg
 aksam.com.tr##[style="height:262px;"]
@@ -64,7 +66,6 @@ itemci.com##.llgs-522x320
 itemci.com##.mpy__container-banner
 itemci.com##.mpy__banners-small_container
 izlekolik.org###preRollBd
-kanald.com.tr,yemek.com##.masthead
 kitapyurdu.com##.ad-large
 kizlarsoruyor.com###brand-skinundernav
 kulaklik.com##.left-right-banner
