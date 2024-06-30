@@ -23,5 +23,6 @@
 /service/advertchannels
 /storage/ads/*
 /thumb.php?src=*/images/banner/*
+/vendor/te/plugins/advert/*
 /wp-content/uploads/*/hareketli.gif
 /wp-content/uploads/*_reklam.
