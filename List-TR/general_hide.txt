@@ -128,6 +128,7 @@
 ##.sag-reklam
 ##.sag_reklam
 ##.sag_reklam_160x600
+##.sagdikeyreklam
 ##.sagkulereklam
 ##.sagReklam
 ##.sagReklam300x250
@@ -141,6 +142,7 @@
 ##.so-widget-reklam
 ##.sol-reklam
 ##.sol_reklam_160x600
+##.soldikeyreklam
 ##.solkulereklam
 ##.splash-banner
 ##.splash-popup
