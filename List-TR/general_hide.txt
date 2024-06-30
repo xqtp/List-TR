@@ -50,6 +50,7 @@
 ##.ads630
 ##.ads640
 ##.adsVideo
+##.advertising
 ##.all-header-reklam
 ##.arkaplanreklam
 ##.banner300x250
@@ -61,6 +62,7 @@
 ##.bannerkucuk
 ##.bey-video-reklam
 ##.blok-reklam
+##.ct-ad
 ##.des-g.ads
 ##.detayreklam
 ##.dikeyreklam
@@ -149,6 +151,7 @@
 ##.splash-reklam
 ##.sporReklam
 ##.st_ad
+##.stck-ad
 ##.stnz_reklam_blok
 ##.tb-block
 ##.tepebanner
@@ -170,5 +173,6 @@
 ##[id^="moduleId_"]
 ##a[href^="https://ad.donanimhaber.com"]
 ##div[class^="reklam_"]
+##div[class^="rklmyn-"]
 ##div[data-advert="temedya"]
 ##img[alt="reklam"]
