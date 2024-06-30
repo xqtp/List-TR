@@ -1,3 +1,4 @@
+##.kanews-modal-adblock
 @@||exxen.com^$generichide
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=exxen.com
 @@||puhutv.com/banner-ad*.png
