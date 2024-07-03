@@ -7,7 +7,7 @@
 ||adhood.com^$third-party
 ||adhouse.pro^$third-party
 ||adl.mynetreklam.com^
-||admatic.com.tr^third-party
+||admatic.com.tr^$third-party
 ||adnamo.net^$third-party
 ||adnsafe.net^$third-party
 ||adn.bursadabugun.com^
