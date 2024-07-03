@@ -29,6 +29,9 @@ bursahayat.com.tr,ensonhaber.com,sehirmedya.com,veteknoloji.net,yozgatcamlik.com
 cimri.com##div[id^="adslot-"]
 cozumpark.com##.wpforo-ad
 cozumpark.com##.stream-item
+diyetkolik.com##.reklamiKaldirLink
+diyetkolik.com##[id*="slot"]
+diyetkolik.com##div[style="min-height:250px;justify-content:center;align-items:center;display:flex;flex-direction:column"]
 dizilla.club###gpt_ad_HOME_CIRCLE_BOX_BOTTOM
 donanimhaber.com##.tepe-alan
 donanimhaber.com##[class^="reklam-"]
