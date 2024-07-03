@@ -85,10 +85,8 @@ ntvspor.net,ntv.com.tr##.dygtag-masthead
 obilet.com##.featured-banner
 obilet.com##.js-list-cross-sell-banner-container
 obilet.com###searchResultMarketingBannerContainer
-onedio.com###masthead-container
-onedio.com##.article-oads
 onedio.com###mansetAlti-container
-onedio.com##.min-h-\[200px\]
+onedio.com###masthead-container
 ozgurbolu.com,spor14.com,bolusporluyuz.com###girisReklamalani
 patronlardunyasi.com##.Ads
 patronlardunyasi.com##div[id*="-div-gpt-ad-"]
