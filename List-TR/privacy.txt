@@ -2,6 +2,9 @@
 @@||collector.wawlabs.com/mmsearch.js$domain=mediamarkt.com.tr
 !
 ! List-TR_general.txt
+/all/libraries/analytics/
+/js-repo/elc-service-analytics/
+/themes/cl_base/js/shared/analytics.min.js
 !
 ! List-TR_specific.txt
 ||acs.qnbfinansbank.com/api/log
