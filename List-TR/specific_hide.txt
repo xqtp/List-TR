@@ -133,6 +133,7 @@ turizmgazetesi.com##[class^="fixed"]
 turizmgazetesi.com##.bottom-header
 turizmgazetesi.com##.widget-adver
 turkiyegazetesi.com.tr##.masthead-cls
+turkmmo.com##.elementor-widget-ghostpool_advertisement
 turkrus.com##div[class^="relative"]
 uludagsozluk.com##[class^="adulu_"]
 uplifers.com##.up-masthead__container
