@@ -82,6 +82,7 @@ kitapyurdu.com##.ad-large
 kizlarsoruyor.com###brand-skinundernav
 kulaklik.com##.left-right-banner
 leadergamer.com.tr##.ldr-board-row
+lezzet.com.tr##.news-inline-ads
 memurlar.net##.click-tracker
 memurlar.net##.masthead-panel
 memurlar.net##.widget-336x280
