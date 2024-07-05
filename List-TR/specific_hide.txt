@@ -68,6 +68,7 @@ hepsiburada.com###DESKTOP_MASTHEAD-googleAdvertisement
 cnnturk.com,hurriyet.com.tr,milliyet.com.tr##.adv
 iha.com.tr,mavikadin.com,tgrthaber.com.tr##div[id^="widget_General_Advert_"]
 ilacprospektusu.com##.rrReklam
+ilacrehberi.com##.ads_r
 itemci.com##.banner-section
 itemci.com##.llgs-522x320
 itemci.com##.mpy__container-banner
