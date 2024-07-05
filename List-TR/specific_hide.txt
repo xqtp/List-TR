@@ -42,6 +42,8 @@ ehliyettestleri.com,testlericoz.com##.yazialtireklam
 ensonhaber.com###top-adbar
 epey.com##.onsira
 epey.com##[style="background:#F5F5F5;position:relative;"]
+evimdergisi.com.tr##.block-da
+evimdergisi.com.tr##.masterhead
 evrensel.net##.haber-ici-reklam
 evrimagaci.org,wmaraci.com##.ads-container
 forum.donanimhaber.com###trend-link
