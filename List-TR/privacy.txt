@@ -2,7 +2,7 @@
 @@||collector.wawlabs.com/mmsearch.js$domain=mediamarkt.com.tr
 !
 ! List-TR_general.txt
-/all/libraries/analytics/
+/all/libraries/analytics/*
 /js-repo/elc-service-analytics/
 /themes/cl_base/js/shared/analytics.min.js
 !
