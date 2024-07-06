@@ -3,7 +3,7 @@
 !
 ! List-TR_general.txt
 /all/libraries/analytics/*
-/js-repo/elc-service-analytics/
+/js-repo/elc-service-analytics/*
 /themes/cl_base/js/shared/analytics.min.js
 !
 ! List-TR_specific.txt
