@@ -121,6 +121,10 @@ patronlardunyasi.com##.Ads
 patronlardunyasi.com##div[id*="-div-gpt-ad-"]
 sahibinden.com##.header-banners
 savunmahaber.com##.elementor-widget-w-bannerbox
+savunmasanayist.com##.stream-item
+savunmasanayist.com##.text-html
+savunmasanayist.com##.widget_block
+savunmasanayist.com##.widget_text
 shiftdelete.net##.above-header
 sikayetvar.com##.promo-banner
 sinema.cc##.r_header_0
