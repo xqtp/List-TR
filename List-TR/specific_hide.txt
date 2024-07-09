@@ -88,6 +88,7 @@ kizlarsoruyor.com###brand-skinundernav
 kulaklik.com##.left-right-banner
 leadergamer.com.tr##.ldr-board-row
 lezzet.com.tr##.news-inline-ads
+mediacat.com##.Block-advert:not(.Block-advert__magazine)
 memurlar.net##.click-tracker
 memurlar.net##.masthead-panel
 memurlar.net##.widget-336x280
