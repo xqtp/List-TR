@@ -89,6 +89,7 @@ itemci.com##.llgs-522x320
 itemci.com##.mpy__container-banner
 itemci.com##.mpy__banners-small_container
 izlekolik.org###preRollBd
+kisikates.com.tr##.RecipeDetail-orderCard
 kitapyurdu.com##.ad-large
 kizlarsoruyor.com###brand-skinundernav
 kulaklik.com##.left-right-banner
