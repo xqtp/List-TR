@@ -30,6 +30,11 @@ bursahayat.com.tr,ensonhaber.com,sehirmedya.com,veteknoloji.net,yozgatcamlik.com
 cimri.com##div[id^="adslot-"]
 cozumpark.com##.wpforo-ad
 cozumpark.com##.stream-item
+defenceturk.net##.defen-orta
+defenceturk.net##.elementor-widget-image
+defenceturk.net##.ha-slider
+defenceturk.net##.jeg_nav_html
+defenceturk.net###slider222
 diyetkolik.com##.reklamiKaldirLink
 diyetkolik.com##[id*="slot"]
 diyetkolik.com##div[style="min-height:250px;justify-content:center;align-items:center;display:flex;flex-direction:column"]
