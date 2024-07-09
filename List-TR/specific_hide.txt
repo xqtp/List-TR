@@ -25,6 +25,7 @@ bomba32.com##.flash-wrapper
 bomba32.com##.modulAds
 bomba32.com##.reklam-manset
 bomba32.com##.sag-manset
+bthaber.com##.fl-module-photo
 bursahayat.com.tr,ensonhaber.com,sehirmedya.com,veteknoloji.net,yozgatcamlik.com##.banner
 cimri.com##div[id^="adslot-"]
 cozumpark.com##.wpforo-ad
