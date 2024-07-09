@@ -3,6 +3,7 @@
 !
 ! List-TR_general.txt
 /all/libraries/analytics/*
+/hit-increment/*
 /js-repo/elc-service-analytics/*
 /themes/cl_base/js/shared/analytics.min.js
 !
