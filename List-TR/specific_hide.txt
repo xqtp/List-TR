@@ -125,6 +125,7 @@ onedio.com##[style="top:100px;"]
 ozgurbolu.com,spor14.com,bolusporluyuz.com###girisReklamalani
 patronlardunyasi.com##.Ads
 patronlardunyasi.com##div[id*="-div-gpt-ad-"]
+psmmag.com###top-bar
 saglikaktuel.com##.CM_pageskin_1
 saglikaktuel.com##.top_headline
 sahibinden.com##.header-banners
