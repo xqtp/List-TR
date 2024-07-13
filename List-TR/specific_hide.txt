@@ -35,6 +35,7 @@ defenceturk.net##.elementor-widget-image
 defenceturk.net##.ha-slider
 defenceturk.net##.jeg_nav_html
 defenceturk.net###slider222
+denizlihaber.com##.ap
 diyetkolik.com##.reklamiKaldirLink
 diyetkolik.com##[id*="slot"]
 diyetkolik.com##div[style="min-height:250px;justify-content:center;align-items:center;display:flex;flex-direction:column"]
