@@ -78,6 +78,7 @@ haberturk.com##.adv-news
 haberturk.com##.pageskin
 haberturk.com,yasemin.com##.masthead-top
 havadurumu15gunluk.xyz##.ads_row
+hesaplama.net##.mad
 hepsiburada.com##div[id^="Advertisement_"]
 hepsiburada.com###DESKTOP_MASTHEAD-googleAdvertisement
 cnnturk.com,hurriyet.com.tr,milliyet.com.tr##.adv
