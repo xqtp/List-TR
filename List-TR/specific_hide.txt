@@ -22,6 +22,7 @@ biletall.com,obilet.com##.journey-flight
 bisikletforum.com,forum.turkmmo.com,gezenbilir.com,kadinlarkulubu.com,technopat.net,vsro.org,webmasterforum.com.tr##.samBannerUnit
 bloomberght.com##.mustheadContainer
 bomba32.com##.flash-wrapper
+bomba32.com##.fulladds
 bomba32.com##.modulAds
 bomba32.com##.reklam-manset
 bomba32.com##.sag-manset
