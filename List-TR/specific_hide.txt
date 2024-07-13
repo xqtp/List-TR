@@ -102,6 +102,8 @@ leadergamer.com.tr##.ldr-board-row
 lezzet.com.tr##.news-inline-ads
 m5dergi.com##.widget_media_image
 m5dergi.com##.stream-item
+marketingturkiye.com.tr###block-5
+marketingturkiye.com.tr##.row.ci-ad.iframex
 mediacat.com##.Block-advert:not(.Block-advert__magazine)
 memurlar.net##.click-tracker
 memurlar.net##.masthead-panel
