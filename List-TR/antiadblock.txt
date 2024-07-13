@@ -2,7 +2,7 @@
 @@||exxen.com^$generichide
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=exxen.com
 @@||puhutv.com/banner-ad*.png
-evdeingilizcem.com,kriptoup.com##+js(set, tie.ad_blocker_detector, '')
+aktuelsanat.net,aof.tc,askeribirlikler.com,evdealmanca.com,evdeingilizcem.com,keylerbenden.com,kriptoup.com,tgyama.com,voleybolmagazin.com##+js(set, tie.ad_blocker_detector, '')
 exxen.com##+js(set, eyeOfErstream.detectedBloke, falseFunc)
 huawei-turkiye.com##.XGT-AdBlock-Govde
 kanald.com.tr#@##AdHeader
