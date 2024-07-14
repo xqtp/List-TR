@@ -4,6 +4,9 @@
 @@||puhutv.com/banner-ad*.png
 aktuelsanat.net,aof.tc,askeribirlikler.com,evdealmanca.com,evdeingilizcem.com,keylerbenden.com,kriptoup.com,tgyama.com,voleybolmagazin.com##+js(set, tie.ad_blocker_detector, '')
 cioupdate.com.tr,tgyama.com##+js(set, tie.ad_blocker_disallow_images_placeholder, '')
+eczacidergisi.com.tr##.mfp-bg
+eczacidergisi.com.tr##.mfp-wrap
+eczacidergisi.com.tr##html:style(overflow: auto !important;)
 exxen.com##+js(set, eyeOfErstream.detectedBloke, falseFunc)
 huawei-turkiye.com##.XGT-AdBlock-Govde
 kanald.com.tr#@##AdHeader
