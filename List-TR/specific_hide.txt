@@ -48,6 +48,7 @@ edebiyathaber.net##.header-top-ads
 ehliyettestleri.com,testlericoz.com##.ortala
 ehliyettestleri.com,testlericoz.com##.yazialtireklam
 ensonhaber.com###top-adbar
+ensonhaber.com##.top-adbar
 epey.com##.onsira
 epey.com##[style="background:#F5F5F5;position:relative;"]
 evimdergisi.com.tr##.block-da
