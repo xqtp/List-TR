@@ -149,6 +149,7 @@ shiftdelete.net##.above-header
 sikayetvar.com##.promo-banner
 sinema.cc##.r_header_0
 sinema.cc##.moon_ayd
+sinemalar.com###roadblock
 sondakika.com###pageskin_div
 sporx.com##div[style*="min-height: 250px"]
 tamindir.com##[class*="-banner"]
