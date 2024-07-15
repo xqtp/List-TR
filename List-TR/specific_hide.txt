@@ -45,6 +45,7 @@ diyetkolik.com##div[style="min-height:250px;justify-content:center;align-items:c
 dizilla.club###gpt_ad_HOME_CIRCLE_BOX_BOTTOM
 donanimhaber.com##.tepe-alan
 donanimhaber.com##[class^="reklam-"]
+duybunu.com.tr###duyBunuAds
 edebiyathaber.net##.adv-link
 edebiyathaber.net##.header-top-ads
 ehliyettestleri.com,testlericoz.com##.ortala
