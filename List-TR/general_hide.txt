@@ -64,6 +64,8 @@
 ##.blok-reklam
 ##.ct-ad
 ##.des-g.ads
+##.detail-reklam-sag
+##.detail-reklam-sol
 ##.detayreklam
 ##.dikeyreklam
 ##.dikReklam
