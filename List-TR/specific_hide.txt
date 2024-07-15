@@ -82,7 +82,7 @@ haberturk.com##.adv-news
 haberturk.com##.pageskin
 haberturk.com,yasemin.com##.masthead-top
 havadiskibris.com##.habericireklam
-havadiskibris.com##.widget_text
+havadiskibris.com###text-4
 havadiskibris.com##div[class*="alti"]
 havadurumu15gunluk.xyz##.ads_row
 hesaplama.net##.mad
