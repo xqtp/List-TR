@@ -137,6 +137,7 @@ onedio.com##.p-6.mb-6.relative
 onedio.com##.pt-2.pb-6.mt-2.w-full.relative
 onedio.com##.text-xs
 onedio.com##[style="top:100px;"]
+ototeknikveri.com##.oto_head
 ozgurbolu.com,spor14.com,bolusporluyuz.com###girisReklamalani
 patronlardunyasi.com##.Ads
 patronlardunyasi.com##div[id*="-div-gpt-ad-"]
