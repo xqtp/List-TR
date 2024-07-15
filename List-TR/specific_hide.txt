@@ -57,6 +57,7 @@ evimdergisi.com.tr##.block-da
 evimdergisi.com.tr##.masterhead
 evrensel.net##.haber-ici-reklam
 evrimagaci.org,wmaraci.com##.ads-container
+filmmodutv.com##.body-clickable
 find.com.tr##.ads-height-250
 find.com.tr##.ads-max-height-600
 find.com.tr##.ads-villa
