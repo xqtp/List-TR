@@ -35,6 +35,8 @@
 ||memurlar.net/common/widget-image^
 ||objektifhaber.com/static/fancybox/jquery.fancybox.js
 ||oggito.com/images/ads/
+||ototeknikveri.com/Advert/GetRandomAdvert
+||ototeknikveri.com/VField/GetOtoTeknikDisplayAd
 ||static.haber8.pro/reklam8.js
 ||storage.oyungezer.com.tr/ogz-public/ads/
 ||turktime.com/banner
