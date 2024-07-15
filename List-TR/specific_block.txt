@@ -18,6 +18,7 @@
 ||ekonomiknokta.com/upload/html-content/
 ||fikriyat.com/js/advertisements
 ||filmmakinesi.film/rek-ajax.php
+||filmmakinesi.film/wp-content/tanitim/*
 ||forum.donanimhaber.com/api2/Globalapi/ListProductAds
 ||forum.donanimhaber.com/bundles/banner?
 ||forum.donanimhaber.com/bundles/kelimeReklam?
