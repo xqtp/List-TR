@@ -17,6 +17,7 @@
 ||egeninsesi.com/system/ads/
 ||ekonomiknokta.com/upload/html-content/
 ||fikriyat.com/js/advertisements
+||filmmakinesi.film/rek-ajax.php
 ||forum.donanimhaber.com/api2/Globalapi/ListProductAds
 ||forum.donanimhaber.com/bundles/banner?
 ||forum.donanimhaber.com/bundles/kelimeReklam?
