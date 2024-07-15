@@ -61,7 +61,7 @@ find.com.tr##.ads-height-250
 find.com.tr##.ads-max-height-600
 find.com.tr##.ads-villa
 find.com.tr##.sidebox.no-p.no-m.noborder.page-shadow
-fintechtime.com,ifhaber.com,lafmacun.net##.code-block
+fintechtime.com,havadiskibris.com,ifhaber.com,lafmacun.net##.code-block
 forum.donanimhaber.com###trend-link
 forum.donanimhaber.com##.kl-ustu
 forum.donanimhaber.com##.yazilim-sponsor
@@ -81,6 +81,9 @@ haberler.com##.detaySagSilme
 haberturk.com##.adv-news
 haberturk.com##.pageskin
 haberturk.com,yasemin.com##.masthead-top
+havadiskibris.com##.habericireklam
+havadiskibris.com##.widget_text
+havadiskibris.com##div[class*="alti"]
 havadurumu15gunluk.xyz##.ads_row
 hesaplama.net##.mad
 hepsiburada.com##div[id^="Advertisement_"]
