@@ -7,7 +7,7 @@
 /js-repo/elc-service-analytics/*
 /themes/*/js/shared/analytics.js
 /themes/*/js/site/analytics.min.js
-/themes/cl_base/js/shared/analytics.min.js
+/themes/*/js/shared/analytics.min.js
 !
 ! List-TR_specific.txt
 ||acs.qnbfinansbank.com/api/log
