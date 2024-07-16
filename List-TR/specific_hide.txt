@@ -130,6 +130,9 @@ memurlar.net##.widget-336x280
 memurlar.net##.widget-580x400
 merlininkazani.com##.leader-board-row
 milliyet.com.tr##.topBandBanner
+motosiklet.net##.footerrek
+motosiklet.net##.habersag
+motosiklet.net##.tepebanners
 mynet.com##.adv-item-box
 mynet.com##.col-adv
 n11.com##.header-banner-cover
