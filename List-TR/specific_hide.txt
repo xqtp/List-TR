@@ -106,6 +106,7 @@ itemci.com##.modal#modalContentContent
 itemci.com##.modal#siteLoginContentContent
 itemci.com##.mpy__container-banner
 itemci.com##.mpy__banners-small_container
+itemci.com##.pvpAdvertRow
 itemci.com##body:style(overflow: auto !important; position: static !important;)
 izlekolik.org###preRollBd
 kisikates.com.tr##.RecipeDetail-orderCard
