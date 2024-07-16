@@ -21,6 +21,7 @@ aspor.com.tr,fotomac.com.tr,paradergi.com.tr,sofra.com.tr##.advers-box
 beyazperde.com##.main-banner
 biletall.com,obilet.com##.flight-journey
 biletall.com,obilet.com##.journey-flight
+bilgihazinem.net,fintechtime.com,havadiskibris.com,ifhaber.com,lafmacun.net##.code-block
 bisikletforum.com,forum.turkmmo.com,gezenbilir.com,kadinlarkulubu.com,technopat.net,vsro.org,webmasterforum.com.tr##.samBannerUnit
 bloomberght.com##.mustheadContainer
 bomba32.com##.flash-wrapper
@@ -63,7 +64,6 @@ find.com.tr##.ads-height-250
 find.com.tr##.ads-max-height-600
 find.com.tr##.ads-villa
 find.com.tr##.sidebox.no-p.no-m.noborder.page-shadow
-fintechtime.com,havadiskibris.com,ifhaber.com,lafmacun.net##.code-block
 forum.donanimhaber.com###trend-link
 forum.donanimhaber.com##.kl-ustu
 forum.donanimhaber.com##.yazilim-sponsor
