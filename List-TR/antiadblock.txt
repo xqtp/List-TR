@@ -18,8 +18,10 @@ kanald.com.tr#@##homead
 kanald.com.tr#@##ad-lead
 karnaval.com##+js(set, adblock_active, false)
 oyungemisi.com##.slot-container
+ozbeceriksizler.com##+js(nostif, displayMessage)
 sinnerclownceviri.com##+js(nostif, AdBlock)
 sinnerclownceviri.com##+js(nostif, offsetParent)
 sinnerclownceviri.com#@#.reklam
 themagger.com##.adg-fixed
+||beceriksizler.net/clientscript/yilmazantiadblockvb4.js
 ||merlininkazani.com/js/abdetector.script.min.js
