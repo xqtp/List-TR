@@ -131,6 +131,7 @@ memurlar.net##.widget-580x400
 merlininkazani.com##.leader-board-row
 milliyet.com.tr##.topBandBanner
 motosiklet.net##.footerrek
+motosiklet.net##.haberleradv
 motosiklet.net##.habersag
 motosiklet.net##.tepebanners
 mynet.com##.adv-item-box
