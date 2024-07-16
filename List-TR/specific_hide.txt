@@ -134,6 +134,8 @@ motosiklet.net##.footerrek
 motosiklet.net##.haberleradv
 motosiklet.net##.habersag
 motosiklet.net##.tepebanners
+motosiklet.net##.ucyuz36
+motosiklet.net##.ucyuzic
 mynet.com##.adv-item-box
 mynet.com##.col-adv
 n11.com##.header-banner-cover
