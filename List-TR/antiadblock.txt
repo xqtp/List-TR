@@ -6,9 +6,9 @@ aktuelsanat.net,aof.tc,askeribirlikler.com,evdealmanca.com,evdeingilizcem.com,ke
 betabuff.com,birsenaltuntas.com,blog.teknokesif.com.tr,her-sey.net,inceleriz.com,karliisfikirleri.com,menufiyatlari.com.tr##.adblockalert
 betabuff.com,birsenaltuntas.com,blog.teknokesif.com.tr,her-sey.net,inceleriz.com,karliisfikirleri.com,menufiyatlari.com.tr##.ad_block_detected:style(overflow: auto !important;)
 cioupdate.com.tr,tgyama.com##+js(set, tie.ad_blocker_disallow_images_placeholder, '')
-eczacidergisi.com.tr,thegamerstation.com##.mfp-bg
-eczacidergisi.com.tr,thegamerstation.com##.mfp-wrap
-eczacidergisi.com.tr,thegamerstation.com##html:style(overflow: auto !important;)
+eczacidergisi.com.tr,kibrisraporu.com,thegamerstation.com##.mfp-bg
+eczacidergisi.com.tr,kibrisraporu.com,thegamerstation.com##.mfp-wrap
+eczacidergisi.com.tr,kibrisraporu.com,thegamerstation.com##html:style(overflow: auto !important;)
 exxen.com##+js(set, eyeOfErstream.detectedBloke, falseFunc)
 huawei-turkiye.com##.XGT-AdBlock-Govde
 kanald.com.tr#@##AdHeader
