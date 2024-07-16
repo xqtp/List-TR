@@ -76,6 +76,7 @@
 ##.frontendAd
 ##.genelReklamCon
 ##.haber-detay-reklam
+##.header_big_advert
 ##.img_position_left
 ##.kanews-banner
 ##.kanews_widget_ads
