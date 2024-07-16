@@ -5,6 +5,7 @@
 /all/libraries/analytics/*
 /hit-increment/*
 /js-repo/elc-service-analytics/*
+/themes/*/js/site/analytics.min.js
 /themes/cl_base/js/shared/analytics.min.js
 !
 ! List-TR_specific.txt
