@@ -152,6 +152,8 @@ psmmag.com###top-bar
 saglikaktuel.com##.CM_pageskin_1
 saglikaktuel.com##.top_headline
 sahibinden.com##.header-banners
+salom.com.tr##.hmrl49
+salom.com.tr##.topbanner
 savunmahaber.com##.elementor-widget-w-bannerbox
 savunmasanayist.com##.stream-item
 savunmasanayist.com##.text-html
