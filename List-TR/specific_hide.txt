@@ -82,6 +82,8 @@ fullhdfilm.pro##.hrklm_oblong
 gazetememur.com##.ad-container
 gelirkapisi.com##div[id^="ad_"]
 gercekbandirma.com##[id^="block-views-reklam-block-"]
+gidaturk.com.tr##.tr_e3lan-widget
+gidaturk.com.tr##.widget_media_video
 haberler.com###ana_160x600_scroll
 haberler.com###detay_masthead
 haberler.com##.detaySagSilme
