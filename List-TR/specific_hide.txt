@@ -55,6 +55,7 @@ ekonomist.com.tr##div[id^="doganBurdaAds"]
 ekonomist.com.tr##.hide-mobile[style*="min-height: 250px;"]
 ekonomist.com.tr##.hide-mobile[style^="min-width:"][style*="min-height:"]
 ekonomist.com.tr,lezzet.com.tr##.news-inline-ads
+elle.com.tr##.abg245
 ensonhaber.com###top-adbar
 ensonhaber.com##.top-adbar
 epey.com##.onsira
