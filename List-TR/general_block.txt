@@ -20,7 +20,6 @@
 /reklamm.js
 /reklamresimleri/*
 /resim/ad/*
-/s/dosya/reklam/*
 /service/advertchannels?
 /storage/ads/*
 /thumb.php?src=*/images/banner/*
