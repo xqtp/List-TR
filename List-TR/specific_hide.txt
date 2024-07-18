@@ -143,6 +143,8 @@ mynet.com##.adv-item-box
 mynet.com##.col-adv
 n11.com##.header-banner-cover
 nedir.org##div[data-ad]
+nedir.org##[style="min-width:300px;min-height:200px;"]
+nedir.org##[style="min-width:320px;height:100px;"]
 nefisyemektarifleri.com##.nokta.no-print
 ntvspor.net,ntv.com.tr##.dygtag-masthead
 obilet.com##.featured-banner
