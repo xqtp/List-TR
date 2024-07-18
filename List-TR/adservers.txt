@@ -49,6 +49,7 @@
 ||ariyayin.com^$third-party
 ||aybereklam.com^
 ||a.doganburda.com^
+||baglanbize.net^
 ||banner.kanald.com.tr^
 ||bcvc.mobi^$third-party
 ||bwcdn.xyz^$third-party
