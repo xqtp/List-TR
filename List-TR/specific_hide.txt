@@ -172,6 +172,7 @@ ototeknikveri.com##.oto_head
 ozgurbolu.com,spor14.com,bolusporluyuz.com###girisReklamalani
 patronlardunyasi.com##.Ads
 patronlardunyasi.com##div[id*="-div-gpt-ad-"]
+perakende.org##a[target="_blank"][rel="noopener nofollow"] > img
 psmmag.com###top-bar
 saglikaktuel.com##.CM_pageskin_1
 saglikaktuel.com##.top_headline
