@@ -199,6 +199,8 @@ tgrthaber.com.tr##div[id^="dfp-kare"]
 tgrthaber.com.tr##div[class^="dfp-galeri-masthead"]
 themagger.com##.bus-bnr-block
 themagger.com##.side-bnr-list
+timekocaeli.com##.banners-slider
+timekocaeli.com##.tb-posts-slide-widget
 tourmag.com.tr##.elementor-widget-image
 tourmag.com.tr##.widget_media_image
 trdoktor.com##.reklam_alani
