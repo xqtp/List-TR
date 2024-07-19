@@ -33,6 +33,7 @@ bomba32.com##.sag-manset
 bthaber.com##.fl-module-photo
 bursahayat.com.tr,ensonhaber.com,sehirmedya.com,veteknoloji.net,yozgatcamlik.com##.banner
 cimri.com##div[id^="adslot-"]
+cnnturk.com,hurriyet.com.tr,milliyet.com.tr##.adv
 cozumpark.com##.wpforo-ad
 cozumpark.com##.stream-item
 defenceturk.net##.defen-orta
@@ -100,7 +101,6 @@ hesaplama.net##.mad
 hepsiburada.com##div[id^="Advertisement_"]
 hepsiburada.com###DESKTOP_MASTHEAD-googleAdvertisement
 hurriyet.com.tr##.sticky-wrapper
-cnnturk.com,hurriyet.com.tr,milliyet.com.tr##.adv
 ictmedia.com.tr##.horiAds
 iha.com.tr,mavikadin.com,tgrthaber.com.tr##div[id^="widget_General_Advert_"]
 ilacprospektusu.com##.rrReklam
