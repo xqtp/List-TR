@@ -16,7 +16,6 @@ altin.in###yorumiciReklam
 altin.in##.icReklam
 altyazi.net##.ReklamOuterRow
 altyazi.net##.thb_before_header
-ankaramasasi.com,cepde.net##.advertisement
 aspor.com.tr,fotomac.com.tr,paradergi.com.tr,sofra.com.tr##.advers-box
 avmdergi.com##.wpb_single_image
 beyazperde.com##.main-banner
@@ -32,6 +31,7 @@ bomba32.com##.reklam-manset
 bomba32.com##.sag-manset
 bthaber.com##.fl-module-photo
 bursahayat.com.tr,ensonhaber.com,sehirmedya.com,veteknoloji.net,yozgatcamlik.com##.banner
+cepde.net##.advertisement
 cimri.com##div[id^="adslot-"]
 cnnturk.com,hurriyet.com.tr,milliyet.com.tr##.adv
 cozumpark.com##.wpforo-ad
