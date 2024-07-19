@@ -30,7 +30,7 @@ bomba32.com##.modulAds
 bomba32.com##.reklam-manset
 bomba32.com##.sag-manset
 bthaber.com##.fl-module-photo
-bursahayat.com.tr,ensonhaber.com,sehirmedya.com,veteknoloji.net,yozgatcamlik.com##.banner
+bursahayat.com.tr,ensonhaber.com,sehirmedya.com,veteknoloji.net##.banner
 cepde.net##.advertisement
 cimri.com##div[id^="adslot-"]
 cnnturk.com,hurriyet.com.tr,milliyet.com.tr##.adv
