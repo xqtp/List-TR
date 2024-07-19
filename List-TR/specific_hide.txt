@@ -22,7 +22,7 @@ avmdergi.com##.wpb_single_image
 beyazperde.com##.main-banner
 biletall.com,obilet.com##.flight-journey
 biletall.com,obilet.com##.journey-flight
-bilgihazinem.net,fintechtime.com,havadiskibris.com,ifhaber.com,lafmacun.net##.code-block
+bilgihazinem.net,fintechtime.com,havadiskibris.com,ifhaber.com,koinvizyon.com,lafmacun.net##.code-block
 bisikletforum.com,forum.turkmmo.com,gezenbilir.com,kadinlarkulubu.com,technopat.net,vsro.org,webmasterforum.com.tr##.samBannerUnit
 bloomberght.com##.mustheadContainer
 bomba32.com##.flash-wrapper
@@ -121,6 +121,8 @@ izlekolik.org###preRollBd
 kisikates.com.tr##.RecipeDetail-orderCard
 kitapyurdu.com##.ad-large
 kizlarsoruyor.com###brand-skinundernav
+koinvizyon.com##.afc_popup
+koinvizyon.com###wp-custom-header
 kulaklik.com##.left-right-banner
 leadergamer.com.tr##.ldr-board-row
 m5dergi.com##.widget_media_image
