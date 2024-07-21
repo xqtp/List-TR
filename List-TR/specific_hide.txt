@@ -21,7 +21,7 @@ avmdergi.com##.wpb_single_image
 beyazperde.com##.main-banner
 biletall.com,obilet.com##.flight-journey
 biletall.com,obilet.com##.journey-flight
-bilgihazinem.net,fintechtime.com,havadiskibris.com,ifhaber.com,koinvizyon.com,lafmacun.net##.code-block
+bilgihazinem.net,fintechtime.com,gastromagazin.com.tr,havadiskibris.com,ifhaber.com,koinvizyon.com,lafmacun.net##.code-block
 bisikletforum.com,forum.turkmmo.com,gezenbilir.com,kadinlarkulubu.com,technopat.net,vsro.org,webmasterforum.com.tr##.samBannerUnit
 bloomberght.com##.mustheadContainer
 bomba32.com##.flash-wrapper
@@ -82,6 +82,8 @@ forum.donanimhaber.com##a[onclick^="adThisAfterSet"]
 forum.miuiturkiye.net,forum.turkmmo.com,gezenbilir.com,isgfrm.com,kadinlarkulubu.com##.samCodeUnit
 forum.turkmmo.com##.pageskin-main
 fullhdfilm.pro##.hrklm_oblong
+gastromagazin.com.tr##.elementor-widget-image
+gastromagazin.com.tr##.widget_media_image
 gazetememur.com##.ad-container
 gelirkapisi.com##div[id^="ad_"]
 gercekbandirma.com##[id^="block-views-reklam-block-"]
