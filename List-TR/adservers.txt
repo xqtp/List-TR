@@ -88,6 +88,7 @@
 ||reklam8.net^$third-party
 ||reklamaction.com^$third-party
 ||reklamagaci.com^$third-party
+||reklamatik.com^
 ||reklamdor.com^$third-party
 ||reklamnative.com^$third-party
 ||reklamstore.com^$third-party
