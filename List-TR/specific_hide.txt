@@ -16,7 +16,7 @@ altin.in###yorumiciReklam
 altin.in##.icReklam
 altyazi.net##.ReklamOuterRow
 altyazi.net##.thb_before_header
-aspor.com.tr,fotomac.com.tr,paradergi.com.tr,sofra.com.tr##.advers-box
+aspor.com.tr,fotomac.com.tr,inbusiness.com.tr,paradergi.com.tr,sofra.com.tr##.advers-box
 avmdergi.com##.wpb_single_image
 beyazperde.com##.main-banner
 biletall.com,obilet.com##.flight-journey
