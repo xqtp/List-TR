@@ -46,7 +46,7 @@ diyetkolik.com##.reklamiKaldirLink
 diyetkolik.com##[id*="slot"]
 diyetkolik.com##div[style="min-height:250px;justify-content:center;align-items:center;display:flex;flex-direction:column"]
 dizilla.club###gpt_ad_HOME_CIRCLE_BOX_BOTTOM
-dizimag.org###activeFrontVid
+dizimag.org,izlekolik.org###activeFrontVid
 donanimhaber.com##.tepe-alan
 donanimhaber.com##[class^="reklam-"]
 duybunu.com.tr###duyBunuAds
