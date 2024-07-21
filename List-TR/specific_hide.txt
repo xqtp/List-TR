@@ -149,6 +149,7 @@ motosiklet.net##.ucyuzic
 motosiklet.net##.ucyuzich
 mynet.com##.adv-item-box
 mynet.com##.col-adv
+n11.com##.adProductArea
 n11.com##.header-banner-cover
 nedir.og##[style="min-width:970px;min-height:250px;margin-top:15px"]
 nedir.org##[style="min-width:300px;min-height:200px;"]
