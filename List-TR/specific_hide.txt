@@ -22,7 +22,7 @@ beyazperde.com##.main-banner
 biletall.com,obilet.com##.flight-journey
 biletall.com,obilet.com##.journey-flight
 bilgihazinem.net,fintechtime.com,gastromagazin.com.tr,havadiskibris.com,ifhaber.com,koinvizyon.com,lafmacun.net##.code-block
-bisikletforum.com,forum.turkmmo.com,gezenbilir.com,kadinlarkulubu.com,technopat.net,vsro.org,webmasterforum.com.tr##.samBannerUnit
+bisikletforum.com,forum.turkmmo.com,gezenbilir.com,kadinlarkulubu.com,technopat.net,vsro.org##.samBannerUnit
 bloomberght.com##.mustheadContainer
 bomba32.com##.flash-wrapper
 bomba32.com##.fulladds
