@@ -78,6 +78,7 @@
 ##.haber-detay-reklam
 ##.header_big_advert
 ##.img_position_left
+##.kan-banner
 ##.kanews-banner
 ##.kanews_widget_ads
 ##.katReklam
