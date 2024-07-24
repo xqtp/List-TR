@@ -52,6 +52,7 @@ donanimhaber.com##[class^="reklam-"]
 duybunu.com.tr###duyBunuAds
 edebiyathaber.net##.adv-link
 edebiyathaber.net##.header-top-ads
+egeyonhaber.com##.custom-html-widget
 ehliyettestleri.com,testlericoz.com##.ortala
 ehliyettestleri.com,testlericoz.com##.yazialtireklam
 ekonomist.com.tr##div[id^="doganBurdaAds"]
