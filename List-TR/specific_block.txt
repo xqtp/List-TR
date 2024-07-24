@@ -26,6 +26,7 @@
 ||forum.donanimhaber.com/bundles/kelimeReklam?
 ||forum.sordum.net/images/banner/
 ||forum.turkmmo.com/banner/
+||guncelprojebilgileri.com/html_banner
 ||haber18.com/canbunlar/
 ||haberkibris.com/banner
 ||hdfilmcehennemi.mom/ads/
