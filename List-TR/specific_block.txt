@@ -18,6 +18,7 @@
 ||egedesonsoz.com/banner/
 ||egeninsesi.com/system/ads/
 ||ekonomiknokta.com/upload/html-content/
+||emlaktasondakika.com/html_banner/
 ||fikriyat.com/js/advertisements
 ||filmmakinesi.film/rek-ajax.php
 ||filmmakinesi.film/wp-content/tanitim/*
