@@ -1,5 +1,6 @@
 ||airporthaber.com/wk-uploads/banners/
 ||akhisarhaber.com/reklam
+||almanyabulteni.de/modules/custom/ab_banner/
 ||app.igfhaber.com/netasync.js
 ||aydinyeniufuk.com.tr/images/reklam/
 ||ayisozluk.com/reklamlogo/
