@@ -53,6 +53,6 @@
 ||webteizle3.com/*/malker
 ||webteizle3.com/i/vid-onu-*.mp4$media,redirect=noopmp3-0.1s
 ||widget.cdn.vidyome.com/builds/loader.js
-||yabancidizi.pro/v/
+||yabancidizi.tv/v/
 ||yasamoykusu.com/_docs/adds/
 ||yenimeram.com.tr/uploads/banner/
