@@ -1,5 +1,7 @@
 belgeselizlesene.com##+js(set, Object.prototype.ads_enable, false)
 belgeselizlesene.com##+js(set, Object.prototype.video_ads, noopFunc)
+burdurweb.com##^meta[http-equiv="refresh"]
+burdurweb.com##+js(refresh-defuser)
 breakingbadizle.net##+js(aopr, initAd)
 diziday1.com,jetfilmizletv.net,trfilm.net##+js(aopr, initPu)
 dizimag.org##+js(aopr, initPop)
