@@ -60,6 +60,7 @@ ekonomist.com.tr##.hide-mobile[style*="min-height: 250px;"]
 ekonomist.com.tr##.hide-mobile[style^="min-width:"][style*="min-height:"]
 ekonomist.com.tr,lezzet.com.tr##.news-inline-ads
 elle.com.tr##.abg245
+emlaktasondakika.com,guncelprojebilgileri.com##.add-section
 ensonhaber.com###top-adbar
 ensonhaber.com##.top-adbar
 enucuzoyun.com##.Advertisement1_defaultTheme__Ekwt9
@@ -92,7 +93,6 @@ gelirkapisi.com##div[id^="ad_"]
 gercekbandirma.com##[id^="block-views-reklam-block-"]
 gidaturk.com.tr##.tr_e3lan-widget
 gidaturk.com.tr##.widget_media_video
-guncelprojebilgileri.com##.add-section
 haberler.com###ana_160x600_scroll
 haberler.com###detay_masthead
 haberler.com##.detaySagSilme
