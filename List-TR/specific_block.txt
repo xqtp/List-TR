@@ -11,7 +11,7 @@
 ||bolununsesi.com/ilangorsel/
 ||cdn.vidyome.com/vidyome/builds/widgets.js
 ||cosmomedya.com/addserver
-||dizibox.in/r/
+||dizibox.de/r/
 ||donanimhaber.com/ads/
 ||donanimhaber.com/static/forum/js/kelimereklam_script.js
 ||eczacininsesi.com/banner/
