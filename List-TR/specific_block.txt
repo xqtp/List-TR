@@ -50,8 +50,8 @@
 ||static.haber8.pro/reklam8.js
 ||storage.oyungezer.com.tr/ogz-public/ads/
 ||turktime.com/banner
-||webteizle2.com/*/malker
-||webteizle2.com/i/vid-onu-*.mp4$media,redirect=noopmp3-0.1s
+||webteizle3.com/*/malker
+||webteizle3.com/i/vid-onu-*.mp4$media,redirect=noopmp3-0.1s
 ||widget.cdn.vidyome.com/builds/loader.js
 ||yabancidizi.pro/v/
 ||yasamoykusu.com/_docs/adds/
