@@ -47,6 +47,8 @@ diyetkolik.com##[id*="slot"]
 diyetkolik.com##div[style="min-height:250px;justify-content:center;align-items:center;display:flex;flex-direction:column"]
 dizilla.club###gpt_ad_HOME_CIRCLE_BOX_BOTTOM
 dizimag.org,izlekolik.org###activeFrontVid
+diziyou.co###diziyouFooter
+diziyou.co##img[width="900"][height="70"]
 donanimhaber.com##.tepe-alan
 donanimhaber.com##[class^="reklam-"]
 duybunu.com.tr###duyBunuAds
