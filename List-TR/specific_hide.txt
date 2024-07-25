@@ -182,6 +182,7 @@ onedio.com##.text-xs
 onedio.com##[style="top:100px;"]
 ototeknikveri.com##.oto_head
 ozgurbolu.com,spor14.com,bolusporluyuz.com###girisReklamalani
+paraanaliz.com###mvp-leader-wrap
 patronlardunyasi.com##.Ads
 patronlardunyasi.com##div[id*="-div-gpt-ad-"]
 pausedergi.com##.avia_image
