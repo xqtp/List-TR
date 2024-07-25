@@ -115,6 +115,7 @@ ilacrehberi.com###fixedAdLayer
 ilacrehberi.com##.frr_1
 ilacrehberi.com###kt_1
 ilacrehberi.com###kt_2
+istegundem.com##.secondswiper--right
 itemci.com##.banner-section
 itemci.com##.fade.show:empty
 itemci.com##.llgs-522x320
