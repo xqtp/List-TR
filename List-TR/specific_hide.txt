@@ -124,6 +124,7 @@ itemci.com##.mpy__container-banner
 itemci.com##.mpy__banners-small_container
 itemci.com##.pvpAdvertRow
 itemci.com##body:style(overflow: auto !important; position: static !important;)
+kariyer.net###sponsored-list
 kisikates.com.tr##.RecipeDetail-orderCard
 kitapyurdu.com##.ad-large
 kizlarsoruyor.com###brand-skinundernav
