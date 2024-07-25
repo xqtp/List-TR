@@ -175,6 +175,7 @@
 ##[class^="r_header_"]
 ##[data-name="tb_block"]
 ##[id^="moduleId_"]
+##a[href^="https://cutt.ly/"]
 ##div[class^="reklam_"]
 ##div[class^="rklmyn-"]
 ##div[data-advert="temedya"]
