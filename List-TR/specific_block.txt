@@ -22,6 +22,7 @@
 ||fikriyat.com/js/advertisements
 ||filmmakinesi.film/rek-ajax.php
 ||filmmakinesi.film/wp-content/tanitim/*
+||filmmodu17.com/ads/
 ||forum.donanimhaber.com/api2/Globalapi/ListProductAds
 ||forum.donanimhaber.com/bundles/banner?
 ||forum.donanimhaber.com/bundles/kelimeReklam?
