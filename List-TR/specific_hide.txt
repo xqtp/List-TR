@@ -211,6 +211,8 @@ savunmasanayist.com##.widget_block
 savunmasanayist.com##.widget_text
 savunmatr.com##.elementor-widget-shortcode
 shiftdelete.net##.above-header
+sigortagundem.com##.widget a[href]:not([href*="sigortagundem.com"]) > img
+sigortagundem.com##.sidebar > .widget:has(a[href]:not([href*="sigortagundem.com"]) > img)
 sikayetvar.com##.promo-banner
 sinema.cc##.r_header_0
 sinema.cc##.moon_ayd
