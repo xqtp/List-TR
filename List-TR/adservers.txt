@@ -65,6 +65,7 @@
 ||finvest.care^
 ||genelajans.com^$third-party
 ||gmgreklam.com^$third-party
+||gowit.com^$third-party
 ||indirads.org^$third-party
 ||inegolreklam.net^$third-party
 ||intermediaworks.com^$third-party
