@@ -92,6 +92,8 @@ forum.turkmmo.com##.pageskin-main
 fullhdfilm.pro###rekgecyen
 fullhdfilm.pro##.hrklm_oblong
 fullhdfilm.pro##a[onclick^="tiklakapat"]
+fullhdfilmizle.cx###rekgecyen
+fullhdfilmizle.cx##a[onclick^="tiklakapat"]
 gastromagazin.com.tr##.elementor-widget-image
 gastromagazin.com.tr##.widget_media_image
 gazetememur.com##.ad-container
