@@ -3,6 +3,7 @@
 !
 ! List-TR_general.txt
 /all/libraries/analytics/*
+/gowit/impressionEvent?
 /hit-increment/*
 /js-repo/elc-service-analytics/*
 /themes/*/js/shared/analytics.js
