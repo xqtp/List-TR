@@ -73,6 +73,8 @@ evimdergisi.com.tr##.masterhead
 evrensel.net##.haber-ici-reklam
 evrimagaci.org,wmaraci.com##.ads-container
 fikirliderleri.com##.vmagazine_lite_medium_ad
+filmmodu17.com###mobile-preroll:style(display: none !important;)
+filmmodu17.com##.embed-responsive:style(display: block !important;)
 filmmodutv.com##.body-clickable
 find.com.tr##.ads-height-250
 find.com.tr##.ads-max-height-600
