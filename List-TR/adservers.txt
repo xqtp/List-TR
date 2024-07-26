@@ -61,6 +61,7 @@
 ||diken.xyz^
 ||dogus-ads-cdn.dygdigital.com^$third-party
 ||empower.net^$third-party
+||filmbari.com^
 ||finvest.care^
 ||genelajans.com^$third-party
 ||gmgreklam.com^$third-party
