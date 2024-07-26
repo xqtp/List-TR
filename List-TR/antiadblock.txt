@@ -24,5 +24,6 @@ sinnerclownceviri.com##+js(nostif, AdBlock)
 sinnerclownceviri.com##+js(nostif, offsetParent)
 sinnerclownceviri.com#@#.reklam
 themagger.com##.adg-fixed
+vsro.org##+js(acs, $, btoa)
 ||beceriksizler.net/clientscript/yilmazantiadblockvb4.js
 ||merlininkazani.com/js/abdetector.script.min.js
