@@ -1,7 +1,7 @@
 81haber.com##.widget_custom_html
 81haber.com##.sadx
 ahaber.com.tr,apara.com.tr,aspor.com.tr,fotomac.com.tr,sabah.com.tr,takvim.com.tr,yeniasir.com.tr##.bandReklam
-ahaber.com.tr,aspor.com.tr,atv.com.tr,atvavrupa.tv,fotomac.com.tr,paradergi.com.tr,sabah.com.tr,sofra.com.tr,sosyalhalisaha.com,takvim.com.tr,yeniasir.com.tr##.billBoardFrame
+ahaber.com.tr,aspor.com.tr,atv.com.tr,atvavrupa.tv,fotomac.com.tr,sabah.com.tr,sofra.com.tr,sosyalhalisaha.com,takvim.com.tr,yeniasir.com.tr##.billBoardFrame
 airporthaber1.com,bursahayat.com.tr,ensonhaber.com,sehirmedya.com,veteknoloji.net##.banner
 ajansspor.com,ekonomist.com.tr,kanald.com.tr,yemek.com##.masthead
 ajansspor.com##.sidebar-cla
