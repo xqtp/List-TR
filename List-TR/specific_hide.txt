@@ -222,6 +222,7 @@ sondakika.com###pageskin_div
 sporx.com##div[style*="min-height: 250px"]
 tamindir.com##[class*="-banner"]
 tamindir.com##.outer-ads
+teknosa.com###gowitImpressionEvent
 teknoseyir.com##.tepe_reklam
 tgrthaber.com.tr##.advert-desktop
 tgrthaber.com.tr##div[id^="dfp-kare"]
