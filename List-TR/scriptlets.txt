@@ -1,3 +1,4 @@
+4kfilmizlesene.org##+js(aopw, adx)
 belgeselizlesene.com##+js(set, Object.prototype.ads_enable, false)
 belgeselizlesene.com##+js(set, Object.prototype.video_ads, noopFunc)
 burdurweb.com##^meta[http-equiv="refresh"]
