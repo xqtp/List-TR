@@ -138,6 +138,7 @@ kariyer.net###sponsored-list
 kisikates.com.tr##.RecipeDetail-orderCard
 kitapyurdu.com##.ad-large
 kizlarsoruyor.com###brand-skinundernav
+koctas.com.tr##.gowit
 koinvizyon.com##.afc_popup
 koinvizyon.com###wp-custom-header
 kulaklik.com##.left-right-banner
