@@ -14,3 +14,4 @@ trlyrics.com#@#.reklam
 @@||trakel.org/*/image_resize.php?ad=
 @@||trakus.org/*/image_resize.php?ad=
 @@||tramem.org/*/image_resize.php?ad=
+@@||zdassets.com/ekr/snippet.js$domain=bilyoner.com
