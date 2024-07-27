@@ -212,6 +212,9 @@ savunmasanayist.com##.text-html
 savunmasanayist.com##.widget_block
 savunmasanayist.com##.widget_text
 savunmatr.com##.elementor-widget-shortcode
+secretcv.com##.banner-area
+secretcv.com##.cv-ads
+secretcv.com##.sponsored-job
 shiftdelete.net##.above-header
 sigortagundem.com##.widget a[href]:not([href*="sigortagundem.com"]) > img
 sigortagundem.com##.sidebar > .widget:has(a[href]:not([href*="sigortagundem.com"]) > img)
