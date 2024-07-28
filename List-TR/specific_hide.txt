@@ -228,6 +228,8 @@ tamindir.com##[class*="-banner"]
 tamindir.com##.outer-ads
 teknosa.com###gowitImpressionEvent
 teknoseyir.com##.tepe_reklam
+tele1.com.tr##.desktopbluban
+tele1.com.tr###mansetust
 tgrthaber.com.tr##.advert-desktop
 tgrthaber.com.tr##div[id^="dfp-kare"]
 tgrthaber.com.tr##div[class^="dfp-galeri-masthead"]
