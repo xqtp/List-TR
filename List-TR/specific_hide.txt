@@ -251,6 +251,7 @@ turkiye.cool###duyBunuAds
 turkiyegazetesi.com.tr##.masthead-cls
 turkmmo.com##.elementor-widget-ghostpool_advertisement
 turkrus.com##div[class^="relative"]
+ucuzaucak.net###hook-topx
 uludagsozluk.com##[class^="adulu_"]
 uplifers.com##.up-masthead__container
 webtekno.com##.wt-masthead
