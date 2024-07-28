@@ -206,6 +206,7 @@ sahibinden.com##.header-banners
 salom.com.tr##.hmrl49
 salom.com.tr##.topbanner
 samsunsehirgazetesi.com##.ne-banner-layout1
+sanayigazetesi.com.tr###mvp-leader-wrap
 santiye.com.tr##[target="_blank"] > img
 savunmahaber.com##.elementor-widget-w-bannerbox
 savunmasanayist.com##.stream-item
