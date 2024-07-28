@@ -254,6 +254,7 @@ turkrus.com##div[class^="relative"]
 ucuzaucak.net###hook-topx
 uludagsozluk.com##[class^="adulu_"]
 uplifers.com##.up-masthead__container
+uplifers.com###up-masthead--infinite
 webtekno.com##.wt-masthead
 wmaraci.com##.row-ads
 yasemin.com##div[id^="dfp-anasayfa-masthead-"]
