@@ -50,7 +50,6 @@ diziyou.co###diziyouFooter
 diziyou.co##img[width="900"][height="70"]
 donanimhaber.com##.tepe-alan
 donanimhaber.com##[class^="reklam-"]
-duybunu.com.tr###duyBunuAds
 edebiyathaber.net##.adv-link
 edebiyathaber.net##.header-top-ads
 egeyonhaber.com##.custom-html-widget
@@ -247,6 +246,7 @@ trthaber.com##.masthead-ads-container
 turizmgazetesi.com##[class^="fixed"]
 turizmgazetesi.com##.bottom-header
 turizmgazetesi.com##.widget-adver
+turkiye.cool###duyBunuAds
 turkiyegazetesi.com.tr##.masthead-cls
 turkmmo.com##.elementor-widget-ghostpool_advertisement
 turkrus.com##div[class^="relative"]
