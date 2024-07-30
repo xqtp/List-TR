@@ -24,7 +24,6 @@ beyazperde.com##.main-banner
 biletall.com,obilet.com##.flight-journey
 biletall.com,obilet.com##.journey-flight
 bilgihazinem.net,fintechtime.com,gastromagazin.com.tr,havadiskibris.com,ifhaber.com,koinvizyon.com,lafmacun.net##.code-block
-bisikletforum.com,forum.turkmmo.com,gezenbilir.com,kadinlarkulubu.com,technopat.net,vsro.org##.samBannerUnit
 bloomberght.com##.mustheadContainer
 bomba32.com##.flash-wrapper
 bomba32.com##.fulladds
@@ -87,7 +86,6 @@ forum.donanimhaber.com##[class^="DH-Reklam-"]
 forum.donanimhaber.com##[class^="Forum_Anasayfa_YeniMasthead_"]
 forum.donanimhaber.com##[id^="dha_"]
 forum.donanimhaber.com##a[onclick^="adThisAfterSet"]
-forum.miuiturkiye.net,forum.turkmmo.com,gezenbilir.com,isgfrm.com,kadinlarkulubu.com##.samCodeUnit
 forum.turkmmo.com##.pageskin-main
 fullhdfilm.pro###rekgecyen
 fullhdfilm.pro##.hrklm_oblong
