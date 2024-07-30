@@ -265,6 +265,7 @@ yemek.com##.ContentRecipe_bannerTag__s7INC
 yemek.com##.nokta-ad
 yemek.com##.noktaAdRight
 yenikonya.com.tr,konhaber.com##.rkl
+yesilekonomi.com##a[href][target="_blank"] > img
 yildizkisafilm.org##.pppx
 !
 aydindenge.com.tr,bursa.com,cinemadran.com,dunyaatlasi.com,gayrimenkulhaber.com,gecmisgazete.com,internethaber.com,korkusuz.com.tr,megahaber27.com,ranini.tv,rumma.org,sozcu.com.tr,szctv.com.tr##.ad
