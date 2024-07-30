@@ -201,6 +201,7 @@ patronlardunyasi.com##div[id*="-div-gpt-ad-"]
 pausedergi.com##.avia_image
 perakende.org##a[target="_blank"][rel="noopener nofollow"] > img
 psmmag.com###top-bar
+pudra.com##.uzmanVideoItem
 saglikaktuel.com##.CM_pageskin_1
 saglikaktuel.com##.top_headline
 sahibinden.com##.header-banners
