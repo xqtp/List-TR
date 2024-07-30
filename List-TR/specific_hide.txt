@@ -24,6 +24,7 @@ beyazperde.com##.main-banner
 biletall.com,obilet.com##.flight-journey
 biletall.com,obilet.com##.journey-flight
 bilgihazinem.net,fintechtime.com,gastromagazin.com.tr,havadiskibris.com,ifhaber.com,koinvizyon.com,lafmacun.net##.code-block
+birgun.net##.adsmasthead
 bloomberght.com##.mustheadContainer
 bomba32.com##.flash-wrapper
 bomba32.com##.fulladds
