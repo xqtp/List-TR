@@ -51,6 +51,8 @@
 ||ototeknikveri.com/Advert/GetRandomAdvert
 ||ototeknikveri.com/VField/GetOtoTeknikDisplayAd
 ||play.dizigom1.tv/vast/
+||sporx.com/_iframe/mac-merkezi/scoreboard_bilyoner.php
+||sporx.com/tv/_iframe/embed_video_ysx.php?
 ||static.haber8.pro/reklam8.js
 ||storage.oyungezer.com.tr/ogz-public/ads/
 ||turktime.com/banner
