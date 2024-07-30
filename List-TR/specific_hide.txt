@@ -226,6 +226,7 @@ sinema.cc##.moon_ayd
 sinemalar.com###roadblock
 socratesdergi.com##.AdBanner_base__uwf0k
 sondakika.com###pageskin_div
+sporx.com###video_random
 sporx.com##div[style*="min-height: 250px"]
 tamindir.com##[class*="-banner"]
 tamindir.com##.outer-ads
