@@ -29,6 +29,7 @@
 ||forum.donanimhaber.com/bundles/kelimeReklam?
 ||forum.sordum.net/images/banner/
 ||forum.turkmmo.com/banner/
+||geo.dailymotion.com/player/$domain=ajansspor.com
 ||guncelprojebilgileri.com/html_banner
 ||haber18.com/canbunlar/
 ||haberkibris.com/banner
