@@ -18,12 +18,12 @@ altin.in###yorumiciReklam
 altin.in##.icReklam
 altyazi.net##.ReklamOuterRow
 altyazi.net##.thb_before_header
+aof.tc,bilgihazinem.net,fintechtime.com,gastromagazin.com.tr,havadiskibris.com,ifhaber.com,koinvizyon.com,lafmacun.net,tatil.net.tr,yoldaolmak.com##.code-block
 aspor.com.tr,fotomac.com.tr,inbusiness.com.tr,paradergi.com.tr,sofra.com.tr##.advers-box
 avmdergi.com##.wpb_single_image
 beyazperde.com##.main-banner
 biletall.com,obilet.com##.flight-journey
 biletall.com,obilet.com##.journey-flight
-bilgihazinem.net,fintechtime.com,gastromagazin.com.tr,havadiskibris.com,ifhaber.com,koinvizyon.com,lafmacun.net,tatil.net.tr,yoldaolmak.com##.code-block
 birgun.net##.adsmasthead
 bloomberght.com##.mustheadContainer
 bomba32.com##.flash-wrapper
