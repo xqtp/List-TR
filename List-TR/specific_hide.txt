@@ -70,6 +70,7 @@ ensonhaber.com##.top-adbar
 enucuzoyun.com##.Advertisement1_defaultTheme__Ekwt9
 epey.com##.onsira
 epey.com##[style="background:#F5F5F5;position:relative;"]
+eventmag.co##[id^="masthead"]
 evimdergisi.com.tr##.block-da
 evimdergisi.com.tr##.masterhead
 evrensel.net##.haber-ici-reklam
