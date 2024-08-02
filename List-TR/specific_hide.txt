@@ -1,4 +1,4 @@
-4kfilmizlesene.org,hdfilmcehennemi.mov##.container:style(margin-top: 0px !important)
+4kfilmizlesene.org,hdfilmcehennemi.mov,webteizle3.com##.container:style(margin-top: 0px !important)
 81haber.com##.widget_custom_html
 81haber.com##.sadx
 ahaber.com.tr,apara.com.tr,aspor.com.tr,fotomac.com.tr,sabah.com.tr,takvim.com.tr,yeniasir.com.tr##.bandReklam
