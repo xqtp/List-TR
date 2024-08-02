@@ -80,6 +80,7 @@
 ##.img_position_left
 ##.kan-banner
 ##.kanews-banner
+##.kanews-modal-popup
 ##.kanews_widget_ads
 ##.katReklam
 ##.konuiciReklam
