@@ -57,6 +57,7 @@ diziyou.co###diziyouFooter
 diziyou.co##img[width="900"][height="70"]
 donanimhaber.com##.tepe-alan
 donanimhaber.com##[class^="reklam-"]
+doramagazin.com##[class*="ads"]
 edebiyathaber.net##.adv-link
 edebiyathaber.net##.header-top-ads
 egeyonhaber.com##.custom-html-widget
