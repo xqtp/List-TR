@@ -78,6 +78,8 @@ evrensel.net##.haber-ici-reklam
 evrimagaci.org,wmaraci.com##.ads-container
 fikirliderleri.com##.vmagazine_lite_medium_ad
 filmhafizasi.com##.no-mobile
+filmizlesene.pro###wrap:style(margin-top: 0px !important)
+filmmakinesi.film##.ps-head-container
 filmmodu17.com###mobile-preroll:style(display: none !important;)
 filmmodu17.com##.embed-responsive:style(display: block !important;)
 filmmodutv.com##.body-clickable
@@ -93,8 +95,6 @@ forum.donanimhaber.com##[class^="Forum_Anasayfa_YeniMasthead_"]
 forum.donanimhaber.com##[id^="dha_"]
 forum.donanimhaber.com##a[onclick^="adThisAfterSet"]
 forum.turkmmo.com##.pageskin-main
-filmizlesene.pro###wrap:style(margin-top: 0px !important)
-filmmakinesi.film##.ps-head-container
 fullhdfilm.pro###rekgecyen
 fullhdfilm.pro##.hrklm_oblong
 fullhdfilm.pro##a[onclick^="tiklakapat"]
