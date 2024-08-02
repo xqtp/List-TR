@@ -97,6 +97,7 @@ filmizlesene.pro###wrap:style(margin-top: 0px !important)
 fullhdfilm.pro###rekgecyen
 fullhdfilm.pro##.hrklm_oblong
 fullhdfilm.pro##a[onclick^="tiklakapat"]
+fullhdfilm.pro##header:style(margin-top: 0px !important)
 fullhdfilmizle.cx###rekgecyen
 fullhdfilmizle.cx##a[onclick^="tiklakapat"]
 fullhdfilmizlesene.de##.orta:style(margin-top: 0px !important)
