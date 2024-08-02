@@ -78,7 +78,7 @@ eventmag.co##[id^="masthead"]
 evimdergisi.com.tr##.block-da
 evimdergisi.com.tr##.masterhead
 evrensel.net##.haber-ici-reklam
-evrimagaci.org,wmaraci.com##.ads-container
+evrimagaci.org##.ads-container
 fikirliderleri.com##.vmagazine_lite_medium_ad
 filmhafizasi.com##.no-mobile
 filmizlesene.pro###wrap:style(margin-top: 0px !important)
@@ -272,7 +272,7 @@ uludagsozluk.com##[class^="adulu_"]
 uplifers.com##.up-masthead__container
 uplifers.com###up-masthead--infinite
 webtekno.com##.wt-masthead
-wmaraci.com##.row-ads
+wmaraci.com##[class*="wmads"]
 yasemin.com##div[id^="dfp-anasayfa-masthead-"]
 yemek.com##.ContentRecipe_bannerTag__s7INC
 yemek.com##.nokta-ad
