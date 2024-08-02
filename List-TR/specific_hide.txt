@@ -94,6 +94,7 @@ forum.donanimhaber.com##[id^="dha_"]
 forum.donanimhaber.com##a[onclick^="adThisAfterSet"]
 forum.turkmmo.com##.pageskin-main
 filmizlesene.pro###wrap:style(margin-top: 0px !important)
+filmmakinesi.film##.ps-head-container
 fullhdfilm.pro###rekgecyen
 fullhdfilm.pro##.hrklm_oblong
 fullhdfilm.pro##a[onclick^="tiklakapat"]
