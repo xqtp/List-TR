@@ -274,6 +274,8 @@ wmaraci.com##[class*="wmads"]
 yasemin.com###masthead-position
 yasemin.com##.ad-right-block
 yasemin.com##.masthead
+yasemin.com##.masthead-script
+yasemin.com##div[id^="dfp-anasayfa-masthead-"]
 yemek.com##.ContentRecipe_bannerTag__s7INC
 yemek.com##.nokta-ad
 yemek.com##.noktaAdRight
