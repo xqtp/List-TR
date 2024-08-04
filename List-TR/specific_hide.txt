@@ -159,6 +159,7 @@ kadikoylife.com##.widget_media_image
 kariyer.net###sponsored-list
 kibrisgazetesi.com##.execphpwidget
 kibrisgazetesi.com##.site-header-top-center
+kibrisgazetesi.com##img[style="width:100%;"]
 kisikates.com.tr##.RecipeDetail-orderCard
 kitapyurdu.com##.ad-large
 kizlarsoruyor.com###brand-skinundernav
