@@ -235,8 +235,6 @@ shiftdelete.net##.above-header
 sigortagundem.com##.widget a[href]:not([href*="sigortagundem.com"]) > img
 sigortagundem.com##.sidebar > .widget:has(a[href]:not([href*="sigortagundem.com"]) > img)
 sikayetvar.com##.promo-banner
-sinema.cc##.r_header_0
-sinema.cc##.moon_ayd
 sinemalar.com###roadblock
 socratesdergi.com##.AdBanner_base__uwf0k
 sondakika.com###pageskin_div
