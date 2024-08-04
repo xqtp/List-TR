@@ -272,6 +272,8 @@ uplifers.com###up-masthead--infinite
 webtekno.com##.wt-masthead
 wmaraci.com##[class*="wmads"]
 yasemin.com###masthead-position
+yasemin.com##.ad-right-block
+yasemin.com##.masthead
 yemek.com##.ContentRecipe_bannerTag__s7INC
 yemek.com##.nokta-ad
 yemek.com##.noktaAdRight
