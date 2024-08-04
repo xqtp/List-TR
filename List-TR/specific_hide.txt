@@ -157,6 +157,8 @@ kadikoylife.com##.elementor-widget-image
 kadikoylife.com##.header-banner
 kadikoylife.com##.widget_media_image
 kariyer.net###sponsored-list
+kibrisgazetesi.com##.execphpwidget
+kibrisgazetesi.com##.site-header-top-center
 kisikates.com.tr##.RecipeDetail-orderCard
 kitapyurdu.com##.ad-large
 kizlarsoruyor.com###brand-skinundernav
