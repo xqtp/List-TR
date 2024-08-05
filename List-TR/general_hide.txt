@@ -76,6 +76,7 @@
 ##.frontendAd
 ##.genelReklamCon
 ##.haber-detay-reklam
+##.hbrad
 ##.header_big_advert
 ##.img_position_left
 ##.kan-banner
