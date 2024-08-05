@@ -178,6 +178,7 @@ kulaklik.com##.left-right-banner
 leadergamer.com.tr##.ldr-board-row
 m5dergi.com##.widget_media_image
 m5dergi.com##.stream-item
+magdergi.com##.wpb_single_image
 mallreport.com.tr##.swiper-slide-inner
 mallreport.com.tr##.widget_media_image
 marketingturkiye.com.tr###block-5
