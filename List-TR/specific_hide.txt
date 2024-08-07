@@ -108,6 +108,7 @@ forum.donanimhaber.com##[class^="DH-Reklam-"]
 forum.donanimhaber.com##[class^="Forum_Anasayfa_YeniMasthead_"]
 forum.donanimhaber.com##[id^="dha_"]
 forum.donanimhaber.com##a[onclick^="adThisAfterSet"]
+forum.gamer.com.tr##.gamer-ads-container
 forum.turkmmo.com##.pageskin-main
 fullhdfilm.pro###rekgecyen
 fullhdfilm.pro##.hrklm_oblong
