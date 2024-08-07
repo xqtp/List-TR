@@ -52,7 +52,6 @@ cepde.net##.advertisement
 cimri.com##div[id^="adslot-"]
 cnnturk.com,hurriyet.com.tr,milliyet.com.tr##.adv
 cozumpark.com##.wpforo-ad
-cozumpark.com##.stream-item
 defenceturk.net##.defen-orta
 defenceturk.net##.elementor-widget-image
 defenceturk.net##.ha-slider
@@ -178,7 +177,6 @@ koinvizyon.com###wp-custom-header
 kulaklik.com##.left-right-banner
 leadergamer.com.tr##.ldr-board-row
 m5dergi.com##.widget_media_image
-m5dergi.com##.stream-item
 magdergi.com##.wpb_single_image
 mallreport.com.tr##.swiper-slide-inner
 mallreport.com.tr##.widget_media_image
@@ -242,7 +240,6 @@ salom.com.tr##.topbanner
 sanayigazetesi.com.tr###mvp-leader-wrap
 santiye.com.tr##a[href][target="_blank"] > img
 savunmahaber.com##.elementor-widget-w-bannerbox
-savunmasanayist.com##.stream-item
 savunmasanayist.com##.text-html
 savunmasanayist.com##.widget_block
 savunmasanayist.com##.widget_text
