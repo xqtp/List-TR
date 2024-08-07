@@ -159,6 +159,7 @@
 ##.st_ad
 ##.stck-ad
 ##.stnz_reklam_blok
+##.stream-item
 ##.tb-block
 ##.tepebanner
 ##.topReklam
