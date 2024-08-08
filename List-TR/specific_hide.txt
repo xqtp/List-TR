@@ -139,7 +139,6 @@ hdfilmcehennemi.mov##a[onclick^="tiklakapat"]
 hdfilmcehennemi.so###header:style(margin-top: 0px !important)
 hesaplama.net##.mad
 hepsiburada.com##div[id^="Advertisement_"]
-hepsiburada.com###DESKTOP_MASTHEAD-googleAdvertisement
 hurriyet.com.tr##.advMasthead
 hurriyet.com.tr##.sticky-wrapper
 ictmedia.com.tr##.horiAds
