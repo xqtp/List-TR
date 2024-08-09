@@ -138,6 +138,8 @@ hdfilmcehennemi.mov###rekgecyen
 hdfilmcehennemi.mov##a[onclick^="tiklakapat"]
 hdfilmcehennemi.so###header:style(margin-top: 0px !important)
 hepsiburada.com##.Ng6fk9sFUymZGcprK15n
+hepsiburada.com##[data-test-id="sponsored-products"]
+hepsiburada.com##[id^="recommendation-item_page.web-rank"]
 hesaplama.net##.mad
 hurriyet.com.tr##.advMasthead
 hurriyet.com.tr##.sticky-wrapper
