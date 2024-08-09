@@ -137,7 +137,6 @@ havadurumu15gunluk.xyz##.ads_row
 hdfilmcehennemi.mov###rekgecyen
 hdfilmcehennemi.mov##a[onclick^="tiklakapat"]
 hdfilmcehennemi.so###header:style(margin-top: 0px !important)
-hepsiburada.com##.sponsored-merchant-tab
 hesaplama.net##.mad
 hurriyet.com.tr##.advMasthead
 hurriyet.com.tr##.sticky-wrapper
