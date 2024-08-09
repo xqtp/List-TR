@@ -62,6 +62,7 @@
 ||storage.oyungezer.com.tr/ogz-public/ads/
 ||tarimca.com.tr/wp-content/plugins/halfdata-green-popups/js/lepopup.js
 ||turktime.com/banner/
+||voltran.hepsiburada.com/recommendation?
 ||webteizle3.com/*/malker
 ||webteizle3.com/i/vid-onu-*.mp4$media,redirect=noopmp3-0.1s
 ||widget.cdn.vidyome.com/builds/loader.js
