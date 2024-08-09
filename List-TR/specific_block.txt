@@ -36,7 +36,6 @@
 ||haberkibris.com/banner
 ||hdfilmcehennemi.mom/ads/
 ||hdfilmizle.one/ads/
-||hepsiburada.net/assets/sfvoltranstatic/*/project/assets/Advertisement-*.js
 ||hepsiburada.net/hepsiads/
 ||hibya.com/ads/
 ||i12.haber7.net/sondakika/newsstand/daily-headlines.html$domain=yasemin.com
