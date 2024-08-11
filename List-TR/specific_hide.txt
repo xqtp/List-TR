@@ -30,6 +30,10 @@ avmdergi.com##.wpb_single_image
 besiktas.com.tr##.ad-masthead
 besiktas.com.tr##.saniyeli_reklam
 beyazperde.com##.main-banner
+bigatribun.net##.wp-image-25525
+bigatribun.net##.wp-image-25913
+bigatribun.net##.wp-image-26035
+bigatribun.net##.wp-image-26040
 biletall.com,obilet.com##.flight-journey
 biletall.com,obilet.com##.journey-flight
 bimagazin.com##[style="background-image: url(/maritza.jpg);"]
