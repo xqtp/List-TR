@@ -66,7 +66,7 @@ dizimag.org,izlekolik.org###activeFrontVid
 diziyou.co###diziyouFooter
 diziyou.co##img[width="900"][height="70"]
 donanimhaber.com##.tepe-alan
-donanimhaber.com##[class^="reklam-"]
+donanimhaber.com,rekoroyun.com##[class^="reklam-"]
 doramagazin.com##[class*="ads"]
 edebiyathaber.net##.adv-link
 edebiyathaber.net##.header-top-ads
