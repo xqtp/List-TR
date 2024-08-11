@@ -5,6 +5,8 @@
 ||avantajix.com/images/$domain=forum.donanimhaber.com
 ||aydinyeniufuk.com.tr/images/reklam/
 ||ayisozluk.com/reklamlogo/
+||bigatribun.net/wp-content/plugins/bdthemes-element-pack/assets/js/modules/ep-modal.min.js
+||bigatribun.net/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/owl-carousel-new/owl.carousel.min.js
 ||bilgisayarbilisim.net/destek/$image
 ||biomedya.com/uploads/bannerlar/
 ||bisikletforum.com/styles/sponsor/
