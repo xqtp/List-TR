@@ -202,6 +202,7 @@ motosiklet.net##.ucyuz36
 motosiklet.net##.ucyuzadv
 motosiklet.net##.ucyuzic
 motosiklet.net##.ucyuzich
+muhabbit.com##.normal_banner
 mynet.com##.adv-item-box
 mynet.com##.col-adv
 n11.com##.adProductArea
