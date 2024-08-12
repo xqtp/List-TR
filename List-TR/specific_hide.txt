@@ -1,3 +1,4 @@
+12punto.com.tr##.subNews
 320volt.com##[rel*="sponsored"]
 4kfilmizlesene.org,hdfilmcehennemi.mov,webteizle.info##.container:style(margin-top: 0px !important)
 81haber.com##.widget_custom_html
