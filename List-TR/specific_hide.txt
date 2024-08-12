@@ -53,6 +53,8 @@ bugunkibris.com##.Adv-pc
 bugunkibris.com##img[width="300px"][height="169px"]
 bugunkibris.com##img[width="700px"][height="90px"]
 bugunkibris.com##img[width="720px"][height="90px"]
+businessmed.com.tr###bunyad-widget-ads-10
+businessmed.com.tr##.the-banner
 cepde.net##.advertisement
 cimri.com##div[id^="adslot-"]
 cnnturk.com,hurriyet.com.tr,milliyet.com.tr##.adv
