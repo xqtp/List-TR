@@ -280,6 +280,9 @@ sporx.com###video_random
 sporx.com##div[style*="min-height: 250px"]
 tamindir.com##[class*="-banner"]
 tamindir.com##.outer-ads
+teknodiot.com##.code-block
+teknodiot.com##.stream-item-125-widget
+teknodiot.com##[target="_blank"][rel="noopener"]
 teknosa.com###gowitImpressionEvent
 teknoseyir.com##.tepe_reklam
 tele1.com.tr##.desktopbluban
