@@ -52,6 +52,7 @@
 ||konhaber.com/sahifeler/rkl/
 ||labmedya.com/*/__afis/
 ||labmedya.com/uploads/bannerlar/
+||labmedya.com/uploads/firmalar/$image
 ||magazinizmir.com/reklam_yonetimi/
 ||mallreport.com.tr/wp-content/plugins/popup-builder/*
 ||memurlar.net/common/widget-image^
