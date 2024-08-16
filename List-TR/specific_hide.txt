@@ -303,6 +303,7 @@ trthaber.com##.masthead-ads-container
 turizmgazetesi.com##[class^="fixed"]
 turizmgazetesi.com##.bottom-header
 turizmgazetesi.com##.widget-adver
+turkascihaberleri.com##.sidebar-add-place
 turkiye.cool###duyBunuAds
 turkiyegazetesi.com.tr##.masthead-cls
 turkmmo.com##.elementor-widget-ghostpool_advertisement
