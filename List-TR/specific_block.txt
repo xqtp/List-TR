@@ -24,6 +24,7 @@
 ||ekonomiknokta.com/upload/html-content/
 ||emlaktasondakika.com/html_banner/
 ||fikriyat.com/js/advertisements
+||files.mc-tr.com/ads/
 ||filmmakinesi.film/rek-ajax.php
 ||filmmakinesi.film/wp-content/tanitim/*
 ||filmmodu17.com/ads/
