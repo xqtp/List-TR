@@ -117,6 +117,7 @@ forum.donanimhaber.com##[id^="dha_"]
 forum.donanimhaber.com##a[onclick^="adThisAfterSet"]
 forum.gamer.com.tr##.gamer-ads-container
 forum.turkmmo.com##.pageskin-main
+fuarzamani.com###Reklam
 fullhdfilm.pro###rekgecyen
 fullhdfilm.pro##.hrklm_oblong
 fullhdfilm.pro##a[onclick^="tiklakapat"]
