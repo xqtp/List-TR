@@ -304,6 +304,7 @@ turizmgazetesi.com##[class^="fixed"]
 turizmgazetesi.com##.bottom-header
 turizmgazetesi.com##.widget-adver
 turkascihaberleri.com##.sidebar-add-place
+turkchem.net##[href^="https://www.turkchem.net/ads/"]
 turkiye.cool###duyBunuAds
 turkiyegazetesi.com.tr##.masthead-cls
 turkmmo.com##.elementor-widget-ghostpool_advertisement
