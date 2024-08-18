@@ -1,4 +1,3 @@
-||61ads.net^
 ||adbetnetwork.com^$third-party
 ||adbreak.cubecdn.net^$third-party
 ||adbreak.net^
@@ -9,7 +8,6 @@
 ||adl.mynetreklam.com^
 ||admatic.com.tr^$third-party
 ||adnamo.net^$third-party
-||adnsafe.net^$third-party
 ||adn.bursadabugun.com^
 ||adon.io^$third-party
 ||adpozitif.com^$third-party
@@ -25,11 +23,9 @@
 ||adsp.haberturk.com^
 ||ads.dogusdigital.com^
 ||ads.dygdigital.com^
-||ads.igfhaber.com^
 ||ads.inegolonline.com^
 ||ads.macsonuclari.mobi^
 ||ads.motosiklet.net^
-||ads.oyungemisi.com^
 ||ads.pivol.net^
 ||ads.sondakika.com^
 ||ads.web.tr^$third-party
@@ -38,8 +34,6 @@
 ||ad.dline.com.tr^
 ||ad.donanimhaber.com^
 ||ad.reklm.com^
-||ad.reyazilim.com^
-||ad.setrowid.com^
 ||ad.yemeksepeti.com^
 ||afyonturkreklam.com^$third-party
 ||alty.fun^
@@ -47,10 +41,8 @@
 ||apptospace.com^
 ||app.gelirartisi.com^$third-party
 ||ariyayin.com^$third-party
-||aybereklam.com^
 ||a.doganburda.com^
 ||baglanbize.net^
-||banner.kanald.com.tr^
 ||bcvc.mobi^$third-party
 ||bwcdn.xyz^$third-party
 ||bwtsrv.com^$third-party
@@ -97,9 +89,7 @@
 ||reklamstore.com^$third-party
 ||reklam.memurlar.net^
 ||reklam.milliyet.com.tr^
-||reklam.misli.com^
 ||reklam.mynet.com^
-||reklam.star.com.tr^
 ||reklam.turkmmo.com^
 ||rek.yemlee.com^$third-party
 ||revotas.com^$third-party
