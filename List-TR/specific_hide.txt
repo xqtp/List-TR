@@ -89,6 +89,7 @@ emlaktasondakika.com,guncelprojebilgileri.com##.add-section
 ensonhaber.com###top-adbar
 ensonhaber.com##.top-adbar
 enucuzoyun.com##.Advertisement1_defaultTheme__Ekwt9
+enucuzoyun.com##.collection_brandProductCard__25FX5
 epey.com##.onsira
 epey.com##[style="background:#F5F5F5;position:relative;"]
 eventmag.co##[id^="masthead"]
