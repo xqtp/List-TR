@@ -252,6 +252,8 @@ perakende.org##a[target="_blank"][rel="noopener nofollow"] > img
 psmmag.com###top-bar
 pudra.com##.uzmanVideoItem
 repertuarim.com##[class^="ads_"]
+resulkurt.com###market
+resulkurt.com##[id^="adsZone_"]
 saglikaktuel.com##.CM_pageskin_1
 saglikaktuel.com##.top_headline
 sahibinden.com##.header-banners
