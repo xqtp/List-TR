@@ -65,7 +65,6 @@
 ||kingads2.org^
 ||kriptoparahaber.care^
 ||makroo.com^$third-party
-||makroo.haber7.net^
 ||medyanative.com^$third-party
 ||metrics34.com^$third-party
 ||mp.subservis.com^
