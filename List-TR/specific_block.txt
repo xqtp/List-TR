@@ -42,6 +42,7 @@
 ||hdfilmizle.one/ads/
 ||hepsiburada.net/hepsiads/
 ||hibya.com/ads/
+||i11.haber7.net/makroo/hb-ads/
 ||i12.haber7.net/sondakika/newsstand/daily-headlines.html$domain=yasemin.com
 ||ictmedia.com.tr/uploads/ictds/
 ||images.kizlarsoruyor.com/custom/Brands/
@@ -54,6 +55,7 @@
 ||labmedya.com/uploads/bannerlar/
 ||labmedya.com/uploads/firmalar/$image
 ||magazinizmir.com/reklam_yonetimi/
+||makroo.haber7.net/creative/
 ||mallreport.com.tr/wp-content/plugins/popup-builder/*
 ||memurlar.net/common/widget-image^
 ||objektifhaber.com/static/fancybox/jquery.fancybox.js
