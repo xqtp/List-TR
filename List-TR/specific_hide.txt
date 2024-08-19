@@ -97,6 +97,7 @@ evimdergisi.com.tr##.block-da
 evimdergisi.com.tr##.masterhead
 evrensel.net##.haber-ici-reklam
 evrimagaci.org##.ads-container
+exceldepo.com##.block-body.block-row.text-center
 fikirliderleri.com##.vmagazine_lite_medium_ad
 filmhafizasi.com##.no-mobile
 filmizlesene.pro###wrap:style(margin-top: 0px !important)
