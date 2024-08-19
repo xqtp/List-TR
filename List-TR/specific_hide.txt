@@ -286,6 +286,7 @@ sporx.com##div[style*="min-height: 250px"]
 star.com.tr###masthead-wrapper
 star.com.tr##.mainMastheadBg
 star.com.tr##[style="height:110px"]
+star.com.tr##[style="height:115px;margin:0 auto !important;text-align:center"]
 star.com.tr##[style="height:262px"]
 star.com.tr##[style="height:262px;"]
 star.com.tr##[style="height:274px"]
