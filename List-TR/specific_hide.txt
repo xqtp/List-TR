@@ -283,6 +283,7 @@ socratesdergi.com##.AdBanner_base__uwf0k
 sondakika.com###pageskin_div
 sporx.com###video_random
 sporx.com##div[style*="min-height: 250px"]
+star.com.tr##[style="height:262px;"]
 tahlil.com##.col-lg-12.mt-2.mb-4.text-center
 tamindir.com##[class*="-banner"]
 tamindir.com##.outer-ads
