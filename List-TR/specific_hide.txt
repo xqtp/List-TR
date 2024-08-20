@@ -141,6 +141,7 @@ haberler.com##.detaySagSilme
 haberturk.com##.adv-news
 haberturk.com##.pageskin
 haberturk.com##.masthead-top
+hangikredi.com##.card--sponsored
 havadiskibris.com##.habericireklam
 havadiskibris.com###text-4
 havadiskibris.com##div[class*="alti"]
