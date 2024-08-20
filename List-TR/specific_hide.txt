@@ -281,7 +281,6 @@ sikayetvar.com##.promo-banner
 sinema.cx###page:style(margin-top: 0px !important)
 sinemalar.com###roadblock
 socratesdergi.com##.AdBanner_base__uwf0k
-sondakika.com###pageskin_div
 sporx.com###video_random
 sporx.com##div[style*="min-height: 250px"]
 star.com.tr###masthead-wrapper
