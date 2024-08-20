@@ -143,6 +143,7 @@ haberturk.com##.pageskin
 haberturk.com##.masthead-top
 hangikredi.com##.card--sponsored
 hangikredi.com##.product-list-card_product_list_card__U9t3R.border.border-dark-blue
+hangikredi.com##[style^="--badge-color:#F6A927"]
 havadiskibris.com##.habericireklam
 havadiskibris.com###text-4
 havadiskibris.com##div[class*="alti"]
