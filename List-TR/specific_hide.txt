@@ -192,6 +192,7 @@ koinvizyon.com##.afc_popup
 koinvizyon.com###wp-custom-header
 kulaklik.com##.left-right-banner
 leadergamer.com.tr##.ldr-board-row
+lordiz.com###custom_html-23, #custom_html-13, #custom_html-21
 m5dergi.com##.widget_media_image
 magdergi.com##.wpb_single_image
 mallreport.com.tr##.swiper-slide-inner
