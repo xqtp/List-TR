@@ -239,6 +239,7 @@ onedio.com##.min-h-\[200px\]
 onedio.com##.min-h-\[360px\]
 onedio.com##.pt-2.pb-6.mt-2.w-full.relative
 onedio.com##.text-xs
+onedio.com##.top-24
 ototeknikveri.com##.oto_head
 ozgurbolu.com,spor14.com,bolusporluyuz.com###girisReklamalani
 paraanaliz.com###mvp-leader-wrap
