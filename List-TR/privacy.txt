@@ -1,5 +1,3 @@
-! List-TR_allowlist.txt
-@@||collector.wawlabs.com/mmsearch.js$domain=mediamarkt.com.tr
 !
 ! List-TR_general.txt
 /all/libraries/analytics/*
