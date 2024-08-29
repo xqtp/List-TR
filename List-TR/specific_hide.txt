@@ -57,6 +57,7 @@ businessmed.com.tr###bunyad-widget-ads-10
 businessmed.com.tr##.the-banner
 cepde.net##.advertisement
 cimri.com##div[id^="adslot-"]
+cnnturk.com##.adv-wrapper
 cnnturk.com,hurriyet.com.tr,milliyet.com.tr##.adv
 cozumpark.com##.wpforo-ad
 defenceturk.net##.defen-orta
