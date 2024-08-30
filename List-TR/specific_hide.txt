@@ -11,6 +11,7 @@ ajandakolik.com##[alt="AjandaKolik Reklam"]
 ajansspor.com##.recommended-video
 ajansspor.com,ekonomist.com.tr,kanald.com.tr,yemek.com##.masthead
 ajansspor.com##.sidebar-cla
+akakce.com##.billboard_content
 akakce.com###billboard_wrapper
 aksam.com.tr##.mainMastheadBg
 aksam.com.tr##[style="height:262px;"]
