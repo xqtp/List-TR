@@ -71,7 +71,8 @@ denizlihaber.com##.ap
 diyetkolik.com##.reklamiKaldirLink
 diyetkolik.com##[id*="slot"]
 diyetkolik.com##div[style="min-height:250px;justify-content:center;align-items:center;display:flex;flex-direction:column"]
-dizilla.club###gpt_ad_HOME_CIRCLE_BOX_BOTTOM
+dizilla.club##.advert
+dizilla.club##[id^="gpt_ad_"]
 dizimag.org,izlekolik.org###activeFrontVid
 diziyou.co###diziyouFooter
 diziyou.co##img[width="900"][height="70"]
