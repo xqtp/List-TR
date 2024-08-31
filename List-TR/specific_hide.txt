@@ -1,9 +1,9 @@
-12punto.com.tr##.subNews
-320volt.com##[rel*="sponsored"]
 4kfilmizlesene.org,hdfilmcehennemi.mov,webteizle.info##.container:style(margin-top: 0px !important)
 6nmagazine.com##.bn-content
-81haber.com##.widget_custom_html
+12punto.com.tr##.subNews
 81haber.com##.sadx
+81haber.com##.widget_custom_html
+320volt.com##[rel*="sponsored"]
 ahaber.com.tr,apara.com.tr,aspor.com.tr,fotomac.com.tr,sabah.com.tr,takvim.com.tr,yeniasir.com.tr##.bandReklam
 ahaber.com.tr,aspor.com.tr,atv.com.tr,atvavrupa.tv,fotomac.com.tr,sabah.com.tr,sofra.com.tr,sosyalhalisaha.com,takvim.com.tr,yeniasir.com.tr##.billBoardFrame
 airlinehaber.com##.custom-html-widget
