@@ -102,7 +102,6 @@ evrensel.net##.haber-ici-reklam
 evrimagaci.org##.ads-container
 exceldepo.com##.block.pt-10
 fikirliderleri.com##.vmagazine_lite_medium_ad
-filmhafizasi.com##.no-mobile
 filmizlesene.pro###wrap:style(margin-top: 0px !important)
 filmmakinesi.film##.ps-head-container
 filmmodu17.com###mobile-preroll:style(display: none !important;)
