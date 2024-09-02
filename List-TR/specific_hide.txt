@@ -20,6 +20,7 @@ aksam.com.tr##[style="width:300px;height:250px;margin-bottom:10px;"]
 aksam.com.tr##[style="margin: 0 auto;height:95px"]
 aksam.com.tr##[style="height:260px;margin:0 auto;text-align:center"]
 aksam.com.tr##[style="height:300px;margin-bottom:15px"]
+akorlar.com###masaustu
 altin.in###ustR
 altin.in###yorumiciReklam
 altin.in##.icReklam
