@@ -111,6 +111,7 @@ filmmakinesi.film##.ps-head-container
 filmmodu17.com###mobile-preroll:style(display: none !important;)
 filmmodu17.com##.embed-responsive:style(display: block !important;)
 filmmodutv.com##.body-clickable
+finanshub.com###media_video-8
 find.com.tr##.ads-height-250
 find.com.tr##.ads-max-height-600
 find.com.tr##.ads-villa
