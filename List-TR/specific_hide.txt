@@ -26,6 +26,8 @@ altin.in##.icReklam
 altyazi.net##.ReklamOuterRow
 altyazi.net##.thb_before_header
 aof.tc,bilgihazinem.net,fintechtime.com,gastromagazin.com.tr,havadiskibris.com,ifhaber.com,koinvizyon.com,lafmacun.net,tatil.net.tr,yoldaolmak.com##.code-block
+apara.com.tr##.ad-control-full
+apara.com.tr##.ad-control-left
 aspor.com.tr,fotomac.com.tr,inbusiness.com.tr,paradergi.com.tr,sofra.com.tr##.advers-box
 atarita.com###tdi_3
 atarita.com###tdi_40
