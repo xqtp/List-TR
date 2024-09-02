@@ -262,6 +262,7 @@ paratic.com##.all-page-a-d
 paratic.com##.g-frm-bnr
 paratic.com##.p-bnr
 paratic.com##.top-link-g
+paratic.com##.unique_adslink
 patronlardunyasi.com##.Ads
 patronlardunyasi.com##div[id*="-div-gpt-ad-"]
 pausedergi.com##.avia_image
