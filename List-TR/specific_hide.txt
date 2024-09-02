@@ -60,6 +60,7 @@ bugunkibris.com##img[width="700px"][height="90px"]
 bugunkibris.com##img[width="720px"][height="90px"]
 businessmed.com.tr###bunyad-widget-ads-10
 businessmed.com.tr##.the-banner
+businessworldglobal.com##a[href][target="_blank"] > img
 cepde.net##.advertisement
 cimri.com##div[id^="adslot-"]
 cnnturk.com##.adv-wrapper
