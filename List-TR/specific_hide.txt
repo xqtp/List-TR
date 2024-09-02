@@ -346,6 +346,7 @@ ucuzaucak.net###hook-topx
 uludagsozluk.com##[class^="adulu_"]
 uplifers.com##.up-masthead__container
 uplifers.com###up-masthead--infinite
+ustayemektarifleri.com##.treklam
 webtekno.com##.wt-container:style(padding-top: 60px!important;)
 webtekno.com##.wt-masthead
 wmaraci.com##[class*="wmads"]
