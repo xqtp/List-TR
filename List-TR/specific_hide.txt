@@ -222,6 +222,7 @@ memurlar.net##.widget-336x280
 memurlar.net##.widget-580x400
 merlininkazani.com##.leader-board-row
 milliyet.com.tr##.topBandBanner
+mitula.com.tr##.afsContainer
 modadergitv.com##.bkmxhtqpdf-column-1
 motosiklet.net##.footerrek
 motosiklet.net##.forumreklamlari
