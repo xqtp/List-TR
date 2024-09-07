@@ -77,7 +77,6 @@
 ||pophit.net^$third-party
 ||programattik.com^$third-party
 ||publisher-network.com^$third-party
-||qushad.com^
 ||reklam8.net^$third-party
 ||reklamaction.com^$third-party
 ||reklamagaci.com^$third-party
