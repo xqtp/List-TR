@@ -298,6 +298,7 @@ sayfa.istanbul##.centered-content
 secretcv.com##.banner-area
 secretcv.com##.cv-ads
 secretcv.com##.sponsored-job
+seriilan.hurriyet.com.tr##.fBnr
 shiftdelete.net##.above-header
 sigortacigazetesi.com.tr##.wp-image-62465
 sigortacigazetesi.com.tr##.wp-image-63680
