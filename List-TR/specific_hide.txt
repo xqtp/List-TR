@@ -267,6 +267,7 @@ paratic.com##.unique_adslink
 patronlardunyasi.com##.Ads
 patronlardunyasi.com##div[id*="-div-gpt-ad-"]
 pausedergi.com##.avia_image
+pazarlamasyon.com##.binduz-er-top-header-ad
 pchocasi.com.tr###background-adser
 pchocasi.com.tr##.tdi_43
 pchocasi.com.tr##.tdi_68
