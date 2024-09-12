@@ -198,6 +198,8 @@ kariyer.net###sponsored-list
 kibrisgazetesi.com##.execphpwidget
 kibrisgazetesi.com##.site-header-top-center
 kibrisgazetesi.com##img[style="width:100%;"]
+kimkazandi.com##.bunlariKacirmaTopic
+kimkazandi.com##[class^="ads_"]
 kioskla.co##.kioskla_add_inner
 kisikates.com.tr##.RecipeDetail-orderCard
 kitapyurdu.com##.ad-large
