@@ -278,7 +278,7 @@ pchocasi.com.tr##.tdi_43
 pchocasi.com.tr##.tdi_68
 perakende.org##a[target="_blank"][rel="noopener nofollow"] > img
 petroturk.com##.elementor-element-f95c6b4
-psmmag.com###top-bar
+psmmag.com##.mid-top-ads-container
 pudra.com##.uzmanVideoItem
 repertuarim.com##[class^="ads_"]
 resulkurt.com###market
