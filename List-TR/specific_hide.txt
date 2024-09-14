@@ -277,8 +277,8 @@ patronlardunyasi.com##div[id*="-div-gpt-ad-"]
 pausedergi.com##.avia_image
 pazarlamasyon.com##.binduz-er-top-header-ad
 pchocasi.com.tr###background-adser
-pchocasi.com.tr##.tdi_43
-pchocasi.com.tr##.tdi_68
+pchocasi.com.tr##img[width="1200"][height="92"]
+pchocasi.com.tr##img[width="1903"]
 perakende.org##a[target="_blank"][rel="noopener nofollow"] > img
 petroturk.com##.elementor-element-f95c6b4
 psmmag.com##.mid-top-ads-container
