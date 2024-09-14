@@ -332,8 +332,8 @@ tahlil.com##.col-lg-12.mt-2.mb-4.text-center
 tamindir.com##[class*="-banner"]
 tamindir.com##.outer-ads
 tclira.com##.elementor-element-02101f6
-tclira.com##.elementor-element-891206d
 tclira.com##.elementor-element-2601888
+tclira.com##.elementor-element-6136655
 teknodiot.com##.code-block
 teknodiot.com##.stream-item-125-widget
 teknodiot.com##[target="_blank"][rel="noopener"]
