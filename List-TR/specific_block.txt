@@ -67,6 +67,7 @@
 ||ranini.tv/banner/
 ||sporx.com/_iframe/mac-merkezi/scoreboard_bilyoner.php
 ||sporx.com/tv/_iframe/embed_video_ysx.php?
+||startupteknoloji.com/*/track-image-view/
 ||static.haber8.pro/reklam8.js
 ||storage.oyungezer.com.tr/ogz-public/ads/
 ||tarimca.com.tr/wp-content/plugins/halfdata-green-popups/js/lepopup.js
