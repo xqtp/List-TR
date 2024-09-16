@@ -14,6 +14,7 @@
 ||boluekspres.com/rklm^
 ||bolununsesi.com/ilangorsel/
 ||cdn.vidyome.com/vidyome/builds/widgets.js
+||cms.mmotutkunlari.com/asyncjs
 ||cosmomedya.com/addserver
 ||dizibox.plus/r/
 ||donanimhaber.com/ads/
