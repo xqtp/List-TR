@@ -56,6 +56,7 @@
 ||labmedya.com/uploads/firmalar/$image
 ||magazinizmir.com/reklam_yonetimi/
 ||makroo.haber7.net/creative/
+||malatyaguncel.com/d/mguncels/
 ||mallreport.com.tr/wp-content/plugins/popup-builder/*
 ||memurlar.net/common/widget-image^
 ||oggito.com/images/ads/
