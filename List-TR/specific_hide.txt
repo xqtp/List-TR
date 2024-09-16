@@ -104,6 +104,7 @@ epey.com##[style="background:#F5F5F5;position:relative;"]
 eventmag.co##[id^="masthead"]
 evimdergisi.com.tr##.block-da
 evimdergisi.com.tr##.masterhead
+evrensel.net##.full-reklam
 evrensel.net##.haber-ici-reklam
 evrimagaci.org##.ads-container
 exceldepo.com##.block.pt-10
