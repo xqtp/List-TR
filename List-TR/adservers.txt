@@ -30,6 +30,7 @@
 ||ads.sondakika.com^
 ||ads.web.tr^$third-party
 ||ad-cdn.bilgin.pro^
+||ad-service.shop^
 ||ad01.tmgrup.com.tr^
 ||ad.dline.com.tr^
 ||ad.donanimhaber.com^
