@@ -1,7 +1,6 @@
 ||a.doganburda.com^
 ||ad01.tmgrup.com.tr^
 ||ad-cdn.bilgin.pro^
-||ad-service.shop^
 ||ad.dline.com.tr^
 ||ad.donanimhaber.com^
 ||ad.reklm.com^
