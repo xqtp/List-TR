@@ -163,6 +163,7 @@ havadiskibris.com##div[class*="alti"]
 havadurumu15gunluk.xyz##.ads_row
 hdfilmcehennemi.mov###rekgecyen
 hdfilmcehennemi.mov##a[onclick^="tiklakapat"]
+hdfilmcehennemi.sh##[data-ad]
 hdfilmcehennemi.so###header:style(margin-top: 0px !important)
 hepsiburada.com##.Ng6fk9sFUymZGcprK15n
 hepsiburada.com##[class*=Advertisement]
