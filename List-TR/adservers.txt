@@ -101,5 +101,6 @@
 ||venediktaciri.com^$third-party
 ||virgul.com^$third-party
 ||yedimedia.net^$third-party
+||yelads2.life^
 ||yonderdim.com^
 ||youtubesave.org^
