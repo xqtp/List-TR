@@ -25,5 +25,4 @@
 /thumb.php?src=*/images/banner/*
 /Thumbs/A_dvertisement/*
 /vendor/te/plugins/advert/*
-/wp-content/uploads/*/hareketli.gif
 /wp-content/uploads/*_reklam.
