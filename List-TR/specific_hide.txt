@@ -66,6 +66,8 @@ cimri.com##div[id^="adslot-"]
 cnnturk.com##.adv-wrapper
 cnnturk.com,hurriyet.com.tr,milliyet.com.tr##.adv
 cozumpark.com##.wpforo-ad
+cumhuriyet.com.tr##.inad-text
+cumhuriyet.com.tr##[style^="width: unset; aspect-ratio: 16 / 9; z-index: 3;"]
 cybermagonline.com##a[href][target="_blank"] > img
 defenceturk.net##.defen-orta
 defenceturk.net##.elementor-widget-image
