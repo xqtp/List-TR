@@ -338,9 +338,7 @@ tahlil.com##.col-lg-12.mt-2.mb-4.text-center
 tamindir.com##[class*="-banner"]
 tamindir.com##.outer-ads
 tarifikolay.com##.adcontent
-tclira.com##[width="300"][height="250"]
-tclira.com##[width="800"][height="800"]
-tclira.com##[width="970"][height="250"]
+tclira.com##a[href][target="_blank"] > img
 teknodiot.com##.code-block
 teknodiot.com##.stream-item-125-widget
 teknodiot.com##[target="_blank"][rel="noopener"]
