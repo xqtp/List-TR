@@ -7,6 +7,7 @@
 ###backgroundPopup
 ###backkapat
 ###bannerbuyuk
+###demo_r_ekla_m
 ###footer_fad
 ###haber_ustu_reklam
 ###homePopup
