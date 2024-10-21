@@ -63,6 +63,7 @@
 ||intermediaworks.com^$third-party
 ||ivr.com.tr^$third-party
 ||kingads2.org^
+||kingbaba.org^
 ||kriptoparahaber.care^
 ||makroo.com^$third-party
 ||medyanative.com^$third-party
