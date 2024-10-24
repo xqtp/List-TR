@@ -27,7 +27,7 @@
 ||fikriyat.com/js/advertisements
 ||files.mc-tr.com/ads/
 ||filmmakinesi.film/rek-ajax.php
-||filmmakinesi.film/wp-content/tanitim/*
+||filmmakinesi.film/wp-content/tanitim/
 ||filmmodu18.com/ads/
 ||forum.donanimhaber.com/api2/Globalapi/ListProductAds
 ||forum.donanimhaber.com/bundles/banner?
@@ -58,7 +58,7 @@
 ||magazinizmir.com/reklam_yonetimi/
 ||makroo.haber7.net/creative/
 ||malatyaguncel.com/d/mguncels/
-||mallreport.com.tr/wp-content/plugins/popup-builder/*
+||mallreport.com.tr/wp-content/plugins/popup-builder/
 ||memurlar.net/common/widget-image^
 ||oggito.com/images/ads/
 ||okul.com.tr/assets/images/campaigns/
