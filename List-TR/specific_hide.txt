@@ -163,9 +163,9 @@ havadiskibris.com##.habericireklam
 havadiskibris.com###text-4
 havadiskibris.com##div[class*="alti"]
 havadurumu15gunluk.xyz##.ads_row
+hdfilmcehennemi1.net##[class^="money-"]
 hdfilmcehennemi.mov###rekgecyen
 hdfilmcehennemi.mov##a[onclick^="tiklakapat"]
-hdfilmcehennemi.sh##[class^="money-"]
 hdfilmcehennemi.so###header:style(margin-top: 0px !important)
 hepsiburada.com##.Ng6fk9sFUymZGcprK15n
 hepsiburada.com##[class*=Advertisement]
