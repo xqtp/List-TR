@@ -115,7 +115,6 @@ filmizlesene.pro###wrap:style(margin-top: 0px !important)
 filmmakinesi.film##.ps-head-container
 filmmodu18.com###mobile-preroll:style(display: none !important;)
 filmmodu18.com##.embed-responsive:style(display: block !important;)
-filmmodutv.com##.body-clickable
 finanshub.com###media_video-8
 find.com.tr##.ads-height-250
 find.com.tr##.ads-max-height-600
