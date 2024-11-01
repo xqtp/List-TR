@@ -165,6 +165,7 @@
 ##.tepebanner
 ##.topReklam
 ##.type1.ads
+##.type2.ads
 ##.ustOrtaSolReklam
 ##.ustReklam
 ##.virgul-ad
