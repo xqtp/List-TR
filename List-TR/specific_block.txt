@@ -23,6 +23,7 @@
 ||egedesonsoz.com/banner/
 ||egeninsesi.com/system/ads/
 ||ekonomiknokta.com/upload/html-content/
+||ekonomimanset.com/api/ads
 ||emlaktasondakika.com/html_banner/
 ||fikriyat.com/js/advertisements
 ||files.mc-tr.com/ads/
