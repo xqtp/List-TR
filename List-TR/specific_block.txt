@@ -66,6 +66,7 @@
 ||ototeknikveri.com/Advert/GetRandomAdvert
 ||ototeknikveri.com/VField/GetOtoTeknikDisplayAd
 ||play.dizigom1.tv/vast/
+||psmmag.com/api/ads
 ||ranini.tv/banner/
 ||sigortagundem.com/api/ads
 ||sporx.com/_iframe/mac-merkezi/scoreboard_bilyoner.php
