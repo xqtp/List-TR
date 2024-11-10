@@ -307,8 +307,6 @@ shiftdelete.net##.above-header
 sigortacigazetesi.com.tr##.elementor-element-c925007
 sigortacigazetesi.com.tr##.widget_media_image
 sigortadunyasi.com.tr##.widget_block
-sigortagundem.com##.widget a[href]:not([href*="sigortagundem.com"]) > img
-sigortagundem.com##.sidebar > .widget:has(a[href]:not([href*="sigortagundem.com"]) > img)
 sikayetvar.com##.promo-banner
 sinema.cx###page:style(margin-top: 0px !important)
 sinemalar.com###roadblock
