@@ -37,7 +37,6 @@
 ||adserver.bafrahaber.com^
 ||adsp.haberturk.com^
 ||afyonturkreklam.com^$third-party
-||alty.fun^
 ||api.adnsafe.org^$third-party
 ||app.gelirartisi.com^$third-party
 ||apptospace.com^
@@ -80,7 +79,6 @@
 ||publisher-network.com^$third-party
 ||rek.yemlee.com^$third-party
 ||reklam8.net^$third-party
-||reklam.memurlar.net^
 ||reklam.milliyet.com.tr^
 ||reklam.mynet.com^
 ||reklam.turkmmo.com^
