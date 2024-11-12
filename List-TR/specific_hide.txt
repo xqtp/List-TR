@@ -142,7 +142,6 @@ gastromagazin.com.tr##.elementor-widget-image
 gastromagazin.com.tr##.widget_media_image
 gazetememur.com##.ad-container
 gelirkapisi.com##div[id^="ad_"]
-gercekbandirma.com##[id^="block-views-reklam-block-"]
 gidadedektifi.com##.XAd_bottom__WjpGF
 gidadedektifi.com##.XAd_square__hZ1Br
 gidaturk.com.tr##.tr_e3lan-widget
