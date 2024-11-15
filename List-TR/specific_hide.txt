@@ -47,6 +47,8 @@ bimagazin.com##[style="background-image:url(/6A6.jpg);"]
 bimagazin.com##a[href][target="_blank"] > img
 bimagazin.com##div[class*="banner"]
 birgun.net##.adsmasthead
+bloomberght.com##.adv-news
+bloomberght.com##.masthead-top
 bloomberght.com##.masthead-wrap
 bloomberght.com##section[data-section^="reklam"]
 bomba32.com##.flash-wrapper
