@@ -54,6 +54,7 @@
 ||empower.net^$third-party
 ||filmbari.com^
 ||finvest.care^
+||gastroreklam.com^$3p
 ||genelajans.com^$third-party
 ||gmgreklam.com^$third-party
 ||gowit.com^$third-party
