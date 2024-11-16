@@ -359,7 +359,7 @@ turkascihaberleri.com##.sidebar-add-place
 turkchem.net##[href^="https://www.turkchem.net/ads/"]
 turkiye.cool###duyBunuAds
 turkiyegazetesi.com.tr##.masthead-cls
-turkmmo.com##.elementor-widget-ghostpool_advertisement
+turkmmo.com##.elementor-widget-html
 turkrus.com##div[class^="relative"]
 ucuzaucak.net###hook-topx
 uludagsozluk.com##[class^="adulu_"]
