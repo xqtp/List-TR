@@ -132,6 +132,8 @@ forum.donanimhaber.com##[class^="Forum_Anasayfa_YeniMasthead_"]
 forum.donanimhaber.com##[id^="dha_"]
 forum.donanimhaber.com##a[onclick^="adThisAfterSet"]
 forum.gamer.com.tr##.gamer-ads-container
+forum.shiftdelete.net###header-container
+forum.shiftdelete.net##.reklamyoutube-container
 forum.turkmmo.com##.pageskin-main
 fuarzamani.com###Reklam
 fullhdfilm.pro###rekgecyen
