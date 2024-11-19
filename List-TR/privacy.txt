@@ -9,7 +9,7 @@
 /themes/*/js/shared/analytics.min.js
 !
 ! List-TR_specific.txt
-||acs.qnbfinansbank.com/api/log
+||acs.qnb.com.tr/api/log
 ||cdn.e-devlet.gov.tr/themes/ankara/js/analitik.min.*.js
 ||images.hepsiburada.net/webtrekk/webtrekk.js
 ||sahibinden.com/assets/analytics:1.js
