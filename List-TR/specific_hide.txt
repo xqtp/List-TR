@@ -192,7 +192,7 @@ itemci.com##.mpy__banners-small_container
 itemci.com##.pvpAdvertRow
 itemci.com##body:style(overflow: auto !important; position: static !important;)
 izlekolik.org##[alt="ads"]
-jetfilmizle.link##.main-content:style(margin-top: 0px !important)
+jetfilmizle.media##.main-content:style(margin-top: 0px !important)
 kadikoylife.com##.elementor-widget-image
 kadikoylife.com##.header-banner
 kadikoylife.com##.widget_media_image
