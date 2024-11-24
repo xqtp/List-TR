@@ -36,6 +36,7 @@
 ||adserver.a24.com.tr^
 ||adserver.bafrahaber.com^
 ||adsp.haberturk.com^
+||adsturk.com^$3p
 ||afyonturkreklam.com^$third-party
 ||api.adnsafe.org^$third-party
 ||app.gelirartisi.com^$third-party
