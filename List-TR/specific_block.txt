@@ -65,6 +65,7 @@
 ||okul.com.tr/assets/images/campaigns/
 ||ototeknikveri.com/Advert/GetRandomAdvert
 ||ototeknikveri.com/VField/GetOtoTeknikDisplayAd
+||plantdergisi.com/dosyalar/site_resim/banner/
 ||play.dizigom1.tv/vast/
 ||psmmag.com/api/ads
 ||ranini.tv/banner/
