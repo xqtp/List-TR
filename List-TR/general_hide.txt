@@ -73,6 +73,7 @@
 ##.dikReklam160
 ##.empower
 ##.empower-ad
+##.fixed_ads
 ##.fixedAd
 ##.frontendAd
 ##.genelReklamCon
