@@ -6,7 +6,7 @@ burdurweb.com##^meta[http-equiv="refresh"]
 burdurweb.com##+js(refresh-defuser)
 breakingbadizle.net##+js(aopr, initAd)
 dizimag.org##+js(aopr, initPop)
-dizipal.org,dizipaltv.pro,hdfilmizle.in,izlekolik.org,jetfilmizletv.live,onlinedizi.xyz,trfilm.net##+js(set, puShown, true)
+dizipal.org,dizipaltv.pro,hdfilmizle.in,izlekolik.pro,jetfilmizletv.live,onlinedizi.xyz,trfilm.net##+js(set, puShown, true)
 fullhdfilm.pro##+js(nano-sib)
 fullhdfilm.pro##+js(nostif, psresimler)
 fullhdfilm.pro##+js(set, reklam_1_gecsaniye, 0)
