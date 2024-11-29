@@ -83,7 +83,7 @@ diyetkolik.com##[id*="slot"]
 diyetkolik.com##[style^="min-height:250px;"]
 dizilla.club##.advert
 dizilla.club##[id^="gpt_ad_"]
-dizimag.org,izlekolik.org###activeFrontVid
+dizimag.org,izlekolik.pro###activeFrontVid
 diziyou.co###diziyouFooter
 diziyou.co##img[width="900"][height="70"]
 donanimhaber.com##.tepe-alan
@@ -192,7 +192,7 @@ itemci.com##.mpy__container-banner
 itemci.com##.mpy__banners-small_container
 itemci.com##.pvpAdvertRow
 itemci.com##body:style(overflow: auto !important; position: static !important;)
-izlekolik.org##[alt="ads"]
+izlekolik.pro##[alt="ads"]
 jetfilmizle.media##.main-content:style(margin-top: 0px !important)
 kadikoylife.com##.elementor-widget-image
 kadikoylife.com##.header-banner
