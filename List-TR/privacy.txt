@@ -18,5 +18,4 @@
 ||yemeksepeti.com/lJuB4eTB/init.js
 !
 ! List-TR_trackingservers.txt
-||kulgacdn.com^
 ||tracking.ensonhaber.com^
