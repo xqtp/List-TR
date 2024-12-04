@@ -81,6 +81,7 @@
 ||publisher-network.com^$third-party
 ||rek.yemlee.com^$third-party
 ||reklam8.net^$third-party
+||reklam.arailetisim.com^$3p
 ||reklam.milliyet.com.tr^
 ||reklam.mynet.com^
 ||reklam.turkmmo.com^
