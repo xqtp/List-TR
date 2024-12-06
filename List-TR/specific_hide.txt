@@ -229,6 +229,7 @@ memurlar.net##.masthead-panel
 memurlar.net##.widget-300x600
 memurlar.net##.widget-336x280
 memurlar.net##.widget-580x400
+memurlar.net##a.item[target="_widget"]
 merlininkazani.com##.leader-board-row
 milliyet.com.tr##.topBandBanner
 mitula.com.tr##.afsContainer
