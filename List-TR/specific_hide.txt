@@ -309,7 +309,6 @@ secretcv.com##.banner-area
 secretcv.com##.cv-ads
 secretcv.com##.sponsored-job
 seriilan.hurriyet.com.tr##.fBnr
-shiftdelete.net##.above-header
 sigortacigazetesi.com.tr##.elementor-element-c925007
 sigortacigazetesi.com.tr##.widget_media_image
 sigortadunyasi.com.tr##.widget_block
