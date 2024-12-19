@@ -24,6 +24,7 @@ akorlar.com###masaustu
 altin.in###ustR
 altin.in###yorumiciReklam
 altin.in##.icReklam
+altin.in##.reklam300x250
 altyazi.net##.ReklamOuterRow
 altyazi.net##.thb_before_header
 aof.tc,bilgihazinem.net,fintechtime.com,gastromagazin.com.tr,havadiskibris.com,ifhaber.com,koinvizyon.com,lafmacun.net,tatil.net.tr,techolay.net,teknodestek.com.tr,yoldaolmak.com##.code-block
