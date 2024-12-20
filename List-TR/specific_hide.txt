@@ -176,7 +176,7 @@ hesaplama.net##.mad
 hurriyet.com.tr##.advMasthead
 hurriyet.com.tr##.sticky-wrapper
 ictmedia.com.tr##.horiAds
-iha.com.tr,mavikadin.com,tgrthaber.com.tr##div[id^="widget_General_Advert_"]
+iha.com.tr,tgrthaber.com.tr##div[id^="widget_General_Advert_"]
 ilacprospektusu.com##.rrReklam
 ilacrehberi.com##.ads_r
 ilacrehberi.com###fixedAdLayer
