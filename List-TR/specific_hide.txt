@@ -88,6 +88,7 @@ dizilla.club##[id^="gpt_ad_"]
 dizimag.org,izlekolik.pro###activeFrontVid
 diziyou.co###diziyouFooter
 diziyou.co##img[width="900"][height="70"]
+diziyou.co##img[width="1200"][height="70"]
 donanimhaber.com##.tepe-alan
 donanimhaber.com,rekoroyun.com##[class^="reklam-"]
 doramagazin.com##.hot-news-ads2
