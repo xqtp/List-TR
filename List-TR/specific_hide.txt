@@ -90,7 +90,8 @@ diziyou.co###diziyouFooter
 diziyou.co##img[width="900"][height="70"]
 donanimhaber.com##.tepe-alan
 donanimhaber.com,rekoroyun.com##[class^="reklam-"]
-doramagazin.com##[class*="ads"]
+doramagazin.com##.hot-news-ads2
+doramagazin.com##.popular-section-ads
 dostbeykoz.com##.nc-SectionAds
 edebiyathaber.net##.adv-link
 edebiyathaber.net##.header-top-ads
