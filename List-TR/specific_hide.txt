@@ -91,6 +91,7 @@ diziyou.co##img[width="900"][height="70"]
 donanimhaber.com##.tepe-alan
 donanimhaber.com,rekoroyun.com##[class^="reklam-"]
 doramagazin.com##[class*="ads"]
+dostbeykoz.com##.nc-SectionAds
 edebiyathaber.net##.adv-link
 edebiyathaber.net##.header-top-ads
 egeyonhaber.com##.custom-html-widget
