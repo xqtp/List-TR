@@ -52,6 +52,7 @@
 ||cryptosmoke.care^
 ||diken.xyz^
 ||dogus-ads-cdn.dygdigital.com^$third-party
+||ds.macellan.online^
 ||empower.net^$third-party
 ||filmbari.com^
 ||finvest.care^
