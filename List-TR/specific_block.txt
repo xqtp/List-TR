@@ -62,6 +62,7 @@
 ||malatyaguncel.com/d/mguncels/
 ||mallreport.com.tr/wp-content/plugins/popup-builder/
 ||memurlar.net/common/widget-image^
+||mykibris.com/static/js/ads.js
 ||oggito.com/images/ads/
 ||okul.com.tr/assets/images/campaigns/
 ||ototeknikveri.com/Advert/GetRandomAdvert
