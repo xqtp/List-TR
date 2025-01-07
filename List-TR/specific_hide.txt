@@ -258,6 +258,7 @@ nedir.org##[style="min-width:300px;min-height:100px;;margin-top:20px;margin-bott
 nedir.org##[style="min-width:300px;min-height:250px;margin-top:20px;margin-bottom:20px;"]
 nedir.org##[style="min-width:320px;min-height:200px;margin-top:20px;margin-bottom:20px;"]
 nedir.org##[style="min-width:970px;min-height:250px;margin-top:20px;margin-bottom:20px;"]
+nedir.org##[style="min-width:970px;min-height:250px;;margin-top:20px;margin-bottom:20px;"]
 n11.com##.adProductArea
 n11.com##.header-banner-cover
 nefisyemektarifleri.com##.nokta.no-print
