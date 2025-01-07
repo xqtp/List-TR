@@ -255,6 +255,7 @@ mynet.com##.col-adv
 mynet.com##.tbl_reel
 mynet.com##div[isshowcase]
 nedir.org##[style="min-width:300px;min-height:100px;;margin-top:20px;margin-bottom:20px;"]
+nedir.org##[style="min-width:300px;min-height:116px;;margin-top:20px;margin-bottom:20px;"]
 nedir.org##[style="min-width:300px;min-height:250px;margin-top:20px;margin-bottom:20px;"]
 nedir.org##[style="min-width:320px;min-height:200px;margin-top:20px;margin-bottom:20px;"]
 nedir.org##[style="min-width:970px;min-height:250px;margin-top:20px;margin-bottom:20px;"]
