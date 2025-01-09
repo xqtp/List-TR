@@ -202,7 +202,8 @@ jetfilmizle.media##.main-content:style(margin-top: 0px !important)
 kadikoylife.com##.elementor-widget-image
 kadikoylife.com##.header-banner
 kadikoylife.com##.widget_media_image
-kadinlarkulubu.com##body:style(max-width: unset !important;)
+kadinlarkulubu.com###SideBarAds
+kadinlarkulubu.com##.p-pageWrapper:style(width:auto!important;)
 kariyer.net###sponsored-list
 kibrisgazetesi.com##.execphpwidget
 kibrisgazetesi.com##.site-header-top-center
