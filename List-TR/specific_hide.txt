@@ -316,6 +316,8 @@ sikayetvar.com##.promo-banner
 sinema.cx###page:style(margin-top: 0px !important)
 sinemalar.com###roadblock
 socratesdergi.com##.AdBanner_base__uwf0k
+solar.ist##.sam-pro-ad
+solar.ist##.wpb_text_column.wpb_content_element
 sondakika.com###head_box
 sondakika.com##[id*="_970x250"]
 sondakika.com##aside[id="aside"]
