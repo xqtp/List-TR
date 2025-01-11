@@ -203,7 +203,7 @@ kadikoylife.com##.elementor-widget-image
 kadikoylife.com##.header-banner
 kadikoylife.com##.widget_media_image
 kadinlarkulubu.com###SideBarAds
-kadinlarkulubu.com##.p-pageWrapper:style(width:auto!important;)
+kadinlarkulubu.com##.p-body-inner:style(width: 100% !important;)
 kariyer.net###sponsored-list
 kibrisgazetesi.com##.execphpwidget
 kibrisgazetesi.com##.site-header-top-center
