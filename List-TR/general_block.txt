@@ -14,7 +14,7 @@
 /images/reklam/advert-
 /img/rek/*
 /modules/adblock/*
-/reklam-$image,script,domain=~donanimhaber.com
+/reklam-$image,script,domain=~donanimhaber.com|~mediacat.com
 /reklamlar.
 /reklamlar/*
 /reklamm.js
