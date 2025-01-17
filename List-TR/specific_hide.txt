@@ -35,6 +35,7 @@ aspor.com.tr,fotomac.com.tr,inbusiness.com.tr,paradergi.com.tr,sofra.com.tr##.ad
 atarita.com###tdi_3
 atarita.com###tdi_40
 avmdergi.com##.wpb_single_image
+avmtrend.com##.anasli
 besiktas.com.tr##.ad-masthead
 besiktas.com.tr##.saniyeli_reklam
 beyazperde.com##.main-banner
