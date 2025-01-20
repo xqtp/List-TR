@@ -28,7 +28,7 @@
 ||files.mc-tr.com/ads/
 ||filmmakinesi.de/rek-ajax.php
 ||filmmakinesi.de/wp-content/tanitim/
-||filmmodu18.com/ads/
+||filmmodu20.com/ads/
 ||forum.donanimhaber.com/api2/Globalapi/ListProductAds
 ||forum.donanimhaber.com/bundles/banner?
 ||forum.donanimhaber.com/bundles/kelimeReklam?
