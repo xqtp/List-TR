@@ -198,6 +198,7 @@ itemci.com##.mpy__container-banner
 itemci.com##.mpy__banners-small_container
 itemci.com##.pvpAdvertRow
 itemci.com##body:style(overflow: auto !important; position: static !important;)
+izlekolik.pro###onp
 izlekolik.pro##[alt="ads"]
 jetfilmizle.media##.main-content:style(margin-top: 0px !important)
 kadikoylife.com##.elementor-widget-image
