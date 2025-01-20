@@ -124,8 +124,8 @@ exceldepo.com##.block.pt-10
 fikirliderleri.com##.vmagazine_lite_medium_ad
 filmizlesene.pro###wrap:style(margin-top: 0px !important)
 filmmakinesi.de##.ps-head-container
-filmmodu18.com###mobile-preroll:style(display: none !important;)
-filmmodu18.com##.embed-responsive:style(display: block !important;)
+filmmodu20.com###mobile-preroll:style(display: none !important;)
+filmmodu20.com##.embed-responsive:style(display: block !important;)
 find.com.tr##.ads-height-250
 find.com.tr##.ads-max-height-600
 find.com.tr##.ads-villa
