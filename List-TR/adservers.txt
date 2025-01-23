@@ -35,7 +35,7 @@
 ||adserve.donanimhaber.com^
 ||adserver.a24.com.tr^
 ||adserver.bafrahaber.com^
-||adsmanagement.atamedyagrubu.com^
+||adsmanagement.atamedyagrubu.com^$3p
 ||adsp.haberturk.com^
 ||adsturk.com^$3p
 ||afyonturkreklam.com^$third-party
