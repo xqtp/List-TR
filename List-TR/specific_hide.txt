@@ -346,8 +346,6 @@ teknodiot.com##.stream-item-125-widget
 teknodiot.com##[target="_blank"][rel="noopener"]
 teknosa.com###gowitImpressionEvent
 teknoseyir.com##.tepe_reklam
-tele1.com.tr##.desktopbluban
-tele1.com.tr###mansetust
 tgrthaber.com###page-skin
 tgrthaber.com##.masthead-cls
 themagger.com##.bus-bnr-block
