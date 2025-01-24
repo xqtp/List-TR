@@ -243,7 +243,6 @@ merlininkazani.com##[style="display:block; margin: 0 auto; min-height:384px!impo
 milliyet.com.tr##.topBandBanner
 mitula.com.tr##.afsContainer
 mmotutkunlari.com##.tanitim_alani
-mmotutkunlari.com##[data-revive-zoneid]
 modadergitv.com##.bkmxhtqpdf-column-1
 motosiklet.net##.footerrek
 motosiklet.net##.forumreklamlari
