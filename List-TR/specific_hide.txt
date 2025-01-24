@@ -265,6 +265,7 @@ ntvspor.net,ntv.com.tr##.dygtag-masthead
 obilet.com##.featured-banner
 obilet.com##.js-list-cross-sell-banner-container
 obilet.com###searchResultMarketingBannerContainer
+oggusto.com##.tmad-image
 onedio.com###mansetAlti-container
 onedio.com###masthead-container
 onedio.com##.min-h-\[200px\]
