@@ -300,7 +300,6 @@ saglikaktuel.com##.top_headline
 sahibinden.com##.header-banners
 salom.com.tr##.hmrl49
 salom.com.tr##.topbanner
-sanayigazetesi.com.tr###mvp-leader-wrap
 santiye.com.tr##a[href][target="_blank"] > img
 savunmahaber.com##.elementor-widget-w-bannerbox
 savunmasanayist.com##.text-html
