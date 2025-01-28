@@ -371,7 +371,7 @@ turizmgazetesi.com##.widget-adver
 turkascihaberleri.com##.sidebar-add-place
 turkchem.net##[x-show="showModal"]
 turkchem.net##a[href^="https://turkchem.net/ads/"]
-turkiye.cool###duyBunuAds
+turkiye.influence.cool###duyBunuAds
 turkiyegazetesi.com.tr##.masthead-cls
 turkmmo.com##.elementor-widget-html
 turkmmo.com##.pageskin-main
