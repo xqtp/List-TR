@@ -98,7 +98,6 @@
 ||seldos.com.tr^$third-party
 ||siberreklam.com^
 ||ssp.ad-plus.com.tr^$third-party
-||storj.cloud^
 ||tagon.co^$third-party
 ||theadx.com^$third-party
 ||url.isimsepeti.net^
