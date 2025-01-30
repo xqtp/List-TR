@@ -73,6 +73,7 @@ cepde.net##.advertisement
 cimri.com##div[id^="adslot-"]
 cnnturk.com##.adv-wrapper
 cnnturk.com,hurriyet.com.tr,milliyet.com.tr##.adv
+cnnturk.com##.cls-edit-kutu
 cozumpark.com##.wpforo-ad
 cumhuriyet.com.tr##.inad-text
 cumhuriyet.com.tr##[style^="width: unset; aspect-ratio: 16 / 9; z-index: 3;"]
