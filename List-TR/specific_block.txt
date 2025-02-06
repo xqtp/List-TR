@@ -79,8 +79,8 @@
 ||tarimca.com.tr/wp-content/plugins/halfdata-green-popups/js/lepopup.js
 ||turizmekstra.com/images/ads/
 ||turktime.com/banner/
-||webteizle.info/*/malker
-||webteizle.info/i/vid-onu-*.mp4$media,redirect=noopmp3-0.1s
+||webteizle3.com/*/malker
+||webteizle3.com/i/vid-onu-*.mp4$media,redirect=noopmp3-0.1s
 ||widget.cdn.vidyome.com/builds/loader.js
 ||yabancidizi.tv/v/
 ||yasamoykusu.com/_docs/adds/
