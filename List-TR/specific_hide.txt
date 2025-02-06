@@ -1,4 +1,4 @@
-4kfilmizlesene.org,hdfilmcehennemi.mov,webteizle.info##.container:style(margin-top: 0px !important)
+4kfilmizlesene.org,hdfilmcehennemi.mov##.container:style(margin-top: 0px !important)
 6nmagazine.com##.bn-content
 12punto.com.tr##.subNews
 81haber.com##.sadx
