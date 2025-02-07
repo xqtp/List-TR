@@ -20,9 +20,6 @@ kanald.com.tr#@##ad-lead
 karnaval.com##+js(set, adblock_active, false)
 oyungemisi.com##.slot-container
 ozbeceriksizler.com##+js(nostif, displayMessage)
-sinnerclownceviri.com##+js(nostif, AdBlock)
-sinnerclownceviri.com##+js(nostif, offsetParent)
-sinnerclownceviri.com#@#.reklam
 themagger.com##.adg-fixed
 vsro.org##+js(acs, $, btoa)
 ||beceriksizler.net/clientscript/yilmazantiadblockvb4.js
