@@ -10,7 +10,7 @@ airlinehaber.com##.custom-html-widget
 ajandakolik.com##.mkdf-top-bar
 ajandakolik.com##[alt="AjandaKolik Reklam"]
 ajansspor.com##.recommended-video
-ajansspor.com,ekonomist.com.tr,kanald.com.tr,yemek.com##.masthead
+ajansspor.com,ekonomist.com.tr,kanald.com.tr##.masthead
 ajansspor.com##.sidebar-cla
 akakce.com##.billboard_content
 akakce.com###billboard_wrapper
@@ -390,9 +390,7 @@ yasemin.com##.ad-right-block
 yasemin.com##.masthead
 yasemin.com##.masthead-script
 yasemin.com##div[id^="dfp-anasayfa-masthead-"]
-yemek.com##.ContentRecipe_bannerTag__s7INC
-yemek.com##.nokta-ad
-yemek.com##.noktaAdRight
+yemek.com###masthead_d
 yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##a[href][target="_blank"] > img
 yildizkisafilm.org##.pppx
