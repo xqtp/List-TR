@@ -390,7 +390,7 @@ yasemin.com##.ad-right-block
 yasemin.com##.masthead
 yasemin.com##.masthead-script
 yasemin.com##div[id^="dfp-anasayfa-masthead-"]
-yemek.com###masthead_d
+yemek.com##.masthead-container
 yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##a[href][target="_blank"] > img
 yildizkisafilm.org##.pppx
