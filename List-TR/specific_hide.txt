@@ -91,9 +91,9 @@ diyetkolik.com##[id*="slot"]
 diyetkolik.com##[style^="min-height:250px;"]
 dizimag.org,izlekolik.pro###activeFrontVid
 dizipal.org##.body-clickable
-diziyou1.com###diziyouFooter
-diziyou1.com##img[width="900"][height="70"]
-diziyou1.com##img[width="1200"][height="70"]
+diziyou2.com###diziyouFooter
+diziyou2.com##img[width="900"][height="70"]
+diziyou2.com##img[width="1200"][height="70"]
 donanimhaber.com##.tepe-alan
 donanimhaber.com,rekoroyun.com##[class^="reklam-"]
 doramagazin.com##.hot-news-ads2
