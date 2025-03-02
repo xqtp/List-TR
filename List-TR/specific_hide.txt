@@ -185,7 +185,7 @@ hesaplama.net##.mad
 hurriyet.com.tr##.advMasthead
 hurriyet.com.tr##.sticky-wrapper
 ictmedia.com.tr##.horiAds
-iha.com.tr,tgrthaber.com##div[id^="widget_General_Advert_"]
+iha.com.tr##div[id^="widget_General_Advert_"]
 ilacprospektusu.com##.rrReklam
 ilacrehberi.com##.ads_r
 ilacrehberi.com###fixedAdLayer
@@ -351,8 +351,6 @@ teknodiot.com##.stream-item-125-widget
 teknodiot.com##[target="_blank"][rel="noopener"]
 teknosa.com###gowitImpressionEvent
 teknoseyir.com##.tepe_reklam
-tgrthaber.com###page-skin
-tgrthaber.com##.masthead-cls
 themagger.com##.bus-bnr-block
 themagger.com##.side-bnr-list
 timekocaeli.com##.banners-slider
