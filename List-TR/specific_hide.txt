@@ -1,4 +1,4 @@
-4kfilmizlesene.org,hdfilmcehennemi.onl##.container:style(margin-top: 0px !important)
+4kfilmizlesene.org,hdfilmcehennemi.sbs##.container:style(margin-top: 0px !important)
 6nmagazine.com##.bn-content
 12punto.com.tr##.subNews
 81haber.com##.sadx
@@ -174,9 +174,9 @@ hangikredi.com##.card--sponsored
 hangikredi.com##.product-list-card_product_list_card__U9t3R.border.border-dark-blue
 hangikredi.com##[style^="--badge-color:#F6A927"]
 havadurumu15gunluk.xyz##.ads_row
-hdfilmcehennemi.onl###rekgecyen
-hdfilmcehennemi.onl##a[onclick^="tiklakapat"]
 hdfilmcehennemi.nl##[class^="money-"]
+hdfilmcehennemi.sbs###rekgecyen
+hdfilmcehennemi.sbs##a[onclick^="tiklakapat"]
 hepsiburada.com##.Ng6fk9sFUymZGcprK15n
 hepsiburada.com##[class*=Advertisement]
 hepsiburada.com##[data-test-id="sponsored-products"]
