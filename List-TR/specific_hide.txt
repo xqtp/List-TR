@@ -302,7 +302,7 @@ resulkurt.com##[id^="adsZone_"]
 saglikaktuel.com##.CM_pageskin_1
 saglikaktuel.com##.top_headline
 sahibinden.com##.header-banners
-salom.com.tr##.hmrl49
+salom.com.tr##.hmrl23
 salom.com.tr##.topbanner
 sanayigazetesi.com.tr##.widget_custom_html
 sanayigazetesi.com.tr##[data-widget_type="cs-banner.default"]
