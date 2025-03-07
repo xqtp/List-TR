@@ -148,7 +148,6 @@ forum.donanimhaber.com##div.page-between-box
 forum.gamer.com.tr##.gamer-ads-container
 forum.shiftdelete.net###header-container
 forum.shiftdelete.net##.reklamyoutube-container
-forum.turkmmo.com##.pageskin-main
 fuarzamani.com###Reklam
 fullhdfilm.cc###rekgecyen
 fullhdfilm.cc##.hrklm_oblong
