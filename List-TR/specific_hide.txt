@@ -102,6 +102,7 @@ dostbeykoz.com##.nc-SectionAds
 edebiyathaber.net##.adv-link
 edebiyathaber.net##.header-top-ads
 egeyonhaber.com##.custom-html-widget
+egeyonhaber.com##.saniyeli_reklam_header
 ehliyettestleri.com,testlericoz.com##.ortala
 ehliyettestleri.com,testlericoz.com##.yazialtireklam
 ekonomist.com.tr##div[id^="doganBurdaAds"]
