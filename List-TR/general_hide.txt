@@ -97,7 +97,6 @@
 ##.nokta-display-ad
 ##.ortaKategori1Reklam
 ##.ortaReklam
-##.pageskin div[class^="r_reklam_"]
 ##.pageskin-sol-sag-ad
 ##.playerinads
 ##.rek
