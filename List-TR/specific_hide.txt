@@ -71,6 +71,7 @@ businessmed.com.tr##.the-banner
 businessnewstr.com##.header-promotion
 businessnewstr.com##.widget_media_image
 businessworldglobal.com##a[href][target="_blank"] > img
+canakkalegundem.net##.widget_media_image
 cepde.net##.advertisement
 cimri.com##div[id^="adslot-"]
 cnnturk.com##.adv-wrapper
