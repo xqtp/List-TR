@@ -392,7 +392,7 @@ yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##a[href][target="_blank"] > img
 yildizkisafilm.org##.pppx
 !
-aydindenge.com.tr,bursa.com,cinemadran.com,dunyaatlasi.com,gayrimenkulhaber.com,gecmisgazete.com,internethaber.com,korkusuz.com.tr,megahaber27.com,rumma.org,sozcu.com.tr,szctv.com.tr##.ad
+aydindenge.com.tr,cinemadran.com,dunyaatlasi.com,gayrimenkulhaber.com,gecmisgazete.com,internethaber.com,korkusuz.com.tr,megahaber27.com,rumma.org,sozcu.com.tr,szctv.com.tr##.ad
 !
 akvaryum.com,bjk.com.tr,capital.com.tr,cumrapostasi.com,degisimgazetesi.com.tr,diyarbakirhaber.com.tr,emlaknews.com.tr,ibrala.com,internethaber.com,kadinloji.com,londragazete.com,mengen.gen.tr,nallihanhaber.com,noktabursa.com.tr,nowtv.com.tr,sakarya360.com,selcukhaber.com,slideplayer.biz.tr,sonhaber16.com,sosyola.com,tarihiyolculuk.com,trt1.com.tr,webhakim.com,webtekno.com,yeniakit.com.tr,yozgatses.com##.ads
 !
