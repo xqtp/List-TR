@@ -15,7 +15,7 @@
 ||cdn.vidyome.com/vidyome/builds/widgets.js
 ||cms.mmotutkunlari.com/asyncjs
 ||cosmomedya.com/addserver
-||dizibox.plus/r/
+||dizibox.live/r/
 ||donanimhaber.com/ads/
 ||donanimhaber.com/static/forum/js/kelimereklam_script.js
 ||eczacininsesi.com/banner/
