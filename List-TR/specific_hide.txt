@@ -28,6 +28,7 @@ altin.in##.reklam300x250
 altyazi.net##.ReklamOuterRow
 altyazi.net##.thb_before_header
 aof.tc,bilgihazinem.net,fintechtime.com,gastromagazin.com.tr,havadiskibris.com,ifhaber.com,koinvizyon.com,lafmacun.net,tatil.net.tr,techolay.net,teknodestek.com.tr,yoldaolmak.com##.code-block
+aof.tc,begonya.com,cioupdate.com.tr,egehaber.com,frpnet.net,lafmacun.net,m5dergi.com,maksatbilgi.com,savunmasanayist.com,turkedebiyati.org,voleybolmagazin.com##.stream-item
 apara.com.tr##.ad-control-full
 apara.com.tr##.ad-control-left
 arabam.com##.advertisement
@@ -102,7 +103,6 @@ doramagazin.com##.popular-section-ads
 dostbeykoz.com##.nc-SectionAds
 edebiyathaber.net##.adv-link
 edebiyathaber.net##.header-top-ads
-aof.tc,begonya.com,cioupdate.com.tr,egehaber.com,frpnet.net,lafmacun.net,m5dergi.com,maksatbilgi.com,savunmasanayist.com,turkedebiyati.org,voleybolmagazin.com##.stream-item
 egeyonhaber.com##.custom-html-widget
 egeyonhaber.com##.saniyeli_reklam_header
 ehliyettestleri.com,testlericoz.com##.ortala
