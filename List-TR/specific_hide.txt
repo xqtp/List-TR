@@ -105,8 +105,6 @@ edebiyathaber.net##.adv-link
 edebiyathaber.net##.header-top-ads
 egeyonhaber.com##.custom-html-widget
 egeyonhaber.com##.saniyeli_reklam_header
-ehliyettestleri.com,testlericoz.com##.ortala
-ehliyettestleri.com,testlericoz.com##.yazialtireklam
 ekonomist.com.tr##div[id^="doganBurdaAds"]
 ekonomist.com.tr##.hide-mobile[style*="min-height: 250px;"]
 ekonomist.com.tr##.hide-mobile[style^="min-width:"][style*="min-height:"]
@@ -352,6 +350,8 @@ teknodiot.com##.stream-item-125-widget
 teknodiot.com##[target="_blank"][rel="noopener"]
 teknosa.com###gowitImpressionEvent
 teknoseyir.com##.tepe_reklam
+testlericoz.com##.ortala
+testlericoz.com##.yazialtireklam
 themagger.com##.bus-bnr-block
 themagger.com##.side-bnr-list
 timekocaeli.com##.banners-slider
