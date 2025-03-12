@@ -112,6 +112,8 @@ ekonomist.com.tr,lezzet.com.tr##.news-inline-ads
 ekoturk.com##.fixed-ad-global
 elle.com.tr##.abg245
 emlaktasondakika.com,guncelprojebilgileri.com##.add-section
+enerjivetesisat.com##.mod-banners
+enerjivetesisat.com##.t3-sidebar
 ensonhaber.com###top-adbar
 ensonhaber.com##.top-adbar
 enucuzoyun.com##.Advertisement1_defaultTheme__Ekwt9
