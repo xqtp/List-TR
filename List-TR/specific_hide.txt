@@ -133,7 +133,7 @@ filmmodu.io##.embed-responsive:style(display: block !important;)
 find.com.tr##.ads-height-250
 find.com.tr##.ads-max-height-600
 find.com.tr##.ads-villa
-find.com.tr##.sidebox.no-p.no-m.noborder.page-shadow
+find.com.tr##.page-shadow.noborder.no-m.no-p.sidebox:nth-of-type(1)
 forum.donanimarsivi.com##.focus-ad
 forum.donanimarsivi.com##.p-body-content > a[target="_blank"] > img
 forum.donanimarsivi.com##.p-body-sidebar > a[href][target="_blank"] > img
