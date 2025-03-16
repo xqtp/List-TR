@@ -287,8 +287,7 @@ paratic.com##.g-frm-bnr
 paratic.com##.p-bnr
 paratic.com##.top-link-g
 paratic.com##.unique_adslink
-patronlardunyasi.com##.Ads
-patronlardunyasi.com##div[id*="-div-gpt-ad-"]
+patronlardunyasi.com##.ads
 pausedergi.com##.avia_image
 pazarlamasyon.com##.binduz-er-top-header-ad
 pchocasi.com.tr###background-adser
