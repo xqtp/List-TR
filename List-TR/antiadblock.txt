@@ -4,7 +4,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=exxen.com
 @@||puhutv.com/banner-ad*.png
 aktuelsanat.net,aof.tc,askeribirlikler.com,evdealmanca.com,evdeingilizcem.com,keylerbenden.com,kriptoup.com,tgyama.com,voleybolmagazin.com##+js(set, tie.ad_blocker_detector, '')
-ankarakampkafasi.com,betabuff.com,birsenaltuntas.com,blog.teknokesif.com.tr,gizemlidunyam.com,hasanyildiz.com,her-sey.net,inceleriz.com,karliisfikirleri.com,menufiyatlari.com.tr##.adblockalert
+ankarakampkafasi.com,betabuff.com,birsenaltuntas.com,blog.teknokesif.com.tr,gizemlidunyam.com,her-sey.net,inceleriz.com,karliisfikirleri.com,menufiyatlari.com.tr##.adblockalert
 ankarakampkafasi.com,betabuff.com,birsenaltuntas.com,blog.teknokesif.com.tr,gizemlidunyam.com,hasanyildiz.com,her-sey.net,inceleriz.com,karliisfikirleri.com,menufiyatlari.com.tr##.ad_block_detected:style(overflow: auto !important;)
 cioupdate.com.tr,tgyama.com##+js(set, tie.ad_blocker_disallow_images_placeholder, '')
 eczacidergisi.com.tr,kibrisraporu.com,thegamerstation.com##.mfp-bg
