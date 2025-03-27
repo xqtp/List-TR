@@ -91,7 +91,6 @@ denizlihaber.com##.ap
 diyetkolik.com##.reklamiKaldirLink
 diyetkolik.com##[id*="slot"]
 diyetkolik.com##[style^="min-height:250px;"]
-dizimag.org,izlekolik.pro###activeFrontVid
 dizipal.org##.body-clickable
 diziyou5.com###diziyouFooter
 diziyou5.com##img[width="900"][height="70"]
@@ -205,6 +204,7 @@ itemci.com##.mpy__container-banner
 itemci.com##.mpy__banners-small_container
 itemci.com##.pvpAdvertRow
 itemci.com##body:style(overflow: auto !important; position: static !important;)
+izlekolik.pro###activeFrontVid
 izlekolik.pro###onp
 izlekolik.pro##[alt="ads"]
 kadikoylife.com##.elementor-widget-image
