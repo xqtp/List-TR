@@ -313,7 +313,7 @@ savunmasanayist.com##.text-html
 savunmasanayist.com##.widget_block
 savunmasanayist.com##.widget_text
 savunmatr.com##.elementor-widget-shortcode
-sayfa.istanbul##.centered-content
+sayfa.istanbul##.widget_block
 secretcv.com##.banner-area
 secretcv.com##.cv-ads
 secretcv.com##.sponsored-job
