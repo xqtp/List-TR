@@ -82,7 +82,9 @@ cozumpark.com##.cozum-icerik
 cozumpark.com##.wpforo-ad
 cumhuriyet.com.tr##.inad-text
 cumhuriyet.com.tr##[style^="width: unset; aspect-ratio: 16 / 9; z-index: 3;"]
-cybermagonline.com##a[href][target="_blank"] > img
+cybermagonline.com##[style^="max-width:100%;margin-bottom:5px;"]
+cybermagonline.com##[style^="width:100%;height:auto;"]
+cybermagonline.com##[style^="width:100%;margin-bottom:5px;height:auto"]
 defenceturk.net##.defen-orta
 defenceturk.net##.elementor-widget-image
 defenceturk.net##.ha-slider
