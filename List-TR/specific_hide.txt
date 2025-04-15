@@ -393,7 +393,7 @@ yasemin.com##.masthead-script
 yasemin.com##div[id^="dfp-anasayfa-masthead-"]
 yemek.com##.masthead-container
 yenikonya.com.tr,konhaber.com##.rkl
-yesilekonomi.com##a[href][target="_blank"] > img
+yesilekonomi.com##a[data-bid="1"]
 yildizkisafilm.org##.pppx
 !
 aydindenge.com.tr,cinemadran.com,dunyaatlasi.com,gayrimenkulhaber.com,gecmisgazete.com,internethaber.com,korkusuz.com.tr,megahaber27.com,rumma.org,sozcu.com.tr,szctv.com.tr##.ad
