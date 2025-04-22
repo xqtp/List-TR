@@ -324,7 +324,6 @@ sigortacigazetesi.com.tr##.elementor-element-c925007
 sigortacigazetesi.com.tr##.widget_media_image
 sigortadunyasi.com.tr##.widget_block
 sikayetvar.com##.promo-banner
-sinema.cx###page:style(margin-top: 0px !important)
 sinemalar.com###roadblock
 socratesdergi.com##.AdBanner_base__uwf0k
 solar.ist##.sam-pro-ad
