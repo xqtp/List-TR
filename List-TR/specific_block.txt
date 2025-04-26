@@ -19,7 +19,6 @@
 ||donanimhaber.com/ads/
 ||donanimhaber.com/static/forum/js/kelimereklam_script.js
 ||eczacininsesi.com/banner/
-||egedesonsoz.com/banner/
 ||egeninsesi.com/system/ads/
 ||ekonomiknokta.com/upload/html-content/
 ||ekonomimanset.com/api/ads
