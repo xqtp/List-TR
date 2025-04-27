@@ -391,6 +391,7 @@ yasemin.com##.ad-right-block
 yasemin.com##.masthead
 yasemin.com##.masthead-script
 yasemin.com##div[id^="dfp-anasayfa-masthead-"]
+yatirimlar.com##img[style^="width: 100%; height: 100%"]
 yemek.com##.masthead-container
 yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##a[data-bid="1"]
