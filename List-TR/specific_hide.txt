@@ -369,6 +369,7 @@ trthaber.com##.masthead-ads-container
 turizmgazetesi.com##[class^="fixed"]
 turizmgazetesi.com##.bottom-header
 turizmgazetesi.com##.widget-adver
+turizmprojedergisi.com##.banner
 turkascihaberleri.com##.sidebar-add-place
 turkchem.net##[x-show="showModal"]
 turkchem.net##a[href^="https://turkchem.net/ads/"]
