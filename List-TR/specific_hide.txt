@@ -296,7 +296,7 @@ pazarlamasyon.com##.binduz-er-top-header-ad
 pchocasi.com.tr###background-adser
 pchocasi.com.tr##img[width="1200"][height="92"]
 pchocasi.com.tr##img[width="1903"]
-perakende.org##a[target="_blank"][rel="noopener nofollow"] > img
+perakende.org##img[width="1300"][height="300"]
 petroturk.com##.elementor-element-f95c6b4
 pudra.com##.uzmanVideoItem
 repertuarim.com##[class^="ads_"]
