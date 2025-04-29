@@ -64,7 +64,9 @@ bomba32.com##.modulAds
 bomba32.com##.reklam-manset
 bomba32.com##.sag-manset
 bthaber.com##.fl-module-photo
+bugunkibris.com##.ad-container
 bugunkibris.com##.Adv-pc
+bugunkibris.com##.contaddaaa
 bugunkibris.com##img[width="300px"][height="169px"]
 bugunkibris.com##img[width="700px"][height="90px"]
 bugunkibris.com##img[width="720px"][height="90px"]
