@@ -287,6 +287,8 @@ onedio.com##.top-24
 ototeknikveri.com##.oto_head
 ozgurbolu.com,spor14.com,bolusporluyuz.com###girisReklamalani
 paraanaliz.com###mvp-leader-wrap
+paraborsa.net##.arpb-widget.widget
+paraborsa.net##.hitmag-featured-slider
 paramevzu.com##.center-div
 paratic.com##.all-page-a-d
 paratic.com##.g-frm-bnr
