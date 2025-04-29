@@ -170,6 +170,9 @@ gidadedektifi.com##.XAd_bottom__WjpGF
 gidadedektifi.com##.XAd_square__hZ1Br
 gidaturk.com.tr##.tr_e3lan-widget
 gidaturk.com.tr##.widget_media_video
+haberapron.com##.leftbanner
+haberapron.com##.rightbanner
+haberapron.com##.rklm
 haberler.com###detay_masthead
 haberler.com###fixedDiv
 haberler.com##.backupContent
