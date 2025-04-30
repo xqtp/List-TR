@@ -49,10 +49,6 @@ bigatribun.net##.wp-image-26035
 bigatribun.net##.wp-image-26040
 biletall.com,obilet.com##.flight-journey
 biletall.com,obilet.com##.journey-flight
-bimagazin.com##[style="background-image: url(/maritza.jpg);"]
-bimagazin.com##[style="background-image:url(/6A6.jpg);"]
-bimagazin.com##a[href][target="_blank"] > img
-bimagazin.com##div[class*="banner"]
 birgun.net##.adsmasthead
 bloomberght.com##.adv-news
 bloomberght.com##.masthead-top
