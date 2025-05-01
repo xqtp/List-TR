@@ -151,10 +151,10 @@ forum.gamer.com.tr##.gamer-ads-container
 forum.shiftdelete.net###header-container
 forum.shiftdelete.net##.reklamyoutube-container
 fuarzamani.com###Reklam
-fullhdfilm.top###rekgecyen
-fullhdfilm.top##.hrklm_oblong
-fullhdfilm.top##a[onclick^="tiklakapat"]
-fullhdfilm.top##header:style(margin-top: 0px !important)
+fullhdfilm.cx###rekgecyen
+fullhdfilm.cx##.hrklm_oblong
+fullhdfilm.cx##a[onclick^="tiklakapat"]
+fullhdfilm.cx##header:style(margin-top: 0px !important)
 fullhdfilmizle.cx###rekgecyen
 fullhdfilmizle.cx##a[onclick^="tiklakapat"]
 fullhdfilmizlesene.de##.orta:style(margin-top: 0px !important)
