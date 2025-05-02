@@ -324,8 +324,10 @@ secretcv.com##.banner-area
 secretcv.com##.cv-ads
 secretcv.com##.sponsored-job
 seriilan.hurriyet.com.tr##.fBnr
-sigortacigazetesi.com.tr##.elementor-element-c925007
-sigortacigazetesi.com.tr##.widget_media_image
+sigortacigazetesi.com.tr##.wp-image-72535
+sigortacigazetesi.com.tr##.wp-image-73141
+sigortacigazetesi.com.tr##.wp-image-73486
+sigortacigazetesi.com.tr##.wp-image-74356
 sigortadunyasi.com.tr##.widget_block
 sikayetvar.com##.promo-banner
 sinemalar.com###roadblock
