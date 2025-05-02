@@ -403,7 +403,7 @@ yildizkisafilm.org##.pppx
 !
 aydindenge.com.tr,cinemadran.com,dunyaatlasi.com,gayrimenkulhaber.com,gecmisgazete.com,haberantalya.com,internethaber.com,korkusuz.com.tr,megahaber27.com,rumma.org,sozcu.com.tr,szctv.com.tr##.ad
 !
-akvaryum.com,bjk.com.tr,capital.com.tr,cumrapostasi.com,degisimgazetesi.com.tr,diyarbakirhaber.com.tr,emlaknews.com.tr,ibrala.com,internethaber.com,kadinloji.com,londragazete.com,mengen.gen.tr,nallihanhaber.com,noktabursa.com.tr,nowtv.com.tr,sakarya360.com,selcukhaber.com,slideplayer.biz.tr,sonhaber16.com,sosyola.com,tarihiyolculuk.com,trt1.com.tr,webhakim.com,webtekno.com,yeniakit.com.tr,yozgatses.com##.ads
+akvaryum.com,bjk.com.tr,capital.com.tr,cumrapostasi.com,degisimgazetesi.com.tr,diyarbakirhaber.com.tr,emlaknews.com.tr,ibrala.com,internethaber.com,kadinloji.com,londragazete.com,mengen.gen.tr,nallihanhaber.com,noktabursa.com.tr,nowtv.com.tr,sakarya360.com,selcukhaber.com,slideplayer.biz.tr,sonhaber16.com,sosyola.com,tarihiyolculuk.com,trt1.com.tr,webhakim.com,webtekno.com,yalovanedio.com,yeniakit.com.tr,yozgatses.com##.ads
 !
 ahaber.com.tr,apara.com.tr,aspor.com.tr,atv.com.tr,atvavrupa.tv,bafra55.net,enerjigunlugu.net,ereglimetro.com.tr,gazeteguncel.com,kargohaber.com,kemergozcu.com,sabah.com.tr,takvim.com.tr,virahaber.com,yeniasir.com.tr,yeniduzen.com##.advert
 !
