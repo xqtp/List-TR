@@ -357,8 +357,9 @@ tclira.com##.sadx
 tclira.com##.wp-image-64628
 tclira.com##.wp-image-64625
 teknodiot.com##.code-block
+teknodiot.com##.stream-item
 teknodiot.com##.stream-item-125-widget
-teknodiot.com##[target="_blank"][rel="noopener"]
+teknodiot.com##.widget_custom_html
 teknosa.com###gowitImpressionEvent
 teknoseyir.com##.tepe_reklam
 testlericoz.com##.ortala
