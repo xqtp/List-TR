@@ -322,8 +322,8 @@ savunmasanayist.com##.widget_text
 savunmatr.com##.elementor-widget-shortcode
 sayfa.istanbul##.widget_block
 secretcv.com##.banner-area
-secretcv.com##.cv-ads
 secretcv.com##.sponsored-job
+secretcv.com##img[width="1000"][height="100"]
 seriilan.hurriyet.com.tr##.fBnr
 sigortacigazetesi.com.tr##img[width="1000"][height="160"]
 sigortacigazetesi.com.tr##img[width="1120"][height="90"]
