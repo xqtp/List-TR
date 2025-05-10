@@ -362,6 +362,7 @@ teknodiot.com##.stream-item-125-widget
 teknodiot.com##.widget_custom_html
 teknosa.com###gowitImpressionEvent
 teknoseyir.com##.tepe_reklam
+teknotalk.com###mansetust
 testlericoz.com##.ortala
 testlericoz.com##.yazialtireklam
 themagger.com##.bus-bnr-block
