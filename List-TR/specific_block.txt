@@ -46,7 +46,7 @@
 ||img2-digitouch.mncdn.com/include/donanimhaber.js
 ||inceleriz.com/ads/
 ||istegundem.com/content/banner/
-||kibrispostasi.com/upload/banner^
+||kibrispostasi.com/upload/banner/
 ||konhaber.com/sahifeler/rkl/
 ||labmedya.com/*/__afis/
 ||labmedya.com/uploads/bannerlar/
