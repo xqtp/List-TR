@@ -177,6 +177,8 @@ haberler.com##.detaySagSilme
 haberturk.com##.adv-news
 haberturk.com##.pageskin
 haberturk.com##.masthead-top
+hanedancity.com##.avia_image
+hanedancity.com##.widget_media_image
 hangikredi.com##.card--sponsored
 hangikredi.com##.product-list-card_product_list_card__U9t3R.border.border-dark-blue
 hangikredi.com##[style^="--badge-color:#F6A927"]
