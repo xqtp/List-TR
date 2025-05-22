@@ -1,4 +1,4 @@
-4kfilmizlesene.org##+js(aopw, adx)
+4kfilmizlesene.nl##+js(aopw, adx)
 afroditscans.com##+js(aopr, openPopup)
 belgeselizlesene.com##+js(set, Object.prototype.ads_enable, false)
 belgeselizlesene.com##+js(set, Object.prototype.video_ads, noopFunc)
