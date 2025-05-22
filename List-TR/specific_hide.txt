@@ -356,8 +356,7 @@ tamindir.com##[class*="-banner"]
 tamindir.com##.outer-ads
 tarifikolay.com##.adcontent
 tclira.com##.sadx
-tclira.com##.wp-image-64628
-tclira.com##.wp-image-64625
+tclira.com##.so-widget-image
 teknodiot.com##.code-block
 teknodiot.com##.stream-item
 teknodiot.com##.stream-item-125-widget
