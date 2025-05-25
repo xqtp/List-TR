@@ -383,6 +383,9 @@ turizmprojedergisi.com##.banner
 turkascihaberleri.com##.sidebar-add-place
 turkchem.net##[x-show="showModal"]
 turkchem.net##a[href^="https://turkchem.net/ads/"]
+turkishtimedergi.com##.Large.Ad.CXL
+turkishtimedergi.com##.Medium.Ad.Post
+turkishtimedergi.com##.Popup
 turkiye.influence.cool###duyBunuAds
 turkiyegazetesi.com.tr##.masthead-cls
 turkmmo.com##.elementor-widget-html
