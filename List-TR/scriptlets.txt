@@ -5,7 +5,7 @@ belgeselizlesene.com##+js(set, Object.prototype.video_ads, noopFunc)
 burdurweb.com##^meta[http-equiv="refresh"]
 burdurweb.com##+js(refresh-defuser)
 breakingbadizle.net##+js(aopr, initAd)
-dizikorea.pro,dizipal.org,hdfilmizle.in,izlekolik.pro,onlinedizi.xyz,trfilm.net##+js(set, puShown, true)
+dizikorea.pro,dizipal.org,izlekolik.pro,onlinedizi.xyz,trfilm.net##+js(set, puShown, true)
 diziyou6.com##+js(aopr, player.vroll)
 fullhdfilmizle.cx##+js(nano-sib)
 fullhdfilmizle.cx##+js(nostif, psresimler)
