@@ -152,8 +152,6 @@ forum.gamer.com.tr##.gamer-ads-container
 forum.shiftdelete.net###header-container
 forum.shiftdelete.net##.reklamyoutube-container
 fuarzamani.com###Reklam
-fullhdfilmizle.cx###rekgecyen
-fullhdfilmizle.cx##a[onclick^="tiklakapat"]
 fullhdfilmizlesene.de##.orta:style(margin-top: 0px !important)
 gastromagazin.com.tr##.elementor-widget-image
 gastromagazin.com.tr##.widget_media_image
