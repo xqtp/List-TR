@@ -4,6 +4,8 @@
 81haber.com##.sadx
 81haber.com##.widget_custom_html
 320volt.com##[rel*="sponsored"]
+abcgazetesi.com,airporthaber2.com,anadoludabugun.com.tr,arti49.com,bafra55.net,bbnhaber.com.tr,bilecikhaber.com.tr,enerjigunlugu.net,haberciniz.biz,hakkarihabertv.com,hakkariobjektifhaber.com,halktv.com.tr,insaatderyasi.com,kadikoygazetesi.com,karamanhabercisi.com,karar.com,kartalgazetesi.com,kibrispostasi.com,konyaninsesi.com.tr,lojiport.com,magazinkolik.com,marasgundem.com.tr,memleket.com.tr,pudra.com,turkhackteam.org,virahaber.com,yemektekeyifvar.com,yeniasya.com.tr,yeniduzen.com,yurtgazetesi.com.tr##body .banner
+ahaber.com.tr,apara.com.tr,aspor.com.tr,atv.com.tr,atvavrupa.tv,bafra55.net,enerjigunlugu.net,ereglimetro.com.tr,gazeteguncel.com,kargohaber.com,kemergozcu.com,sabah.com.tr,takvim.com.tr,virahaber.com,yeniasir.com.tr,yeniduzen.com##.advert
 ahaber.com.tr,apara.com.tr,aspor.com.tr,fotomac.com.tr,sabah.com.tr,takvim.com.tr,yeniasir.com.tr##.bandReklam
 ahaber.com.tr,apara.com.tr,aspor.com.tr,atv.com.tr,atvavrupa.tv,fotomac.com.tr,sabah.com.tr,sofra.com.tr,sosyalhalisaha.com,takvim.com.tr,yeniasir.com.tr##.billBoardFrame
 airlinehaber.com##.custom-html-widget
@@ -21,6 +23,7 @@ aksam.com.tr##[style="margin: 0 auto;height:95px"]
 aksam.com.tr##[style="height:260px;margin:0 auto;text-align:center"]
 aksam.com.tr##[style="height:300px;margin-bottom:15px"]
 akorlar.com###masaustu
+akvaryum.com,bjk.com.tr,capital.com.tr,cumrapostasi.com,degisimgazetesi.com.tr,diyarbakirhaber.com.tr,emlaknews.com.tr,ibrala.com,internethaber.com,kadinloji.com,londragazete.com,mengen.gen.tr,nallihanhaber.com,noktabursa.com.tr,nowtv.com.tr,sakarya360.com,selcukhaber.com,slideplayer.biz.tr,sonhaber16.com,sosyola.com,tarihiyolculuk.com,trt1.com.tr,webhakim.com,webtekno.com,yalovanedio.com,yeniakit.com.tr,yozgatses.com##.ads
 altin.in###ustR
 altin.in###yorumiciReklam
 altin.in##.icReklam
@@ -39,6 +42,7 @@ atarita.com###tdi_40
 avmdergi.com##.wpb_single_image
 avmtrend.com##.anasli
 avrupaninsesi.com##.a-wrap
+aydindenge.com.tr,cinemadran.com,dunyaatlasi.com,gayrimenkulhaber.com,gecmisgazete.com,haberantalya.com,internethaber.com,korkusuz.com.tr,megahaber27.com,rumma.org,sozcu.com.tr,szctv.com.tr##.ad
 babmagazine.com##.html.custom.html_topbar_left
 babmagazine.com##.img-inner.dark
 besiktas.com.tr##.ad-masthead
@@ -401,11 +405,3 @@ yemek.com##.masthead-container
 yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##a[data-bid="1"]
 yildizkisafilm.org##.pppx
-!
-aydindenge.com.tr,cinemadran.com,dunyaatlasi.com,gayrimenkulhaber.com,gecmisgazete.com,haberantalya.com,internethaber.com,korkusuz.com.tr,megahaber27.com,rumma.org,sozcu.com.tr,szctv.com.tr##.ad
-!
-akvaryum.com,bjk.com.tr,capital.com.tr,cumrapostasi.com,degisimgazetesi.com.tr,diyarbakirhaber.com.tr,emlaknews.com.tr,ibrala.com,internethaber.com,kadinloji.com,londragazete.com,mengen.gen.tr,nallihanhaber.com,noktabursa.com.tr,nowtv.com.tr,sakarya360.com,selcukhaber.com,slideplayer.biz.tr,sonhaber16.com,sosyola.com,tarihiyolculuk.com,trt1.com.tr,webhakim.com,webtekno.com,yalovanedio.com,yeniakit.com.tr,yozgatses.com##.ads
-!
-ahaber.com.tr,apara.com.tr,aspor.com.tr,atv.com.tr,atvavrupa.tv,bafra55.net,enerjigunlugu.net,ereglimetro.com.tr,gazeteguncel.com,kargohaber.com,kemergozcu.com,sabah.com.tr,takvim.com.tr,virahaber.com,yeniasir.com.tr,yeniduzen.com##.advert
-!
-abcgazetesi.com,airporthaber2.com,anadoludabugun.com.tr,arti49.com,bafra55.net,bbnhaber.com.tr,bilecikhaber.com.tr,enerjigunlugu.net,haberciniz.biz,hakkarihabertv.com,hakkariobjektifhaber.com,halktv.com.tr,insaatderyasi.com,kadikoygazetesi.com,karamanhabercisi.com,karar.com,kartalgazetesi.com,kibrispostasi.com,konyaninsesi.com.tr,lojiport.com,magazinkolik.com,marasgundem.com.tr,memleket.com.tr,pudra.com,turkhackteam.org,virahaber.com,yemektekeyifvar.com,yeniasya.com.tr,yeniduzen.com,yurtgazetesi.com.tr##body .banner
