@@ -393,6 +393,7 @@ vsro.org##+js(acs, $, btoa)
 /themes/*/js/shared/analytics.min.js
 /themes/*/js/site/analytics.min.js
 ||acs.qnb.com.tr/api/log
+||aisearch.app^$3p
 ||cdn.e-devlet.gov.tr/themes/ankara/js/analitik.min.*.js
 ||images.hepsiburada.net/webtrekk/webtrekk.js
 ||sahibinden.com/assets/analytics:1.js
