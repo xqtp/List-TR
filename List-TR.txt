@@ -620,6 +620,7 @@ ekonomist.com.tr##div[id^="doganBurdaAds"]
 ekonomist.com.tr,lezzet.com.tr##.news-inline-ads
 ekoturk.com##.fixed-ad-global
 elle.com.tr,evimdergisi.com.tr##.abg245
+emlakhaberajansi.com##.pelinacmkr-ad-wrapper
 emlaktasondakika.com,guncelprojebilgileri.com##.add-section
 enerjivetesisat.com##.mod-banners
 enerjivetesisat.com##.t3-sidebar
