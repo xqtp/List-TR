@@ -144,6 +144,7 @@ cioupdate.com.tr,tgyama.com##+js(set, tie.ad_blocker_disallow_images_placeholder
 eczacidergisi.com.tr,kibrisraporu.com,thegamerstation.com##.mfp-bg
 eczacidergisi.com.tr,kibrisraporu.com,thegamerstation.com##.mfp-wrap
 eczacidergisi.com.tr,kibrisraporu.com,thegamerstation.com##html:style(overflow: auto !important;)
+||exceldepo.com/js/XV/optimal.min.js
 exxen.com##+js(set, eyeOfErstream.detectedBloke, falseFunc)
 forumchess.com.tr##+js(no-xhr-if, googlesyndication)
 huawei-turkiye.com##.XGT-AdBlock-Govde
