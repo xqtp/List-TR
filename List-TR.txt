@@ -859,6 +859,8 @@ tamindir.com##[class*="-banner"]
 tarifikolay.com##.adcontent
 tclira.com##.sadx
 tclira.com##.so-widget-image
+teknoblog.com##.tekno-banner-alani-1
+teknoblog.com##.tekno-banner-alani-2
 teknodiot.com##.code-block
 teknodiot.com##.stream-item
 teknodiot.com##.stream-item-125-widget
