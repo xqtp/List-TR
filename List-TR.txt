@@ -855,8 +855,9 @@ star.com.tr##[style="height:274px"]
 star.com.tr##[style="height:274px;"]
 star.com.tr##[style="height:300px;"]
 tahlil.com##.col-lg-12.mt-2.mb-4.text-center
+tamindir.com##.centered-banner
 tamindir.com##.outer-ads
-tamindir.com##[class*="-banner"]
+tamindir.com##.top-banner
 tarifikolay.com##.adcontent
 tclira.com##.sadx
 tclira.com##.so-widget-image
