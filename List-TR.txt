@@ -472,7 +472,7 @@ vsro.org##+js(acs, $, btoa)
 ||ototeknikveri.com/Advert/GetRandomAdvert
 ||ototeknikveri.com/VField/GetOtoTeknikDisplayAd
 ||plantdergisi.com/dosyalar/site_resim/banner/
-||play.dizigom1.co/*/vast.js
+||play.dizigom1.live/*/plugins/vast/v/*/vast.js
 ||psmmag.com/api/ads
 ||ranini.tv/banner/
 ||sigortagundem.com/api/ads
