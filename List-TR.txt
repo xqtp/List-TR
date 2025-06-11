@@ -272,6 +272,7 @@ vsro.org##+js(acs, $, btoa)
 ##.empower-ad
 ##.fixed_ads
 ##.fixedAd
+##.flex.justify-center.my-3.no-click.my-3.no-click
 ##.frontendAd
 ##.genelReklamCon
 ##.haber-detay-reklam
