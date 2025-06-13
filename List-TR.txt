@@ -777,7 +777,10 @@ mynet.com##div[isshowcase]
 n11.com##.adProductArea
 n11.com##.header-banner-cover
 nefisyemektarifleri.com##.nokta.no-print
-ntvspor.net,ntv.com.tr##.dygtag-masthead
+ntv.com.tr##.dygtag-masthead
+ntvspor.net##.dyg-display.dyg-class
+ntvspor.net##.dyg-masthead.container
+ntvspor.net##.taboola-class-check
 obilet.com###searchResultMarketingBannerContainer
 obilet.com##.featured-banner
 obilet.com##.js-list-cross-sell-banner-container
