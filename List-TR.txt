@@ -807,7 +807,7 @@ paratic.com##.unique_adslink
 patronlardunyasi.com##.ads
 pausedergi.com##.avia_image
 pazarlamasyon.com##.binduz-er-top-header-ad
-pchocasi.com.tr###background-adserAdd commentMore actions
+pchocasi.com.tr###background-adser
 pchocasi.com.tr##img[width="1200"][height="92"]
 pchocasi.com.tr##img[width="1903"]
 perakende.org##img[width="1300"][height="300"]
