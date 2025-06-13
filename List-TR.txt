@@ -714,6 +714,7 @@ itemci.com##.mpy__banners-small_container
 itemci.com##.mpy__container-banner
 itemci.com##.pvpAdvertRow
 itemci.com##body:style(overflow: auto !important; position: static !important;)
+itemsatis.com##.itemsatis-header-banner.video-element
 izlekolik.pro###activeFrontVid
 izlekolik.pro###onp
 izlekolik.pro##+js(aopw, adx)
