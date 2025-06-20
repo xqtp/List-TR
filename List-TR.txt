@@ -132,7 +132,7 @@ trlyrics.com#@#.reklam
 !
 ! ---------- Antiadblock ----------
 !
-##.kanews-modal-adblock
+###kanews-modal-adblock
 @@||akormatik.com/pages/song/AdManager.min.js
 @@||exxen.com^$generichide
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=exxen.com
