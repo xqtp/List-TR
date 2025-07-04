@@ -177,6 +177,7 @@ vsro.org##+js(acs, $, btoa)
 /dosya/reklam/*
 /files/uploads/advert/*
 /images/general/advert-
+/images/money/*
 /images/reklam/advert-
 /img/rek/*
 /modules/adblock/*
@@ -272,7 +273,6 @@ vsro.org##+js(acs, $, btoa)
 ##.empower-ad
 ##.fixed_ads
 ##.fixedAd
-##.flex.justify-center.my-3.no-click.my-3.no-click
 ##.frontendAd
 ##.genelReklamCon
 ##.haber-detay-reklam
