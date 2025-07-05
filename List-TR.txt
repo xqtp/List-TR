@@ -423,7 +423,7 @@ vsro.org##+js(acs, $, btoa)
 ||cdn.vidyome.com/vidyome/builds/widgets.js
 ||cms.mmotutkunlari.com/asyncjs
 ||cosmomedya.com/addserver
-||dizibox.live/r/
+||dizibox.so/r/
 ||donanimhaber.com/ads/
 ||donanimhaber.com/static/forum/js/kelimereklam_script.js
 ||eczacininsesi.com/banner/
