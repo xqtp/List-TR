@@ -822,7 +822,7 @@ salom.com.tr##.hmrl23
 salom.com.tr##.topbanner
 sanayigazetesi.com.tr##.widget_custom_html
 sanayigazetesi.com.tr##[data-widget_type="cs-banner.default"]
-santiye.com.tr##a[href][target="_blank"] > img
+santiye.com.tr##.sponsor-logolar
 savunmahaber.com##.elementor-widget-w-bannerbox
 savunmasanayist.com##.text-html
 savunmasanayist.com##.widget_block
