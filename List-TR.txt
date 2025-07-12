@@ -586,7 +586,6 @@ cnnturk.com,hurriyet.com.tr,milliyet.com.tr##.adv
 cozumpark.com##.cozum-icerik
 cozumpark.com##.wpforo-ad
 cumhuriyet.com.tr##.inad-text
-cumhuriyet.com.tr##[style^="width: unset; aspect-ratio: 16 / 9; z-index: 3;"]
 cybermagonline.com##[style^="max-width:100%;margin-bottom:5px;"]
 cybermagonline.com##[style^="width:100%;height:auto;"]
 cybermagonline.com##[style^="width:100%;margin-bottom:5px;height:auto"]
