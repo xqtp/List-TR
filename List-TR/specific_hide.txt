@@ -238,7 +238,7 @@ magdergi.com##.wpb_single_image
 mallreport.com.tr##.swiper-slide-inner
 mallreport.com.tr##.widget_media_image
 marketingturkiye.com.tr###block-5
-marketingturkiye.com.tr##.row.ci-ad.iframex
+marketingturkiye.com.tr##.b2b-marketing-desktop
 maximagazin.com###media_image-3
 mediacat.com##.Block-advert:not(.Block-advert__magazine)
 memurlar.net##.click-tracker
