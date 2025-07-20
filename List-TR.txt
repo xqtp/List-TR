@@ -600,10 +600,10 @@ diyetkolik.com##[id*="slot"]
 diyetkolik.com##[style^="min-height:250px;"]
 dizikorea.pro,dizipal.org,izlekolik.pro,onlinedizi.xyz,trfilm.net##+js(set, puShown, true)
 dizipal.org##.body-clickable
-diziyou7.com###diziyouFooter
-diziyou7.com##+js(aopr, player.vroll)
-diziyou7.com##img[width="900"][height="70"]
-diziyou7.com##img[width="1200"][height="70"]
+diziyou8.com###diziyouFooter
+diziyou8.com##+js(aopr, player.vroll)
+diziyou8.com##img[width="900"][height="70"]
+diziyou8.com##img[width="1200"][height="70"]
 donanimhaber.com##.tepe-alan
 donanimhaber.com,rekoroyun.com##[class^="reklam-"]
 doramagazin.com##.hot-news-ads2
