@@ -905,6 +905,7 @@ uludagsozluk.com##[class^="adulu_"]
 uplifers.com###up-masthead--infinite
 uplifers.com##.up-masthead__container
 ustayemektarifleri.com##.treklam
+wannart.com##.ad-img
 webtekno.com##.wt-container:style(padding-top: 60px!important;)
 webtekno.com##.wt-masthead
 wmaraci.com##[class*="wmads"]
