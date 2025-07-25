@@ -598,7 +598,7 @@ denizlihaber.com##.ap
 diyetkolik.com##.reklamiKaldirLink
 diyetkolik.com##[id*="slot"]
 diyetkolik.com##[style^="min-height:250px;"]
-dizikorea.pro,dizipalv.com,izlekolik.tv,onlinedizi.xyz,trfilm.net##+js(set, puShown, true)
+dizikorea.pw,dizipalv.com,izlekolik.tv,onlinedizi.xyz,trfilm.net##+js(set, puShown, true)
 dizipalv.com##.body-clickable
 diziyou9.com###diziyouFooter
 diziyou9.com##+js(aopr, player.vroll)
