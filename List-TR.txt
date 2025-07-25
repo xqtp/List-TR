@@ -598,8 +598,8 @@ denizlihaber.com##.ap
 diyetkolik.com##.reklamiKaldirLink
 diyetkolik.com##[id*="slot"]
 diyetkolik.com##[style^="min-height:250px;"]
-dizikorea.pro,dizipal.org,izlekolik.tv,onlinedizi.xyz,trfilm.net##+js(set, puShown, true)
-dizipal.org##.body-clickable
+dizikorea.pro,dizipalv.com,izlekolik.tv,onlinedizi.xyz,trfilm.net##+js(set, puShown, true)
+dizipalv.com##.body-clickable
 diziyou9.com###diziyouFooter
 diziyou9.com##+js(aopr, player.vroll)
 diziyou9.com##img[width="900"][height="70"]
