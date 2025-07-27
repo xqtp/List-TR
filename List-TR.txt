@@ -910,7 +910,6 @@ wannart.com##.ad-img
 webtekno.com##.wt-container:style(padding-top: 60px!important;)
 webtekno.com##.wt-masthead
 wmaraci.com##[class*="wmads"]
-wowturkey.net##img[width="720px"][height="90px"]
 yasemin.com###masthead-position
 yasemin.com##.ad-right-block
 yasemin.com##.masthead
