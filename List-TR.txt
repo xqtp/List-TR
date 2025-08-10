@@ -636,7 +636,6 @@ evimdergisi.com.tr##.masterhead
 evrimagaci.org##.ads-container
 exceldepo.com##.block.pt-10
 fikirliderleri.com##.vmagazine_lite_medium_ad
-filmizlesene.pro###wrap:style(margin-top: 0px !important)
 filmmakinesi.de##.ps-head-container
 filmmodu.io###mobile-preroll
 filmmodu.io##.embed-responsive:style(display: block !important;)
@@ -921,4 +920,5 @@ yeniasya.com.tr##+js(set, PopBanner, undefined)
 yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##a[data-bid="1"]
 yildizkisafilm.org##.pppx
+
 
