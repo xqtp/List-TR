@@ -688,6 +688,7 @@ hepsiburada.com##[class*=Advertisement]
 hepsiburada.com##[data-test-id="sponsored-products"]
 hepsiburada.com##[id^="recommendation-item_page.web-rank"]
 hesaplama.net##.mad
+hisse.net##.adv-col
 hurriyet.com.tr##.advMasthead
 hurriyet.com.tr##.sticky-wrapper
 ictmedia.com.tr##.horiAds
@@ -918,6 +919,7 @@ yeniasya.com.tr##+js(set, PopBanner, undefined)
 yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##a[data-bid="1"]
 yildizkisafilm.org##.pppx
+
 
 
 
