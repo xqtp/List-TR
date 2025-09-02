@@ -366,7 +366,7 @@ vsro.org##+js(acs, $, btoa)
 ##.ustOrtaSolReklam
 ##.ustReklam
 ##.virgul-ad
-##.widget-advert.text-center.my-3
+##.widget-advert.text-center
 ##.xgt-Banner-Kutusu
 ##.yatay-reklam
 ##.yatayReklam
@@ -919,6 +919,7 @@ yeniasya.com.tr##+js(set, PopBanner, undefined)
 yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##a[data-bid="1"]
 yildizkisafilm.org##.pppx
+
 
 
 
