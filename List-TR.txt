@@ -74,6 +74,7 @@
 ||kingbaba.org^
 ||kriptoparahaber.care^
 ||makroo.com^$third-party
+||mdznads.com^
 ||medyanative.com^$third-party
 ||metrics34.com^$third-party
 ||mp.subservis.com^
@@ -919,3 +920,4 @@ yeniasya.com.tr##+js(set, PopBanner, undefined)
 yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##a[data-bid="1"]
 yildizkisafilm.org##.pppx
+
