@@ -521,7 +521,7 @@ aksam.com.tr##[style="height:262px;"]
 aksam.com.tr##[style="height:300px;margin-bottom:15px"]
 aksam.com.tr##[style="margin: 0 auto;height:95px"]
 aksam.com.tr##[style="width:300px;height:250px;margin-bottom:10px;"]
-akvaryum.com,bjk.com.tr,capital.com.tr,cumrapostasi.com,degisimgazetesi.com.tr,diyarbakirhaber.com.tr,emlaknews.com.tr,ibrala.com,internethaber.com,kadinloji.com,londragazete.com,mengen.gen.tr,nallihanhaber.com,noktabursa.com.tr,nowtv.com.tr,sakarya360.com,selcukhaber.com,slideplayer.biz.tr,sonhaber16.com,sosyola.com,tarihiyolculuk.com,trt1.com.tr,webhakim.com,webtekno.com,yalovanedio.com,yeniakit.com.tr,yozgatses.com##.ads
+akvaryum.com,bjk.com.tr,capital.com.tr,cumrapostasi.com,degisimgazetesi.com.tr,diyarbakirhaber.com.tr,emlaknews.com.tr,ibrala.com,internethaber.com,kadinloji.com,londragazete.com,mengen.gen.tr,nallihanhaber.com,noktabursa.com.tr,nowtv.com.tr,sakarya360.com,selcukhaber.com,slideplayer.biz.tr,sonhaber16.com,sosyola.com,tarihiyolculuk.com,trt1.com.tr,webhakim.com,yalovanedio.com,yeniakit.com.tr,yozgatses.com##.ads
 altin.in###ustR
 altin.in###yorumiciReklam
 altin.in##.icReklam
@@ -906,8 +906,8 @@ uplifers.com###up-masthead--infinite
 uplifers.com##.up-masthead__container
 ustayemektarifleri.com##.treklam
 wannart.com##.ad-img
-webtekno.com##.wt-container:style(padding-top: 60px!important;)
-webtekno.com##.wt-masthead
+webtekno.com##.adv-col
+webtekno.com##.content-adv-col
 wmaraci.com##[class*="wmads"]
 yasemin.com###masthead-position
 yasemin.com##.ad-right-block
@@ -920,4 +920,3 @@ yeniasya.com.tr##+js(set, PopBanner, undefined)
 yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##a[data-bid="1"]
 yildizkisafilm.org##.pppx
-
