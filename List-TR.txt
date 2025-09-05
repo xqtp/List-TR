@@ -918,5 +918,6 @@ yatirimlar.com##img[style^="width: 100%; height: 100%"]
 yemek.com##.masthead-container
 yeniasya.com.tr##+js(set, PopBanner, undefined)
 yenikonya.com.tr,konhaber.com##.rkl
-yesilekonomi.com##a[data-bid="1"]
+yesilekonomi.com##.FixedWidget__fixed_widget
+yesilekonomi.com##.header-banner-area
 yildizkisafilm.org##.pppx
