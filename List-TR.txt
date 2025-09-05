@@ -521,7 +521,7 @@ aksam.com.tr##[style="height:262px;"]
 aksam.com.tr##[style="height:300px;margin-bottom:15px"]
 aksam.com.tr##[style="margin: 0 auto;height:95px"]
 aksam.com.tr##[style="width:300px;height:250px;margin-bottom:10px;"]
-akvaryum.com,bjk.com.tr,capital.com.tr,cumrapostasi.com,degisimgazetesi.com.tr,diyarbakirhaber.com.tr,emlaknews.com.tr,ibrala.com,internethaber.com,kadinloji.com,londragazete.com,mengen.gen.tr,nallihanhaber.com,noktabursa.com.tr,nowtv.com.tr,sakarya360.com,selcukhaber.com,slideplayer.biz.tr,sonhaber16.com,sosyola.com,tarihiyolculuk.com,trt1.com.tr,webhakim.com,yalovanedio.com,yeniakit.com.tr,yozgatses.com##.ads
+akvaryum.com,bjk.com.tr,capital.com.tr,cumrapostasi.com,degisimgazetesi.com.tr,diyarbakirhaber.com.tr,emlaknews.com.tr,ibrala.com,internethaber.com,kadinloji.com,londragazete.com,mengen.gen.tr,nallihanhaber.com,noktabursa.com.tr,nowtv.com.tr,sakarya360.com,selcukhaber.com,slideplayer.biz.tr,sonhaber16.com,sosyola.com,tarihiyolculuk.com,trt1.com.tr,webhakim.com,yalovanedio.com,yeniakit.com.tr##.ads
 altin.in###ustR
 altin.in###yorumiciReklam
 altin.in##.icReklam
@@ -921,3 +921,4 @@ yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##.FixedWidget__fixed_widget
 yesilekonomi.com##.header-banner-area
 yildizkisafilm.org##.pppx
+
