@@ -683,7 +683,7 @@ hangikredi.com##.card--sponsored
 hangikredi.com##.product-list-card_product_list_card__U9t3R.border.border-dark-blue
 hangikredi.com##[style^="--badge-color:#F6A927"]
 havadurumu15gunluk.xyz##.ads_row
-hdfilmcehennemi.nl##[class^="money-"]
+hdfilmcehennemi.com##[class^="money-"]
 hepsiburada.com##.Ng6fk9sFUymZGcprK15n
 hepsiburada.com##[class*=Advertisement]
 hepsiburada.com##[data-test-id="sponsored-products"]
@@ -921,4 +921,5 @@ yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##.FixedWidget__fixed_widget
 yesilekonomi.com##.header-banner-area
 yildizkisafilm.org##.pppx
+
 
