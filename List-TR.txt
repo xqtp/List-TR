@@ -494,8 +494,8 @@ vsro.org##+js(acs, $, btoa)
 !
 ! ---------- Specific Hide ----------
 !
-4kfilmizlesene.nl##+js(aopw, adx)
-4kfilmizlesene.nl##.container:style(margin-top: 0px !important)
+4kfilmizlesene.us##+js(aopw, adx)
+4kfilmizlesene.us##.container:style(margin-top: 0px !important)
 6nmagazine.com##.bn-content
 12punto.com.tr##.subNews
 81haber.com##.sadx
@@ -921,6 +921,3 @@ yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##.FixedWidget__fixed_widget
 yesilekonomi.com##.header-banner-area
 yildizkisafilm.org##.pppx
-
-
-
