@@ -717,9 +717,11 @@ izlekolik.tv###activeFrontVid
 izlekolik.tv###onp
 izlekolik.tv##+js(aopw, adx)
 izlekolik.tv##[alt="ads"]
-kadikoylife.com##.elementor-widget-image
-kadikoylife.com##.header-banner
 kadikoylife.com##.widget_media_image
+kadikoylife.com##.wp-image-102278
+kadikoylife.com##.wp-image-106843
+kadikoylife.com##.wp-image-107827
+kadikoylife.com##.wp-image-108687
 kadinlarkulubu.com###SideBarAds
 kadinlarkulubu.com##.p-body-inner:style(width: 100% !important;)
 kariyer.net###sponsored-list
@@ -922,4 +924,5 @@ yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##.FixedWidget__fixed_widget
 yesilekonomi.com##.header-banner-area
 yildizkisafilm.org##.pppx
+
 
