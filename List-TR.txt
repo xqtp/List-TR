@@ -726,6 +726,7 @@ kadinlarkulubu.com###SideBarAds
 kadinlarkulubu.com##.p-body-inner:style(width: 100% !important;)
 kariyer.net###sponsored-list
 kibrisgazetesi.com##.execphpwidget
+kibrisgazetesi.com##.haberreklam
 kibrisgazetesi.com##.site-header-top-center
 kibrisgazetesi.com##img[style="width:100%;"]
 kimkazandi.com##.bunlariKacirmaTopic
@@ -924,5 +925,3 @@ yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##.FixedWidget__fixed_widget
 yesilekonomi.com##.header-banner-area
 yildizkisafilm.org##.pppx
-
-
