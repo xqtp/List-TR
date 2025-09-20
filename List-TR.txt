@@ -605,6 +605,8 @@ diziyou13.com###diziyouFooter
 diziyou13.com##+js(aopr, player.vroll)
 diziyou13.com##img[width="900"][height="70"]
 diziyou13.com##img[width="1200"][height="70"]
+dolubatarya.com##.bottom_____ads
+dolubatarya.com##.top_____ads
 donanimhaber.com##.tepe-alan
 donanimhaber.com,rekoroyun.com##[class^="reklam-"]
 doramagazin.com##.hot-news-ads2
@@ -925,3 +927,4 @@ yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##.FixedWidget__fixed_widget
 yesilekonomi.com##.header-banner-area
 yildizkisafilm.org##.pppx
+
