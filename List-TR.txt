@@ -423,7 +423,7 @@ vsro.org##+js(acs, $, btoa)
 ||cdn.vidyome.com/vidyome/builds/widgets.js
 ||cms.mmotutkunlari.com/asyncjs
 ||cosmomedya.com/addserver
-||dizibox.so/r/
+||dizibox.live/r/
 ||donanimhaber.com/ads/
 ||donanimhaber.com/static/forum/js/kelimereklam_script.js
 ||eczacininsesi.com/banner/
@@ -927,3 +927,4 @@ yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##.FixedWidget__fixed_widget
 yesilekonomi.com##.header-banner-area
 yildizkisafilm.org##.pppx
+
