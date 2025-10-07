@@ -843,7 +843,6 @@ sigortacigazetesi.com.tr##img[width="1220"][height="110"]
 sigortacigazetesi.com.tr##img[width="1220"][height="120"]
 sigortadunyasi.com.tr##.widget_block
 sikayetvar.com##.promo-banner
-sinemalar.com###roadblock
 socratesdergi.com##.AdBanner_base__uwf0k
 solar.ist##.sam-pro-ad
 solar.ist##.wpb_text_column.wpb_content_element
