@@ -59,7 +59,6 @@
 ||diken.xyz^
 ||dogus-ads-cdn.dygdigital.com^$third-party
 ||ds.macellan.online^
-||empower.net^$third-party
 ||filmbari.com^
 ||finvest.care^
 ||gastroreklam.com^$3p
@@ -397,6 +396,8 @@ vsro.org##+js(acs, $, btoa)
 ||acs.qnb.com.tr/api/log
 ||aisearch.app^$3p
 ||cdn.e-devlet.gov.tr/themes/ankara/js/analitik.min.*.js
+||cdn.empower.net/sdk/CometSDK.min.js
+||cdn.empower.net/sdk/CometSDKWorker.min.js
 ||images.hepsiburada.net/webtrekk/webtrekk.js
 ||sahibinden.com/assets/analytics:1.js
 ||sahibinden.com/rum/
@@ -926,4 +927,3 @@ yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##.FixedWidget__fixed_widget
 yesilekonomi.com##.header-banner-area
 yildizkisafilm.org##.pppx
-
