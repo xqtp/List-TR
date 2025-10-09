@@ -565,7 +565,7 @@ bomba32.com##.modulAds
 bomba32.com##.reklam-manset
 bomba32.com##.sag-manset
 breakingbadizle.net##+js(aopr, initAd)
-bthaber.com##.fl-module-photo
+bthaber.com##.fl-html
 bugunkibris.com##.ad-container
 bugunkibris.com##.contaddaaa
 bugunkibris.com##[class^="Adv-"]
@@ -926,3 +926,4 @@ yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##.FixedWidget__fixed_widget
 yesilekonomi.com##.header-banner-area
 yildizkisafilm.org##.pppx
+
