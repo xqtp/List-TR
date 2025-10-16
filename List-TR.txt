@@ -236,7 +236,6 @@ vsro.org##+js(acs, $, btoa)
 ###sol_kayan_reklam
 ###solreklam
 ###sreklam
-###top-banner
 ###UstReklam
 ###ustReklam
 ###ustreklam
@@ -930,4 +929,5 @@ yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##.FixedWidget__fixed_widget
 yesilekonomi.com##.header-banner-area
 yildizkisafilm.org##.pppx
+
 
