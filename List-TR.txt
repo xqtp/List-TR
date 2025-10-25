@@ -102,6 +102,8 @@
 ||seldos.com.tr^$third-party
 ||siberreklam.com^
 ||ssp.ad-plus.com.tr^$third-party
+||statbest.in^
+||stplay.cfd^
 ||tagon.co^$third-party
 ||theadx.com^$third-party
 ||url.isimsepeti.net^
@@ -444,7 +446,6 @@ vsro.org##+js(acs, $, btoa)
 ||guncelprojebilgileri.com/html_banner
 ||haber18.com/canbunlar/
 ||haberkibris.com/banner
-||hdfilmcehennemi.date/ads/
 ||hepsiburada.net/hepsiads/
 ||hibya.com/ads/
 ||i11.haber7.net/makroo/hb-ads/
@@ -929,7 +930,3 @@ yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##.FixedWidget__fixed_widget
 yesilekonomi.com##.header-banner-area
 yildizkisafilm.org##.pppx
-
-
-
-
