@@ -791,6 +791,7 @@ ntvspor.net##.taboola-class-check
 obilet.com###searchResultMarketingBannerContainer
 obilet.com##.featured-banner
 obilet.com##.js-list-cross-sell-banner-container
+oggusto.com##.masthead-bnr-block
 oggusto.com##.tmad-image
 onedio.com###mansetAlti-container
 onedio.com###masthead-container
