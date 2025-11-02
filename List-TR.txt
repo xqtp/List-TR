@@ -434,7 +434,7 @@ vsro.org##+js(acs, $, btoa)
 ||emlaktasondakika.com/html_banner/
 ||fikriyat.com/js/advertisements
 ||files.mc-tr.com/ads/
-||filmmakinesi.de/rek-ajax.php
+||filmmakinesi.sh/rek-ajax.php
 ||forum.donanimhaber.com/api2/Globalapi/ListProductAdsByMemberId
 ||forum.donanimhaber.com/bundles/banner?
 ||forum.donanimhaber.com/bundles/kelimeReklam?
@@ -641,7 +641,6 @@ evimdergisi.com.tr##.masterhead
 evrimagaci.org##.ads-container
 exceldepo.com##.block.pt-10
 fikirliderleri.com##.vmagazine_lite_medium_ad
-filmmakinesi.de##.ps-head-container
 find.com.tr##.ads-height-250
 find.com.tr##.ads-max-height-600
 find.com.tr##.ads-villa
@@ -930,4 +929,3 @@ yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##.FixedWidget__fixed_widget
 yesilekonomi.com##.header-banner-area
 yildizkisafilm.org##.pppx
-
