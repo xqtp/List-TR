@@ -783,6 +783,8 @@ n11.com##.adProductArea
 n11.com##.header-banner-cover
 nefisyemektarifleri.com##.nokta.no-print
 ntv.com.tr##.dyg-class
+ntv.com.tr##.h-\[250px\]
+ntv.com.tr##.min-h-\[257px\]
 ntv.com.tr##.taboola-class-check
 ntv.com.tr##dyg-masthead
 ntvspor.net##.dyg-display.dyg-class
@@ -931,4 +933,3 @@ yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##.FixedWidget__fixed_widget
 yesilekonomi.com##.header-banner-area
 yildizkisafilm.org##.pppx
-
