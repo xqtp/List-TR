@@ -504,7 +504,7 @@ vsro.org##+js(acs, $, btoa)
 abcgazetesi.com,airporthaber2.com,anadoludabugun.com.tr,arti49.com,bafra55.net,bbnhaber.com.tr,bilecikhaber.com.tr,enerjigunlugu.net,haberciniz.biz,hakkarihabertv.com,hakkariobjektifhaber.com,halktv.com.tr,insaatderyasi.com,kadikoygazetesi.com,karamanhabercisi.com,karar.com,kartalgazetesi.com,kibrispostasi.com,konyaninsesi.com.tr,lojiport.com,magazinkolik.com,marasgundem.com.tr,memleket.com.tr,pudra.com,turkhackteam.org,virahaber.com,yemektekeyifvar.com,yeniasya.com.tr,yeniduzen.com,yurtgazetesi.com.tr##body .banner
 afroditscans.com##+js(aopr, openPopup)
 ahaber.com.tr,apara.com.tr,aspor.com.tr,atv.com.tr,atvavrupa.tv,bafra55.net,enerjigunlugu.net,ereglimetro.com.tr,gazeteguncel.com,kargohaber.com,kemergozcu.com,sabah.com.tr,takvim.com.tr,virahaber.com,yeniasir.com.tr,yeniduzen.com##.advert
-ahaber.com.tr,apara.com.tr,aspor.com.tr,atv.com.tr,atvavrupa.tv,fotomac.com.tr,sabah.com.tr,sofra.com.tr,sosyalhalisaha.com,takvim.com.tr,yeniasir.com.tr##.billBoardFrame
+ahaber.com.tr,apara.com.tr,aspor.com.tr,atv.com.tr,atvavrupa.tv,fotomac.com.tr,sabah.com.tr,sosyalhalisaha.com,takvim.com.tr,yeniasir.com.tr##.billBoardFrame
 ahaber.com.tr,apara.com.tr,aspor.com.tr,fotomac.com.tr,sabah.com.tr,takvim.com.tr,yeniasir.com.tr##.bandReklam
 airlinehaber.com##.custom-html-widget
 airturkhaber.com##.avia-image-container
@@ -536,7 +536,7 @@ aof.tc,bilgihazinem.net,fintechtime.com,gastromagazin.com.tr,havadiskibris.com,i
 apara.com.tr##.ad-control-full
 apara.com.tr##.ad-control-left
 arabam.com##.advertisement
-aspor.com.tr,fotomac.com.tr,inbusiness.com.tr,paradergi.com.tr,sofra.com.tr##.advers-box
+aspor.com.tr,fotomac.com.tr,inbusiness.com.tr,paradergi.com.tr##.advers-box
 atarita.com###tdi_3
 atarita.com###tdi_40
 avmdergi.com##.wpb_single_image
@@ -935,3 +935,4 @@ yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##.FixedWidget__fixed_widget
 yesilekonomi.com##.header-banner-area
 yildizkisafilm.org##.pppx
+
