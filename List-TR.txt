@@ -507,6 +507,8 @@ ahaber.com.tr,apara.com.tr,aspor.com.tr,atv.com.tr,atvavrupa.tv,bafra55.net,ener
 ahaber.com.tr,apara.com.tr,aspor.com.tr,atv.com.tr,atvavrupa.tv,fotomac.com.tr,sabah.com.tr,sofra.com.tr,sosyalhalisaha.com,takvim.com.tr,yeniasir.com.tr##.billBoardFrame
 ahaber.com.tr,apara.com.tr,aspor.com.tr,fotomac.com.tr,sabah.com.tr,takvim.com.tr,yeniasir.com.tr##.bandReklam
 airlinehaber.com##.custom-html-widget
+airturkhaber.com##.avia-image-container
+airturkhaber.com##.header-banner
 ajandakolik.com##.mkdf-top-bar
 ajandakolik.com##[alt="AjandaKolik Reklam"]
 ajansspor.com##.recommended-video
