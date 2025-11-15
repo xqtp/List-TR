@@ -606,10 +606,10 @@ diyetkolik.com##[id*="slot"]
 diyetkolik.com##[style^="min-height:250px;"]
 dizikorea1.com,dizipalv.com,izlekolik.tv,onlinedizi.info,trfilm.net##+js(set, puShown, true)
 dizipala.cam##.body-clickable
-diziyou13.com###diziyouFooter
-diziyou13.com##+js(aopr, player.vroll)
-diziyou13.com##img[width="900"][height="70"]
-diziyou13.com##img[width="1200"][height="70"]
+diziyou.to###diziyouFooter
+diziyou.to##+js(aopr, player.vroll)
+diziyou.to##img[width="900"][height="70"]
+diziyou.to##img[width="1200"][height="70"]
 dolubatarya.com##.bottom_____ads
 dolubatarya.com##.top_____ads
 donanimhaber.com##.tepe-alan
