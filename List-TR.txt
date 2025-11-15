@@ -168,6 +168,7 @@ vsro.org##+js(acs, $, btoa)
 .com/rklm/
 .info/rklm
 .net/rklm/
+.org/rklm/
 .tr/ads/
 /ad-zones.js
 /d/banner/*
@@ -603,7 +604,7 @@ denizlihaber.com##.ap
 diyetkolik.com##.reklamiKaldirLink
 diyetkolik.com##[id*="slot"]
 diyetkolik.com##[style^="min-height:250px;"]
-dizikorea.pw,dizipalv.com,izlekolik.tv,onlinedizi.info,trfilm.net##+js(set, puShown, true)
+dizikorea1.com,dizipalv.com,izlekolik.tv,onlinedizi.info,trfilm.net##+js(set, puShown, true)
 dizipalv.com##.body-clickable
 diziyou13.com###diziyouFooter
 diziyou13.com##+js(aopr, player.vroll)
@@ -935,4 +936,3 @@ yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##.FixedWidget__fixed_widget
 yesilekonomi.com##.header-banner-area
 yildizkisafilm.org##.pppx
-
