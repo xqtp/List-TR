@@ -605,7 +605,7 @@ diyetkolik.com##.reklamiKaldirLink
 diyetkolik.com##[id*="slot"]
 diyetkolik.com##[style^="min-height:250px;"]
 dizikorea1.com,dizipalv.com,izlekolik.tv,onlinedizi.info,trfilm.net##+js(set, puShown, true)
-dizipalv.com##.body-clickable
+dizipala.cam##.body-clickable
 diziyou13.com###diziyouFooter
 diziyou13.com##+js(aopr, player.vroll)
 diziyou13.com##img[width="900"][height="70"]
