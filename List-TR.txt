@@ -562,11 +562,6 @@ bloomberght.com##.adv-news
 bloomberght.com##.masthead-top
 bloomberght.com##.masthead-wrap
 bloomberght.com##section[data-section^="reklam"]
-bomba32.com##.flash-wrapper
-bomba32.com##.fulladds
-bomba32.com##.modulAds
-bomba32.com##.reklam-manset
-bomba32.com##.sag-manset
 breakingbadizle.net##+js(aopr, initAd)
 bthaber.com##.fl-html
 bugunkibris.com##.ad-container
@@ -935,4 +930,3 @@ yenikonya.com.tr,konhaber.com##.rkl
 yesilekonomi.com##.FixedWidget__fixed_widget
 yesilekonomi.com##.header-banner-area
 yildizkisafilm.org##.pppx
-
