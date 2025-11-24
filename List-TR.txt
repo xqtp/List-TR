@@ -485,8 +485,6 @@ vsro.org##+js(acs, $, btoa)
 ||turizmdays.com/images/banner/
 ||turizmekstra.com/images/ads/
 ||turktime.com/banner/
-||webteizle.click/*/malker
-||webteizle.click/i/vid-onu-*.mp4$media,redirect=noopmp3-0.1s
 ||widget.cdn.vidyome.com/builds/loader.js
 ||yabancidizi.tv/v/
 ||yasamoykusu.com/_docs/adds/
