@@ -885,8 +885,8 @@ themagger.com##.side-bnr-list
 timekocaeli.com##.banners-slider
 timekocaeli.com##.tb-posts-slide-widget
 timeturk.com##.adv
-tourmag.com.tr##.elementor-widget-image
-tourmag.com.tr##.widget_media_image
+tourmag.com.tr##.widget-area
+tourmag.com.tr##.widget_text
 trdoktor.com##.reklam_alani
 trendyol.com##.banner
 trendyol.com##div.search-store-ads-container
