@@ -597,7 +597,7 @@ denizlihaber.com##.ap
 diyetkolik.com##.reklamiKaldirLink
 diyetkolik.com##[id*="slot"]
 diyetkolik.com##[style^="min-height:250px;"]
-dizikorea1.com,izlekolik.tv,onlinedizi.info,trfilm.net##+js(set, puShown, true)
+dizikorea2.com,izlekolik.tv,onlinedizi.info,trfilm.net##+js(set, puShown, true)
 diziyou.to###diziyouFooter
 diziyou.to##+js(aopr, player.vroll)
 diziyou.to##img[width="900"][height="70"]
