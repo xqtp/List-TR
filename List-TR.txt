@@ -499,7 +499,7 @@ vsro.org##+js(acs, $, btoa)
 12punto.com.tr##.subNews
 81haber.com##.sadx
 81haber.com##.widget_custom_html
-320volt.com##[rel*="sponsored"]
+320volt.com###custom_html-2
 abcgazetesi.com,airporthaber2.com,anadoludabugun.com.tr,arti49.com,bafra55.net,bbnhaber.com.tr,bilecikhaber.com.tr,enerjigunlugu.net,haberciniz.biz,hakkarihabertv.com,hakkariobjektifhaber.com,halktv.com.tr,insaatderyasi.com,kadikoygazetesi.com,karamanhabercisi.com,karar.com,kartalgazetesi.com,kibrispostasi.com,konyaninsesi.com.tr,lojiport.com,magazinkolik.com,marasgundem.com.tr,memleket.com.tr,pudra.com,turkhackteam.org,virahaber.com,yemektekeyifvar.com,yeniasya.com.tr,yeniduzen.com,yurtgazetesi.com.tr##body .banner
 afroditscans.com##+js(aopr, openPopup)
 ahaber.com.tr,apara.com.tr,aspor.com.tr,atv.com.tr,atvavrupa.tv,bafra55.net,enerjigunlugu.net,ereglimetro.com.tr,gazeteguncel.com,kargohaber.com,kemergozcu.com,sabah.com.tr,takvim.com.tr,virahaber.com,yeniasir.com.tr,yeniduzen.com##.advert
