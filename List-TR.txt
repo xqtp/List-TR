@@ -739,7 +739,8 @@ koinvizyon.com###wp-custom-header
 koinvizyon.com##.afc_popup
 kulaklik.com##.left-right-banner
 leadergamer.com.tr##.ldr-board-row
-linehaber.com.tr##.widget-area
+linehaber.com.tr###left-ad-widget-area
+linehaber.com.tr###right-ad-widget-area
 m5dergi.com##.widget_media_image
 magdergi.com##.wpb_single_image
 mallreport.com.tr##.swiper-slide-inner
