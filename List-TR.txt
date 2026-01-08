@@ -65,6 +65,7 @@
 ||genelajans.com^$third-party
 ||gmgreklam.com^$third-party
 ||gowit.com^$third-party
+||hemenindir.to^
 ||indirads.org^$third-party
 ||inegolreklam.net^$third-party
 ||intermediaworks.com^$third-party
