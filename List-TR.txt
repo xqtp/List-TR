@@ -682,7 +682,7 @@ hangikredi.com##.card--sponsored
 hangikredi.com##.product-list-card_product_list_card__U9t3R.border.border-dark-blue
 hangikredi.com##[style^="--badge-color:#F6A927"]
 havadurumu15gunluk.xyz##.ads_row
-hdfilmcehennemi.ws##[class^="money-"]
+hdfilmcehennemi.nl##[class^="money-"]
 hepsiburada.com##.Ng6fk9sFUymZGcprK15n
 hepsiburada.com##[class*=Advertisement]
 hepsiburada.com##[data-test-id="sponsored-products"]
