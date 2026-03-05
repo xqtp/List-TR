@@ -7,6 +7,7 @@
 ||a.doganburda.com^
 ||ad01.tmgrup.com.tr^
 ||ad-cdn.bilgin.pro^
+||ad-plus.com.tr^$third-party
 ||ad.dline.com.tr^
 ||ad.donanimhaber.com^
 ||ad.reklm.com^
@@ -102,7 +103,6 @@
 ||segmentify.com^$third-party
 ||seldos.com.tr^$third-party
 ||siberreklam.com^
-||ssp.ad-plus.com.tr^$third-party
 ||statbest.in^
 ||stplay.cfd^
 ||tagon.co^$third-party
