@@ -577,9 +577,11 @@ businessnewstr.com##.header-promotion
 businessnewstr.com##.widget_media_image
 canakkalegundem.net##.widget_media_image
 cepde.net##.advertisement
+cimri.com###masthead
 cimri.com###sponsoredProducts
 cimri.com##.o1fRW:has-text(REKLAM)
 cimri.com##div[id^="adslot-"]
+cimri.com##div[id^="body728x90_"]
 cnnturk.com##.adv-wrapper
 cnnturk.com##.cls-edit-kutu
 cnnturk.com,hurriyet.com.tr,milliyet.com.tr##.adv
