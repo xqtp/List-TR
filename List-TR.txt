@@ -580,6 +580,7 @@ cepde.net##.advertisement
 cimri.com###masthead
 cimri.com###sponsoredProducts
 cimri.com##.o1fRW:has-text(REKLAM)
+cimri.com##[class^="OfferCard_offerCard"]:has-text(Reklam)
 cimri.com##div[id*="728x90"]
 cimri.com##div[id^="adslot-"]
 cnnturk.com##.adv-wrapper
