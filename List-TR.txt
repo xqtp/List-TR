@@ -597,7 +597,6 @@ defenceturk.net##.defen-orta
 defenceturk.net##.elementor-widget-image
 defenceturk.net##.ha-slider
 defenceturk.net##.jeg_nav_html
-denizlihaber.com##.ap
 diyetkolik.com##.reklamiKaldirLink
 diyetkolik.com##[id*="slot"]
 diyetkolik.com##[style^="min-height:250px;"]
