@@ -172,6 +172,7 @@ vsro.org##+js(acs, $, btoa)
 .org/rklm/
 .tr/ads/
 /ad-zones.js
+/ad_getter.min.js
 /d/banner/*
 /db/reklamresim/*
 /Depo/Banner/*
