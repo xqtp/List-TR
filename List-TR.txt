@@ -104,7 +104,6 @@
 ||seldos.com.tr^$third-party
 ||siberreklam.com^
 ||statbest.in^
-||stplay.cfd^
 ||tagon.co^$third-party
 ||theadx.com^$third-party
 ||url.isimsepeti.net^
