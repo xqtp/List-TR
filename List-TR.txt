@@ -11,9 +11,7 @@
 ||ad.dline.com.tr^
 ||ad.donanimhaber.com^
 ||ad.reklm.com^
-||ad.yemeksepeti.com^
 ||adbetnetwork.com^$third-party
-||adbreak.cubecdn.net^$third-party
 ||adbreak.net^
 ||addata.exxen.com^
 ||adfor.io^$third-party
@@ -32,16 +30,11 @@
 ||ads724.com^
 ||ads.dogusdigital.com^
 ||ads.dygdigital.com^
-||ads.inegolonline.com^
-||ads.macsonuclari.mobi^
 ||ads.motosiklet.net^
-||ads.pivol.net^
 ||ads.sondakika.com^
 ||ads.web.tr^$third-party
 ||adsby.io^
 ||adserve.donanimhaber.com^
-||adserver.a24.com.tr^
-||adserver.bafrahaber.com^
 ||adsmanagement.atamedyagrubu.com^$3p
 ||adsp.haberturk.com^
 ||adsturk.com^$3p
@@ -50,12 +43,9 @@
 ||app.gelirartisi.com^$third-party
 ||ariyayin.com^$third-party
 ||baglanbize.net^
-||bcvc.mobi^$third-party
 ||bwcdn.xyz^$third-party
 ||bwtsrv.com^$third-party
 ||campaign.nmobs.com^
-||cdn.klasseo.com^$third-party
-||clickmerkez.com^$third-party
 ||cryptosmoke.care^
 ||diken.xyz^
 ||dogus-ads-cdn.dygdigital.com^$third-party
@@ -69,7 +59,6 @@
 ||hemenindir.to^
 ||indirads.org^$third-party
 ||inegolreklam.net^$third-party
-||intermediaworks.com^$third-party
 ||ivr.com.tr^$third-party
 ||kingads2.org^
 ||kingbaba.org^
@@ -80,12 +69,9 @@
 ||metrics34.com^$third-party
 ||mp.subservis.com^
 ||nativespot.com^$third-party
-||nlinks.xyz^
-||numarabiz.com/scr^$third-party
 ||numarapaneli.com^$third-party
 ||pigeoon.com^$third-party
 ||pixad.com.tr^$third-party
-||pophit.net^$third-party
 ||programattik.com^$third-party
 ||publisher-network.com^$third-party
 ||rek.yemlee.com^$third-party
@@ -107,13 +93,9 @@
 ||statbest.in^
 ||tagon.co^$third-party
 ||theadx.com^$third-party
-||url.isimsepeti.net^
 ||venediktaciri.com^$third-party
 ||virgul.com^$third-party
-||yedimedia.net^$third-party
-||yelads2.life^
 ||yonderdim.com^
-||youtubesave.org^
 !
 ! ---------- Allowlist ----------
 !
