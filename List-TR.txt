@@ -103,6 +103,7 @@
 ||segmentify.com^$third-party
 ||seldos.com.tr^$third-party
 ||siberreklam.com^
+||stads.cfd^
 ||statbest.in^
 ||tagon.co^$third-party
 ||theadx.com^$third-party
