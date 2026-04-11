@@ -140,7 +140,6 @@ ozbeceriksizler.com##+js(nostif, displayMessage)
 themagger.com##.adg-fixed
 vsro.org##+js(acs, $, btoa)
 ||beceriksizler.net/clientscript/yilmazantiadblockvb4.js
-||exceldepo.com/js/XV/optimal.min.js
 ||merlininkazani.com/js/abdetector.script.min.js
 !
 ! ---------- General Block ----------
