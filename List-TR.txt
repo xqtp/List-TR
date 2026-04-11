@@ -11,7 +11,6 @@
 ||ad.dline.com.tr^
 ||ad.donanimhaber.com^
 ||ad.reklm.com^
-||adbetnetwork.com^$third-party
 ||adbreak.net^
 ||addata.exxen.com^
 ||adfor.io^$third-party
