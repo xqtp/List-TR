@@ -116,30 +116,8 @@ trlyrics.com#@#.reklam
 !
 ###kanews-modal-adblock
 @@||akormatik.com/pages/song/AdManager.min.js
-@@||exxen.com^$generichide
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=exxen.com
-@@||puhutv.com/banner-ad*.png
-aktuelsanat.net,aof.tc,askeribirlikler.com,evdealmanca.com,keylerbenden.com,kriptoup.com,tgyama.com,voleybolmagazin.com##+js(set, tie.ad_blocker_detector, '')
-ankarakampkafasi.com,betabuff.com,birsenaltuntas.com,blog.teknokesif.com.tr,gizemlidunyam.com,hasanyildiz.com,her-sey.net,inceleriz.com,karliisfikirleri.com,menufiyatlari.com.tr##.ad_block_detected:style(overflow: auto !important;)
-ankarakampkafasi.com,betabuff.com,birsenaltuntas.com,blog.teknokesif.com.tr,gizemlidunyam.com,her-sey.net,inceleriz.com,karliisfikirleri.com,menufiyatlari.com.tr##.adblockalert
-cioupdate.com.tr,tgyama.com##+js(set, tie.ad_blocker_disallow_images_placeholder, '')
-eczacidergisi.com.tr,kibrisraporu.com,thegamerstation.com##.mfp-bg
-eczacidergisi.com.tr,kibrisraporu.com,thegamerstation.com##.mfp-wrap
-eczacidergisi.com.tr,kibrisraporu.com,thegamerstation.com##html:style(overflow: auto !important;)
-exxen.com##+js(set, eyeOfErstream.detectedBloke, falseFunc)
-forumchess.com.tr##+js(no-xhr-if, googlesyndication)
-huawei-turkiye.com##.XGT-AdBlock-Govde
-kanald.com.tr#@##ad-lead
-kanald.com.tr#@##AD_Top
-kanald.com.tr#@##AdHeader
-kanald.com.tr#@##homead
-kanald.com.tr#@#.adv-right
-karnaval.com##+js(set, adblock_active, false)
 oyungemisi.com##.slot-container
-ozbeceriksizler.com##+js(nostif, displayMessage)
 themagger.com##.adg-fixed
-vsro.org##+js(acs, $, btoa)
-||beceriksizler.net/clientscript/yilmazantiadblockvb4.js
 ||merlininkazani.com/js/abdetector.script.min.js
 !
 ! ---------- General Block ----------
