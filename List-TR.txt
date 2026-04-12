@@ -98,7 +98,6 @@
 !
 ! ---------- Allowlist ----------
 !
-@@||sihirlitur.com/otomobil/reklamlar
 @@||trakel.org/*/image_resize.php?ad=
 @@||trakus.org/*/image_resize.php?ad=
 @@||tramem.org/*/image_resize.php?ad=
@@ -369,16 +368,12 @@ themagger.com##.adg-fixed
 ! ---------- Specific Block ----------
 !
 ||airportmediagroup.com/banners/
-||akhisarhaber.com/reklam
 ||almanyabulteni.de/modules/custom/ab_banner/
 ||app.igfhaber.com/netasync.js
 ||avantajix.com/images/$domain=forum.donanimhaber.com
 ||aydinyeniufuk.com.tr/images/reklam/
 ||ayisozluk.com/reklamlogo/
-||bigatribun.net/wp-content/plugins/bdthemes-element-pack/assets/js/modules/ep-modal.min.js
-||bigatribun.net/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/owl-carousel-new/owl.carousel.min.js
 ||bilgisayarbilisim.net/destek/$image
-||biomedya.com/uploads/bannerlar/
 ||bisikletforum.com/styles/sponsor/
 ||bizimizmir.net/images_reklam/
 ||bolununsesi.com/ilangorsel/
@@ -392,7 +387,6 @@ themagger.com##.adg-fixed
 ||egeninsesi.com/system/ads/
 ||ekonomiknokta.com/upload/html-content/
 ||ekonomimanset.com/api/ads
-||emlaktasondakika.com/html_banner/
 ||fikriyat.com/js/advertisements
 ||files.mc-tr.com/ads/
 ||filmmakinesi.sh/rek-ajax.php
@@ -402,8 +396,6 @@ themagger.com##.adg-fixed
 ||forum.sordum.net/images/banner/
 ||forum.turkmmo.com/banner/
 ||fuaraktuel.com/Uploads/Banners/
-||geo.dailymotion.com/player/$domain=ajansspor.com
-||guncelprojebilgileri.com/html_banner
 ||haber18.com/canbunlar/
 ||haberkibris.com/banner
 ||hepsiburada.net/hepsiads/
@@ -420,25 +412,15 @@ themagger.com##.adg-fixed
 ||konhaber.com/sahifeler/rkl/
 ||labmedya.com/*/__afis/
 ||labmedya.com/uploads/bannerlar/
-||labmedya.com/uploads/firmalar/$image
 ||macellan.online/allads/
-||magazinizmir.com/reklam_yonetimi/
 ||makroo.haber7.net/creative/
-||malatyaguncel.com/d/mguncels/
-||mallreport.com.tr/wp-content/plugins/popup-builder/
-||memurlar.net/common/widget-image^
 ||mykibris.com/static/js/ads.js
 ||oggito.com/images/ads/
-||okul.com.tr/assets/images/campaigns/
 ||ototeknikveri.com/Advert/GetRandomAdvert
 ||ototeknikveri.com/VField/GetOtoTeknikDisplayAd
-||plantdergisi.com/dosyalar/site_resim/banner/
-||play.dizigom1.live/*/plugins/vast/v/*/vast.js
 ||psmmag.com/api/ads
 ||ranini.tv/banner/
 ||sigortagundem.com/api/ads
-||sporx.com/_iframe/mac-merkezi/scoreboard_bilyoner.php
-||sporx.com/tv/_iframe/embed_video_ysx.php?
 ||static.haber8.pro/reklam8.js
 ||storage.oyungezer.com.tr/ogz-public/ads/
 ||tarimca.com.tr/wp-content/plugins/halfdata-green-popups/js/lepopup.js
@@ -447,8 +429,6 @@ themagger.com##.adg-fixed
 ||turktime.com/banner/
 ||widget.cdn.vidyome.com/builds/loader.js
 ||yabancidizi.tv/v/
-||yasamoykusu.com/_docs/adds/
-||yenimeram.com.tr/uploads/banner/
 ||yesilhaber.net/banners/
 !
 ! ---------- Specific Hide ----------
