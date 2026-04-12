@@ -389,7 +389,7 @@ themagger.com##.adg-fixed
 ||ekonomimanset.com/api/ads
 ||fikriyat.com/js/advertisements
 ||files.mc-tr.com/ads/
-||filmmakinesi.sh/rek-ajax.php
+||filmmakinesi.to/rek-ajax.php?
 ||forum.donanimhaber.com/api2/Globalapi/ListProductAdsByMemberId
 ||forum.donanimhaber.com/bundles/banner?
 ||forum.donanimhaber.com/bundles/kelimeReklam?
