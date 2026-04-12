@@ -368,7 +368,7 @@ themagger.com##.adg-fixed
 ! ---------- Specific Block ----------
 !
 ||airportmediagroup.com/banners/
-||almanyabulteni.de/modules/custom/ab_banner/
+||almanyabulteni.de/api/banner-list
 ||app.igfhaber.com/netasync.js
 ||avantajix.com/images/$domain=forum.donanimhaber.com
 ||aydinyeniufuk.com.tr/images/reklam/
