@@ -428,7 +428,7 @@ themagger.com##.adg-fixed
 ||turizmekstra.com/images/ads/
 ||turktime.com/banner/
 ||widget.cdn.vidyome.com/builds/loader.js
-||yabancidizi.tv/v/
+||yabancidizi.so/v/
 ||yesilhaber.net/banners/
 !
 ! ---------- Specific Hide ----------
