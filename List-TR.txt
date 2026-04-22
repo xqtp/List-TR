@@ -439,7 +439,6 @@ themagger.com##.adg-fixed
 12punto.com.tr##.subNews
 81haber.com##.sadx
 81haber.com##.widget_custom_html
-320volt.com###custom_html-2
 afroditscans.com##+js(aopr, openPopup)
 airporthaber2.com,arti49.com,bafra55.net,bilecikhaber.com.tr,enerjigunlugu.net,haberciniz.biz,hakkarihabertv.com,hakkariobjektifhaber.com,halktv.com.tr,insaatderyasi.com,karamanhabercisi.com,karar.com,kibrispostasi.com,lojiport.com,magazinkolik.com,marasgundem.com.tr,memleket.com.tr,turkhackteam.org,virahaber.com,yemektekeyifvar.com,yeniasya.com.tr,yeniduzen.com,yurtgazetesi.com.tr##body .banner
 ahaber.com.tr,apara.com.tr,aspor.com.tr,atv.com.tr,atvavrupa.tv,bafra55.net,enerjigunlugu.net,ereglimetro.com.tr,gazeteguncel.com,kargohaber.com,kemergozcu.com,sabah.com.tr,takvim.com.tr,virahaber.com,yeniasir.com.tr,yeniduzen.com##.advert
