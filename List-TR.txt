@@ -782,10 +782,6 @@ secretcv.com##img[width="1000"][height="100"]
 seriilan.hurriyet.com.tr##.fBnr
 shiftdelete.net###masthead-container
 shiftdelete.net###sidebarslot1
-sigortacigazetesi.com.tr##img[width="1000"][height="160"]
-sigortacigazetesi.com.tr##img[width="1120"][height="90"]
-sigortacigazetesi.com.tr##img[width="1220"][height="110"]
-sigortacigazetesi.com.tr##img[width="1220"][height="120"]
 sigortadunyasi.com.tr##.widget_block
 sikayetvar.com##.promo-banner
 socratesdergi.com##.AdBanner_base__uwf0k
