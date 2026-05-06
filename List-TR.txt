@@ -358,7 +358,7 @@ themagger.com##.adg-fixed
 ||cdn.e-devlet.gov.tr/themes/ankara/js/analitik.min.*.js
 ||cdn.empower.net/sdk/CometSDK.min.js
 ||cdn.empower.net/sdk/CometSDKWorker.min.js
-||images.hepsiburada.net/webtrekk/webtrekk.js
+||images.hepsiburada.net/*/webtrekk/webtrekk.js
 ||sahibinden.com/assets/analytics:1.js
 ||sahibinden.com/rum/
 ||shbdn.com/rum/cp.js
