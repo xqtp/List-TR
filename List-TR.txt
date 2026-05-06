@@ -623,9 +623,9 @@ hangikredi.com##[style^="--badge-color:#F6A927"]
 havadurumu15gunluk.xyz##.ads_row
 hdfilmcehennemi.nl##[class^="money-"]
 hepsiburada.com##.Ng6fk9sFUymZGcprK15n
-hepsiburada.com##[class*=Advertisement]
-hepsiburada.com##[data-test-id="sponsored-products"]
+hepsiburada.com##.RiIJbDHibUtEaVtZxrw_
 hepsiburada.com##[id^="recommendation-item_page.web-rank"]
+hepsiburada.com##div[id^="Advertisement_"]
 hesaplama.net##.mad
 hisse.net##.adv-col
 hurriyet.com.tr##.advMasthead
