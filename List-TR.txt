@@ -455,6 +455,7 @@ ajansspor.com##.sidebar-cla
 ajansspor.com,ekonomist.com.tr,kanald.com.tr##.masthead
 akakce.com###billboard_wrapper
 akakce.com##.billboard_content
+akakce.com##.leaderboard_ad
 akorlar.com###masaustu
 aksam.com.tr##.mainMastheadBg
 aksam.com.tr##[style="height:260px;margin:0 auto;text-align:center"]
