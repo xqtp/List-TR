@@ -45,6 +45,7 @@
 ||bwcdn.xyz^$third-party
 ||bwtsrv.com^$third-party
 ||campaign.nmobs.com^
+||cdn.quantum-jquery.com^
 ||cryptosmoke.care^
 ||diken.xyz^
 ||dogus-ads-cdn.dygdigital.com^$third-party
@@ -87,6 +88,7 @@
 ||revotas.com^$third-party
 ||segmentify.com^$third-party
 ||seldos.com.tr^$third-party
+||sepetteknoloji.com^$3p
 ||siberreklam.com^
 ||stads.cfd^
 ||statbest.in^
