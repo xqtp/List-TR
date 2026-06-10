@@ -139,7 +139,7 @@ themagger.com##.adg-fixed
 /dosya/reklam/*
 /files/uploads/advert/*
 /images/general/advert-
-/images/money/*
+/images/money/*$domain=~migros.com.tr
 /images/reklam/advert-
 /img/rek/*
 /modules/adblock/*
