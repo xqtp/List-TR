@@ -542,7 +542,7 @@ defenceturk.net##.jeg_nav_html
 diyetkolik.com##.reklamiKaldirLink
 diyetkolik.com##[id*="slot"]
 diyetkolik.com##[style^="min-height:250px;"]
-dizikorea3.com,izlekolik.tv,onlinedizi.sbs,trfilm.net##+js(set, puShown, true)
+dizikorea3.com,onlinedizi.sbs,trfilm.net##+js(set, puShown, true)
 diziyou.one###diziyouFooter
 diziyou.one##+js(aopr, player.vroll)
 diziyou.one##img[width="900"][height="70"]
@@ -655,10 +655,6 @@ itemci.com##.mpy__container-banner
 itemci.com##.pvpAdvertRow
 itemci.com##body:style(overflow: auto !important; position: static !important;)
 itemsatis.com##.itemsatis-header-banner.video-element
-izlekolik.tv###activeFrontVid
-izlekolik.tv###onp
-izlekolik.tv##+js(aopw, adx)
-izlekolik.tv##[alt="ads"]
 kadikoylife.com##.widget_media_image
 kadikoylife.com##.wp-image-102278
 kadikoylife.com##.wp-image-106843
