@@ -119,7 +119,6 @@ trlyrics.com#@#.reklam
 @@||akormatik.com/pages/song/AdManager.min.js
 oyungemisi.com##.slot-container
 themagger.com##.adg-fixed
-||merlininkazani.com/js/abdetector.script.min.js
 !
 ! ---------- General Block ----------
 !
@@ -694,8 +693,6 @@ memurlar.net##.widget-300x600
 memurlar.net##.widget-336x280
 memurlar.net##.widget-580x400
 memurlar.net##a.item[target="_widget"]
-merlininkazani.com##.leader-board-row
-merlininkazani.com##[style="display:block; margin: 0 auto; min-height:384px!important;"]
 milliyet.com.tr##.topBandBanner
 mitula.com.tr##.afsContainer
 mmotutkunlari.com##.tanitim_alani
