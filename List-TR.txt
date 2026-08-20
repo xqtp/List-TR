@@ -8,6 +8,7 @@
 ||ad01.tmgrup.com.tr^
 ||ad-cdn.bilgin.pro^
 ||ad-plus.com.tr^$third-party
+||ad-v2.bilgin.pro^
 ||ad.dline.com.tr^
 ||ad.donanimhaber.com^
 ||ad.reklm.com^
