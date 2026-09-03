@@ -102,7 +102,6 @@
 ! ---------- Allowlist ----------
 !
 @@||trakel.org/*/image_resize.php?ad=
-@@||trakus.org/*/image_resize.php?ad=
 @@||tramem.org/*/image_resize.php?ad=
 burdurweb.com#@#.adm-ads-area
 hepsinefis.com#@#.vertical-ads
