@@ -86,6 +86,7 @@
 ||reklamdor.com^$third-party
 ||reklamnative.com^$third-party
 ||reklamstore.com^$third-party
+||reklamup.com^$third-party
 ||revotas.com^$third-party
 ||segmentify.com^$third-party
 ||seldos.com.tr^$third-party
