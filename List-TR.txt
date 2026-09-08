@@ -645,16 +645,6 @@ ilacrehberi.com##.ads_r
 ilacrehberi.com##.frr_1
 istanbulticaretgazetesi.com##.ads-click
 istegundem.com##.secondswiper--right
-itemci.com##+js(nano-sib, advert, *, 0.001)
-itemci.com##.banner-section
-itemci.com##.fade.show:empty
-itemci.com##.llgs-522x320
-itemci.com##.modal#modalContentContent
-itemci.com##.modal#siteLoginContentContent
-itemci.com##.mpy__banners-small_container
-itemci.com##.mpy__container-banner
-itemci.com##.pvpAdvertRow
-itemci.com##body:style(overflow: auto !important; position: static !important;)
 itemsatis.com##.itemsatis-header-banner.video-element
 kadikoylife.com##.widget_media_image
 kadikoylife.com##.wp-image-102278
