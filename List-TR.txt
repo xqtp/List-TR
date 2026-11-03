@@ -599,7 +599,6 @@ forum.donanimhaber.com##[id^="dha_"]
 forum.donanimhaber.com##a[onclick^="adThisAfterSet"]
 forum.donanimhaber.com##div.page-between-box
 forum.gamer.com.tr##.gamer-ads-container
-forum.shiftdelete.net###header-container
 fuarzamani.com###Reklam
 fullhdfilmizlesene.live##.orta:style(margin-top: 0px !important)
 gastromagazin.com.tr##.elementor-widget-image
@@ -767,8 +766,8 @@ secretcv.com##.banner-area
 secretcv.com##.sponsored-job
 secretcv.com##img[width="1000"][height="100"]
 seriilan.hurriyet.com.tr##.fBnr
-shiftdelete.net###masthead-container
-shiftdelete.net###sidebarslot1
+shiftdelete.net###header-container
+shiftdelete.net##.sd-ad
 sigortadunyasi.com.tr##.widget_block
 sikayetvar.com##.promo-banner
 socratesdergi.com##.AdBanner_base__uwf0k
