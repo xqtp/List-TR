@@ -104,7 +104,6 @@
 !
 @@||trakel.org/*/image_resize.php?ad=
 @@||tramem.org/*/image_resize.php?ad=
-burdurweb.com#@#.adm-ads-area
 hepsinefis.com#@#.vertical-ads
 horseturk.com#@#.reklam
 neskici.com#@##reklam
@@ -512,8 +511,6 @@ bugunkibris.com##[class^="Adv-"]
 bugunkibris.com##img[width="300px"][height="169px"]
 bugunkibris.com##img[width="700px"][height="90px"]
 bugunkibris.com##img[width="720px"][height="90px"]
-burdurweb.com##+js(refresh-defuser)
-burdurweb.com##^meta[http-equiv="refresh"]
 businessmed.com.tr###bunyad-widget-ads-10
 businessmed.com.tr##.the-banner
 businessnewstr.com##.header-promotion
