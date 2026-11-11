@@ -132,14 +132,14 @@ themagger.com##.adg-fixed
 .tr/ads/
 /ad-zones.js
 /ad_getter.min.js
-/d/banner/*
+/d/banner/
 /db/reklamresim/*
 /Depo/Banner/*
 /dimg/banner/*
 /dosya/reklam/*
 /files/uploads/advert/*
 /images/general/advert-
-/images/money/*$domain=~migros.com.tr
+/images/money/$domain=~migros.com.tr
 /images/reklam/advert-
 /img/rek/*
 /modules/adblock/*
