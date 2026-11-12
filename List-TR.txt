@@ -131,7 +131,7 @@ themagger.com##.adg-fixed
 .tr/ads/
 /ad-zones.js
 /ad_getter.min.js
-/d/banner/
+/d/banner/*
 /db/reklamresim/*
 /Depo/Banner/*
 /dimg/banner/*
