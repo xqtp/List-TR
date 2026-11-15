@@ -498,7 +498,6 @@ bigatribun.net##.wp-image-26035
 bigatribun.net##.wp-image-26040
 biletall.com,obilet.com##.flight-journey
 biletall.com,obilet.com##.journey-flight
-birgun.net##.adsmasthead
 bloomberght.com##.adv-news
 bloomberght.com##.masthead-top
 bloomberght.com##.masthead-wrap
