@@ -30,6 +30,7 @@
 ||ads724.com^
 ||ads.dogusdigital.com^
 ||ads.dygdigital.com^
+||ads.kulga.com.tr^
 ||ads.motosiklet.net^
 ||ads.sondakika.com^
 ||ads.web.tr^$third-party
